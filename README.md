@@ -112,11 +112,7 @@ Target users:
 
 
 
-![Finance Overview](Screenshots/Finance_Dashboard_Overview.png)
-![Finance Analytics](Screenshots/Finance_Dashboard_Analytics.png)
-![Finance Report](Screenshots/Finance_Dashboard_Report.png)
-![OEE Dashboard](Screenshots/OEE.png)
-
+![Finance Overview](https://github.com/Naveen715643/Business-Finance-OEE-Dashboard/tree/main/Business%20Finance%20OEE%20Dashboard%20Screenshots)
 
 ## 💡 Key Insights Generated
 
