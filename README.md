@@ -133,7 +133,7 @@ This solution helps organizations:
 
 
 ## 📂 Files
-![Power BI File]
+![Power BI File](https://github.com/Naveen715643/Business-Finance-OEE-Dashboard/blob/main/Business%20Finance%20OEE%20Dashboard.pbit)
 
 
 ## 📂 Datasets
