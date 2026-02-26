@@ -1,0 +1,1001 @@
+Date,Machine_ID,Maintenance_Type,Maintenance_Cost,Downtime_Minutes,Maintenance_Backlog_Count,Spare_Part_Name,Spare_Part_Stock,Breakdown_Reason,MTBF (hours),MTTR (hours),Next_Service_Date,Technician_Name,Technician_Score
+28-07-2024,M003,Preventive,1925,259,3,Sensor,49,Electrical Fault,963,8.02,22-09-2024,Courtney Brown,3
+11-02-2024,M005,Preventive,2078,150,2,Sensor,39,Wear,714,1.71,05-04-2024,Shawn Sanchez,3
+25-06-2023,M002,Preventive,1259,280,0,Belt,61,Overload,699,3.25,25-07-2023,Philip Mayo,3
+26-02-2023,M003,Preventive,2843,277,1,Gearbox,23,Electrical Fault,163,4.94,27-04-2023,Vincent Gonzales,2
+04-09-2022,M004,Preventive,4806,181,1,Motor,36,Overload,192,9.56,07-11-2022,Kaylee Grant,1
+03-12-2023,M001,Preventive,2531,69,3,Belt,34,Wear,935,2.05,08-01-2024,Michael Holt,4
+31-07-2022,M003,Preventive,2043,124,3,Bearing,87,None,540,6.95,03-10-2022,Dave Webb,1
+13-04-2025,M003,Preventive,4826,61,0,Bearing,72,Electrical Fault,898,8.64,29-06-2025,David Washington,1
+02-07-2023,M005,Preventive,3372,102,0,Motor,62,None,532,7.83,20-08-2023,Alisha Robinson,4
+02-10-2022,M004,Preventive,631,290,4,Gearbox,41,Overload,882,2.27,11-11-2022,Matthew Roberts,5
+31-07-2022,M001,Reactive,3236,197,4,Motor,43,Overload,996,3.57,02-09-2022,Karen Gomez,2
+05-06-2022,M004,Preventive,1676,239,2,Gearbox,44,Wear,624,6.9,07-08-2022,Jesse Ward,2
+30-07-2023,M001,Preventive,3549,169,3,Sensor,79,Electrical Fault,198,4.23,27-09-2023,David Norman,2
+14-01-2024,M001,Preventive,4291,289,1,Gearbox,28,Electrical Fault,928,7.58,30-03-2024,Andrea Diaz,3
+25-06-2023,M004,Reactive,2321,84,2,Sensor,45,None,648,3.45,05-09-2023,Daniel Ward,1
+29-05-2022,M002,Reactive,3253,34,3,Sensor,54,Electrical Fault,777,8.87,06-07-2022,Russell Gordon,3
+07-01-2024,M003,Reactive,1496,272,0,Gearbox,68,Overload,225,1.6,01-04-2024,Elizabeth Zamora,2
+08-12-2024,M004,Reactive,3465,113,3,Gearbox,14,Overload,880,2.58,20-02-2025,Nancy Vang,5
+25-09-2022,M002,Preventive,1739,167,1,Belt,34,Wear,624,2.24,08-11-2022,Michael Dougherty,2
+01-10-2023,M002,Preventive,4087,218,2,Gearbox,72,None,395,9.83,21-11-2023,Angela Morgan,2
+11-09-2022,M004,Preventive,3262,148,1,Gearbox,5,Electrical Fault,249,3.62,21-10-2022,Michael Proctor,4
+03-11-2024,M001,Preventive,2138,52,2,Gearbox,26,Wear,368,9.33,29-12-2024,Crystal Cook,2
+23-10-2022,M004,Preventive,3814,98,2,Gearbox,21,None,383,2.9,23-12-2022,Zachary Allen,5
+27-08-2023,M005,Reactive,4579,262,2,Sensor,60,None,130,8.48,23-11-2023,Kimberly Wallace,3
+03-11-2024,M001,Reactive,4369,270,4,Gearbox,15,None,992,4.86,10-12-2024,Daniel Hunter,2
+25-12-2022,M005,Reactive,3495,49,1,Belt,78,Overload,251,3.29,23-03-2023,Laura Weaver,3
+12-05-2024,M004,Preventive,3842,284,0,Belt,38,None,721,7.12,10-07-2024,Paul Reed,5
+15-12-2024,M003,Reactive,2761,288,0,Sensor,50,Overload,766,9.88,08-02-2025,Anne Diaz,4
+31-12-2023,M003,Reactive,2218,195,2,Sensor,18,None,688,2.9,22-02-2024,Tyler Roberts,4
+25-02-2024,M001,Reactive,1130,64,4,Sensor,8,None,152,1.1,29-04-2024,Mrs. Allison Palmer,1
+04-09-2022,M005,Preventive,4520,216,3,Motor,67,Overload,461,7.45,16-11-2022,Melissa Carpenter,5
+26-06-2022,M001,Preventive,2964,48,3,Sensor,20,Wear,153,1.23,28-08-2022,Jenna Velasquez,2
+01-05-2022,M001,Preventive,590,269,1,Motor,37,None,306,7.8,12-07-2022,Heather Rose,5
+29-12-2024,M003,Preventive,2752,119,3,Gearbox,73,Overload,416,9.34,05-02-2025,Valerie Matthews,2
+27-08-2023,M003,Reactive,806,176,4,Belt,41,Wear,122,1.55,17-10-2023,Hailey Jordan,1
+09-10-2022,M004,Reactive,3448,32,1,Sensor,18,Wear,247,4.79,14-12-2022,Mario Hall,4
+17-07-2022,M003,Preventive,3925,287,3,Bearing,24,None,683,1.44,20-08-2022,Lisa Wade,4
+25-09-2022,M003,Preventive,1373,52,4,Gearbox,79,Overload,339,8.76,02-11-2022,Laura Duran,4
+14-04-2024,M003,Preventive,2196,121,1,Sensor,69,Wear,308,1.02,18-06-2024,Nathaniel Fox,5
+10-11-2024,M004,Preventive,3393,290,0,Gearbox,61,None,561,7.53,13-01-2025,Omar Brown,5
+02-06-2024,M002,Preventive,1070,138,2,Gearbox,13,Wear,627,1.92,10-08-2024,Robin Calderon,1
+16-06-2024,M004,Preventive,2367,105,0,Gearbox,94,Wear,777,3.04,15-08-2024,David Zamora,2
+01-09-2024,M002,Preventive,2511,219,0,Motor,5,Overload,769,3.05,06-11-2024,Timothy Alvarado,5
+25-02-2024,M004,Preventive,854,180,1,Belt,78,Wear,485,5.85,26-04-2024,Taylor Williams,5
+19-11-2023,M005,Reactive,2936,32,4,Sensor,64,Wear,936,3.84,13-01-2024,Julia Barrett,1
+27-11-2022,M002,Preventive,972,287,3,Motor,38,None,221,3.88,23-02-2023,Dr. Christopher Davis,1
+18-02-2024,M003,Reactive,1481,142,0,Sensor,94,Electrical Fault,415,5.45,01-05-2024,Daniel Moore,5
+06-04-2025,M003,Preventive,3756,67,1,Sensor,28,Wear,660,9.25,06-05-2025,Lauren Hoffman,4
+29-05-2022,M003,Preventive,1462,134,0,Gearbox,57,Electrical Fault,822,4.05,07-07-2022,Alison Randall,3
+08-10-2023,M002,Preventive,4944,195,3,Motor,66,Overload,891,8.13,20-12-2023,Frank Wall,5
+04-02-2024,M004,Preventive,2610,197,1,Gearbox,49,Wear,658,6.11,21-04-2024,Gregory Silva,4
+15-05-2022,M002,Preventive,1135,271,3,Belt,18,Overload,895,3.37,20-07-2022,Katherine Thompson,2
+30-07-2023,M001,Preventive,3321,132,1,Belt,69,None,511,9.17,20-09-2023,Stacey Wilson,3
+23-07-2023,M003,Preventive,3625,219,4,Bearing,66,None,809,1.04,12-09-2023,Mr. David Lewis Jr.,3
+02-10-2022,M003,Preventive,4848,138,4,Motor,13,Electrical Fault,608,4.68,13-11-2022,Joel Oliver,2
+19-05-2024,M005,Reactive,825,60,3,Belt,25,Wear,980,7.84,20-06-2024,Heather Schneider,5
+27-11-2022,M005,Reactive,1349,147,4,Motor,14,Overload,232,2.86,24-02-2023,Christopher Snyder,2
+31-12-2023,M004,Preventive,1057,277,2,Gearbox,82,Wear,968,9.12,12-02-2024,Laurie Jackson,2
+23-06-2024,M002,Preventive,1728,193,1,Bearing,43,Electrical Fault,266,7.75,16-08-2024,Ana Matthews,1
+10-12-2023,M003,Reactive,1202,124,3,Belt,6,None,190,7.96,20-02-2024,Matthew Shah,5
+03-12-2023,M005,Preventive,3486,186,2,Sensor,36,Overload,198,9.27,19-01-2024,Lydia Bennett,5
+11-06-2023,M005,Reactive,1356,148,4,Belt,37,Electrical Fault,152,5.06,24-07-2023,Ashley Coleman,2
+05-11-2023,M005,Preventive,689,161,0,Motor,65,None,322,3.54,13-01-2024,Maria Padilla,3
+14-05-2023,M005,Preventive,1193,164,0,Gearbox,82,Electrical Fault,474,1.16,01-08-2023,Julia Jennings,4
+04-09-2022,M005,Preventive,1107,83,4,Sensor,27,Electrical Fault,443,2.08,13-11-2022,Michelle Nelson,4
+12-05-2024,M001,Reactive,1972,47,2,Belt,9,Wear,533,4.41,04-08-2024,Karen Shea,1
+12-06-2022,M002,Preventive,1039,34,0,Bearing,57,Electrical Fault,520,5.39,21-07-2022,Kayla Hall,1
+28-07-2024,M004,Reactive,4349,133,2,Bearing,35,Electrical Fault,176,6.08,09-10-2024,Daniel Bullock,4
+16-06-2024,M001,Preventive,2021,168,1,Motor,67,None,980,2.12,21-08-2024,Robert Fields,1
+13-04-2025,M002,Preventive,3053,130,4,Sensor,25,Overload,482,1.24,21-06-2025,Jennifer Sutton,2
+26-01-2025,M002,Reactive,3421,140,3,Motor,10,Wear,303,4.06,06-04-2025,Kristie Dominguez,1
+09-07-2023,M004,Preventive,954,182,3,Gearbox,40,Electrical Fault,596,9.3,02-10-2023,Melissa Bowers,2
+27-04-2025,M001,Preventive,950,143,1,Sensor,76,Overload,357,9.14,06-07-2025,Daniel Stevens,5
+09-03-2025,M001,Preventive,3749,134,0,Motor,91,Overload,258,8.5,26-04-2025,Regina Costa,4
+09-06-2024,M001,Reactive,3338,239,3,Sensor,79,Overload,946,6.25,10-07-2024,Robert Cook,5
+10-07-2022,M004,Preventive,4161,249,4,Gearbox,37,None,800,5.94,19-08-2022,Erin Davis,4
+11-08-2024,M002,Preventive,4777,223,2,Motor,82,None,929,7.82,22-09-2024,Lori Woodward,1
+20-08-2023,M005,Preventive,2598,195,0,Motor,89,Electrical Fault,179,6.73,13-10-2023,Matthew Wilson,5
+12-11-2023,M001,Preventive,4829,292,0,Gearbox,42,Electrical Fault,926,5.57,13-01-2024,Tyler Nielsen DDS,5
+29-09-2024,M003,Reactive,2502,78,3,Belt,94,Overload,142,3.98,02-11-2024,Daniel Santos,2
+10-11-2024,M005,Reactive,2883,211,3,Sensor,8,Overload,895,3.21,21-12-2024,Kenneth Torres,1
+21-01-2024,M005,Preventive,3580,228,2,Motor,50,Wear,135,6.69,27-02-2024,Anthony Elliott,4
+19-11-2023,M003,Preventive,2730,289,3,Belt,88,None,776,2.7,09-01-2024,Robert Stewart,1
+10-11-2024,M003,Preventive,4567,253,1,Motor,42,Electrical Fault,757,8.75,31-12-2024,Jared Howard,4
+11-12-2022,M001,Preventive,982,116,2,Motor,31,Overload,337,2.1,22-01-2023,Elizabeth Wolfe,4
+21-05-2023,M004,Preventive,2977,132,3,Bearing,92,Overload,422,7.6,05-07-2023,Summer Norris,5
+18-08-2024,M003,Reactive,2080,60,0,Motor,71,Wear,728,6.8,21-10-2024,Jennifer Reyes,4
+02-06-2024,M005,Preventive,3723,165,4,Motor,41,Electrical Fault,830,4.44,31-07-2024,Stanley Mcmillan,3
+19-02-2023,M001,Reactive,3740,279,0,Sensor,75,Wear,110,5.75,30-04-2023,Mrs. Katherine Beasley,5
+29-12-2024,M002,Preventive,1421,120,3,Bearing,70,Overload,802,7.8,06-03-2025,Brandy Williams,1
+09-02-2025,M004,Preventive,3073,233,2,Gearbox,72,Wear,919,5.31,17-04-2025,Michelle Moreno,3
+02-04-2023,M001,Preventive,2778,167,4,Motor,98,Overload,774,7.92,18-06-2023,Justin Singleton,5
+03-09-2023,M005,Preventive,1536,206,4,Bearing,48,None,557,8.72,25-11-2023,Emma Webb,2
+01-01-2023,M004,Preventive,2608,190,2,Gearbox,23,None,755,4.13,16-03-2023,Pamela Jones,4
+01-09-2024,M003,Preventive,1493,216,3,Belt,47,Electrical Fault,723,2.4,15-10-2024,Taylor Norton,5
+21-01-2024,M002,Preventive,1059,186,0,Belt,75,Wear,206,6.98,14-03-2024,Vanessa Jordan,1
+28-07-2024,M001,Preventive,4389,221,1,Bearing,52,Electrical Fault,631,2.91,13-09-2024,Thomas Spencer,2
+26-06-2022,M003,Reactive,3909,136,0,Belt,9,Wear,968,1.54,17-09-2022,Brittany Howell,5
+01-12-2024,M004,Preventive,3867,241,0,Motor,64,Overload,831,6.51,05-01-2025,Lindsey Moore,1
+21-08-2022,M001,Preventive,3912,247,2,Sensor,80,Wear,749,1.85,21-09-2022,Mark Howe,4
+06-04-2025,M002,Preventive,3559,44,2,Sensor,27,Overload,941,9.69,02-06-2025,Lisa Powell,3
+18-02-2024,M004,Preventive,2328,120,3,Motor,69,Overload,909,7.03,29-04-2024,Amanda Baker,4
+03-03-2024,M001,Preventive,1833,91,2,Belt,74,Overload,628,8.97,03-05-2024,Renee Brown,3
+31-07-2022,M002,Preventive,3888,80,3,Gearbox,59,Electrical Fault,523,7.19,24-10-2022,Taylor Carson,5
+08-12-2024,M005,Preventive,3669,265,1,Belt,25,Overload,350,5.65,25-01-2025,Benjamin Elliott,2
+12-06-2022,M001,Reactive,3651,257,4,Bearing,84,Overload,764,9.87,09-08-2022,Kayla Arias,1
+01-09-2024,M001,Preventive,3007,219,2,Motor,51,Electrical Fault,540,6.21,06-11-2024,Julie Robinson,2
+03-09-2023,M004,Preventive,2401,235,1,Sensor,66,Electrical Fault,503,8.22,24-10-2023,Chad Saunders,2
+14-05-2023,M001,Preventive,3960,132,2,Belt,34,Overload,765,4.92,07-08-2023,Garrett Robinson,3
+29-01-2023,M001,Preventive,2045,57,4,Gearbox,66,Wear,546,8.78,14-03-2023,Michael Guerra,5
+03-07-2022,M004,Reactive,1447,206,3,Belt,49,Electrical Fault,927,5.61,06-09-2022,Mr. Harold Turner,5
+28-08-2022,M003,Reactive,2400,200,1,Motor,54,Electrical Fault,862,5.87,04-10-2022,Peter Sanders,4
+09-04-2023,M003,Preventive,4379,76,1,Belt,84,None,559,5.28,20-06-2023,Deanna Murphy,5
+31-03-2024,M001,Reactive,2611,174,2,Gearbox,96,None,407,9.2,10-06-2024,Allen Cook,1
+09-03-2025,M005,Preventive,2532,210,2,Bearing,58,Wear,798,8.61,23-04-2025,Stephanie Morris DDS,2
+02-02-2025,M004,Preventive,1888,294,3,Bearing,53,None,696,1.05,07-04-2025,Derrick Phillips,1
+08-09-2024,M004,Reactive,4420,208,3,Motor,45,Electrical Fault,582,5.02,01-12-2024,Justin Fuller,2
+13-08-2023,M003,Preventive,711,90,2,Bearing,27,None,139,4.63,17-09-2023,Stacey Zimmerman,4
+07-08-2022,M002,Reactive,4694,115,4,Bearing,75,Overload,146,2.11,21-09-2022,Meghan Cabrera,3
+17-12-2023,M004,Preventive,3538,81,4,Motor,34,None,642,2.51,13-02-2024,Ashley Mccoy,3
+19-11-2023,M001,Preventive,1372,218,4,Motor,75,None,498,9.82,23-01-2024,Gordon Murphy,2
+06-10-2024,M005,Preventive,4032,215,0,Sensor,42,Wear,128,7.16,23-12-2024,Mark Mueller,1
+01-12-2024,M002,Preventive,2727,146,4,Belt,6,None,346,9.46,02-02-2025,Erica Davis,2
+02-06-2024,M003,Reactive,4636,196,3,Sensor,24,None,628,9.69,26-07-2024,Robert Brock,2
+14-08-2022,M001,Preventive,4976,115,0,Gearbox,87,None,585,9.64,14-09-2022,Martha Todd DVM,4
+02-02-2025,M002,Preventive,654,52,4,Belt,91,Overload,820,3.18,17-03-2025,Steven Douglas,4
+04-02-2024,M005,Reactive,2779,107,2,Belt,37,Wear,276,8.2,06-04-2024,Jane Potts,5
+25-08-2024,M003,Preventive,4173,228,3,Bearing,39,Wear,888,3.42,10-10-2024,David Hammond,2
+19-11-2023,M003,Reactive,752,104,0,Sensor,19,Overload,897,6.75,06-02-2024,Benjamin Wiley,4
+27-04-2025,M005,Preventive,2219,278,4,Belt,44,None,845,3.91,28-06-2025,Tammy Crawford,4
+21-01-2024,M002,Reactive,3001,47,1,Gearbox,9,Overload,731,4.38,04-04-2024,Angelica Rios,3
+03-09-2023,M002,Preventive,1289,264,4,Motor,46,Electrical Fault,893,3.22,03-11-2023,Debra Horton,3
+18-02-2024,M005,Reactive,1689,214,2,Belt,19,Electrical Fault,197,5.32,12-05-2024,Frederick Bryant,3
+05-11-2023,M001,Reactive,926,100,2,Belt,41,Overload,534,2.82,28-12-2023,Michael Craig,3
+12-03-2023,M004,Preventive,1981,237,1,Gearbox,8,Wear,785,1.07,01-06-2023,Jennifer Neal,2
+27-11-2022,M001,Reactive,4555,51,4,Sensor,73,Overload,696,1.83,28-12-2022,Matthew Miller,1
+01-10-2023,M001,Preventive,1087,299,0,Sensor,25,None,849,9.39,24-11-2023,Jennifer Johnston,1
+14-07-2024,M002,Preventive,2707,58,0,Sensor,65,Wear,221,9.21,03-10-2024,Jordan Hatfield,5
+20-08-2023,M001,Preventive,4129,208,2,Gearbox,25,Electrical Fault,224,8.51,17-10-2023,Kendra Clark,4
+23-02-2025,M001,Preventive,2345,163,1,Bearing,83,Electrical Fault,775,7.15,05-04-2025,Joshua Garcia,4
+18-12-2022,M001,Preventive,2315,122,1,Sensor,39,None,801,1.86,21-02-2023,Christopher Powell,2
+07-04-2024,M001,Preventive,2164,58,4,Belt,26,Wear,485,7.73,23-05-2024,Ashley Hunt,3
+14-01-2024,M002,Preventive,1255,84,0,Sensor,77,Overload,468,7.21,11-04-2024,Denise Robertson,5
+01-10-2023,M002,Reactive,2755,247,1,Belt,53,Wear,174,1.88,27-11-2023,Daniel Oconnor,5
+27-10-2024,M003,Reactive,4958,180,0,Belt,79,Electrical Fault,268,7.85,11-01-2025,Jeffrey Mcconnell,4
+14-07-2024,M004,Preventive,3452,122,0,Motor,79,Wear,425,9.5,29-09-2024,Alisha Warren,4
+16-10-2022,M005,Preventive,3056,59,2,Bearing,82,None,397,5.92,10-12-2022,Fernando Davis,4
+11-09-2022,M002,Preventive,3184,298,2,Bearing,35,None,573,5.18,16-10-2022,Sarah Taylor,2
+02-02-2025,M001,Preventive,4267,66,0,Motor,98,Overload,816,7.52,03-04-2025,Laura Short,4
+30-10-2022,M005,Preventive,4055,93,0,Bearing,38,Wear,873,8.71,01-12-2022,Donna Powers,2
+03-09-2023,M001,Preventive,3851,60,0,Bearing,91,Wear,318,1.72,26-11-2023,John Santos,2
+24-12-2023,M004,Reactive,1615,204,3,Motor,55,Wear,713,5.8,08-02-2024,Judy Powers,5
+24-12-2023,M003,Preventive,4725,126,4,Bearing,14,Electrical Fault,783,3.99,17-02-2024,Paula Bailey,5
+25-06-2023,M003,Preventive,4549,186,0,Motor,21,Overload,552,5.54,09-08-2023,Ethan Love,4
+11-08-2024,M004,Preventive,3452,253,0,Motor,32,Wear,448,8.1,05-10-2024,Dennis Jordan,5
+25-02-2024,M004,Reactive,1487,59,1,Sensor,23,Wear,231,3.53,19-04-2024,Michael Ellison,1
+08-09-2024,M003,Preventive,4068,94,0,Bearing,80,Electrical Fault,646,3.58,27-11-2024,Nicholas Parker,5
+10-07-2022,M001,Reactive,573,136,4,Bearing,65,Overload,289,4.69,04-09-2022,Chad Rodriguez,3
+30-04-2023,M005,Preventive,4696,278,4,Gearbox,9,Wear,793,2.99,14-07-2023,Christine Ward,4
+30-06-2024,M005,Preventive,3423,192,4,Bearing,82,None,567,5.78,01-08-2024,Thomas Archer,5
+07-01-2024,M002,Preventive,3044,197,3,Belt,23,Wear,296,7.04,05-03-2024,Lisa Patton,1
+19-11-2023,M005,Preventive,1045,123,3,Bearing,22,Overload,138,8.34,06-01-2024,Olivia Buckley,3
+23-07-2023,M001,Preventive,4473,295,0,Bearing,77,Electrical Fault,608,7.64,25-09-2023,Kyle Nelson,2
+23-02-2025,M004,Preventive,2771,205,0,Motor,35,None,503,9.81,22-05-2025,Michael Rose,1
+03-07-2022,M003,Preventive,4710,230,4,Bearing,81,None,857,4.7,14-09-2022,Kim Holden,1
+21-08-2022,M001,Reactive,4562,58,0,Motor,29,Wear,870,1.67,16-11-2022,Jose Adams,2
+03-09-2023,M001,Preventive,1370,209,4,Belt,64,Electrical Fault,755,2.7,08-10-2023,Kathleen Hardy,3
+05-02-2023,M004,Reactive,4357,170,2,Motor,65,None,632,2.29,28-04-2023,Dustin Serrano,1
+21-05-2023,M001,Preventive,3004,269,1,Belt,10,Electrical Fault,966,7.53,29-06-2023,Crystal White,3
+22-10-2023,M002,Preventive,804,64,1,Bearing,38,Overload,723,2.94,23-12-2023,Richard Davis,3
+20-04-2025,M002,Preventive,1572,246,3,Belt,38,None,988,5.36,02-07-2025,Robin Ware,1
+30-07-2023,M004,Reactive,1507,120,2,Bearing,64,Electrical Fault,652,8.75,16-09-2023,Amy Price,5
+26-05-2024,M004,Preventive,4256,227,3,Bearing,95,Overload,679,9.05,16-08-2024,Jason Hopkins,4
+27-08-2023,M002,Reactive,4691,212,1,Bearing,25,None,849,4.47,07-11-2023,Amber Forbes,5
+18-09-2022,M001,Preventive,2312,285,3,Motor,26,Wear,266,1.8,17-11-2022,Keith Coleman,2
+21-01-2024,M005,Preventive,3039,163,4,Bearing,67,Wear,791,2.42,09-03-2024,Catherine Miller,4
+29-09-2024,M003,Preventive,1744,267,3,Motor,28,Electrical Fault,841,2.27,15-12-2024,Amanda Powell,1
+26-01-2025,M003,Preventive,3735,58,0,Gearbox,19,Wear,633,5.51,26-03-2025,Sonya Olson,5
+30-06-2024,M002,Reactive,1629,266,4,Belt,45,Overload,757,3.67,21-09-2024,Joshua Walsh,5
+03-09-2023,M001,Preventive,4766,46,1,Bearing,17,Wear,836,1.61,23-10-2023,Mrs. Angela Lee,4
+19-11-2023,M004,Reactive,4488,206,2,Motor,7,Wear,941,3.32,25-01-2024,Miss Christine Barry,1
+22-05-2022,M003,Preventive,4218,194,2,Motor,75,Electrical Fault,297,3.22,31-07-2022,Wayne Beasley,2
+02-10-2022,M005,Preventive,2312,289,2,Motor,37,Electrical Fault,841,1.39,06-12-2022,Derek Sanchez,5
+18-06-2023,M001,Preventive,3167,269,3,Sensor,28,None,951,3.82,13-09-2023,Mark Armstrong,3
+14-05-2023,M005,Preventive,3979,176,1,Sensor,93,Electrical Fault,622,5.66,02-07-2023,Dawn Shaw,2
+05-05-2024,M001,Preventive,1524,55,1,Bearing,44,Electrical Fault,680,4.08,13-07-2024,Ashley Wallace,1
+01-01-2023,M005,Preventive,4264,271,2,Bearing,14,None,989,3.75,15-03-2023,Patricia Rogers,2
+15-05-2022,M003,Preventive,2943,246,0,Bearing,33,None,280,9.61,29-06-2022,Alice Warner,5
+11-12-2022,M003,Preventive,1410,191,2,Belt,57,None,279,2.81,24-02-2023,Kenneth Little,1
+21-04-2024,M004,Reactive,4956,257,3,Bearing,16,Wear,361,1.41,29-05-2024,Corey Little,4
+22-05-2022,M005,Preventive,781,119,3,Belt,99,None,670,9.34,10-08-2022,Tamara Morrison,3
+20-11-2022,M001,Preventive,688,136,3,Gearbox,85,Overload,318,9.14,15-01-2023,Michael Lewis,4
+01-05-2022,M001,Preventive,2852,201,2,Sensor,82,Electrical Fault,852,4.89,11-06-2022,Jeffrey Sanchez,5
+25-02-2024,M003,Preventive,4843,248,4,Belt,37,None,103,2.54,14-04-2024,Michael Floyd,3
+04-06-2023,M005,Preventive,4705,271,0,Gearbox,94,Overload,482,3.9,25-08-2023,Kelly Blackwell,5
+01-05-2022,M002,Preventive,4095,167,0,Motor,67,Electrical Fault,804,8.47,24-06-2022,Joyce Deleon,4
+22-05-2022,M001,Preventive,1641,294,2,Belt,53,Wear,994,3.61,03-07-2022,Nicole Taylor,2
+20-11-2022,M005,Preventive,4932,155,1,Gearbox,5,None,895,3.23,09-01-2023,Brett Gamble DDS,3
+24-11-2024,M004,Preventive,4783,277,1,Belt,78,None,716,7.48,31-01-2025,John Short,2
+01-10-2023,M002,Preventive,4157,73,2,Bearing,89,None,986,8.44,29-12-2023,Donald Cruz,1
+15-12-2024,M004,Preventive,3693,284,2,Bearing,17,Wear,629,7.54,14-02-2025,Sheri Mccarthy,4
+21-04-2024,M003,Reactive,3290,248,1,Sensor,58,Overload,526,9.84,22-05-2024,Nancy Ortiz,3
+31-07-2022,M005,Preventive,2525,271,0,Belt,40,Wear,571,5.7,24-10-2022,Karen Allen,3
+16-10-2022,M002,Preventive,4117,178,3,Gearbox,78,Overload,908,5.83,13-01-2023,Carl Combs,1
+26-02-2023,M005,Preventive,2261,104,4,Belt,74,None,107,4.55,01-05-2023,Christie Avery,3
+17-03-2024,M002,Reactive,4469,33,1,Belt,33,None,328,4.81,18-04-2024,Kristy Maldonado,5
+27-08-2023,M001,Preventive,4984,212,4,Gearbox,90,Electrical Fault,605,5.46,20-11-2023,Sean Scott,5
+02-04-2023,M001,Preventive,2508,204,3,Gearbox,43,Electrical Fault,370,9.15,26-06-2023,Heather Ferguson,3
+18-06-2023,M005,Preventive,4991,141,2,Motor,75,Electrical Fault,765,6.03,06-09-2023,Scott Norman,3
+08-09-2024,M002,Preventive,1178,254,2,Gearbox,14,None,638,6.8,13-11-2024,Margaret Jones,2
+05-05-2024,M004,Reactive,3737,173,3,Motor,88,None,574,9.92,22-06-2024,Heidi Hughes,2
+09-10-2022,M003,Preventive,3885,189,1,Motor,63,Overload,665,3.75,23-11-2022,Anthony Daniel,3
+13-10-2024,M005,Preventive,4174,155,2,Bearing,61,Wear,467,9.45,17-11-2024,Adam Harding,2
+12-03-2023,M005,Preventive,4961,62,3,Bearing,53,None,766,1.55,20-04-2023,Jacob Cook,1
+12-11-2023,M004,Preventive,580,99,0,Bearing,45,Overload,491,5.6,02-01-2024,William Davis,1
+26-06-2022,M005,Preventive,2796,269,4,Gearbox,33,Electrical Fault,796,5.21,11-09-2022,Jennifer Thomas,1
+28-07-2024,M003,Preventive,4075,271,3,Bearing,42,Electrical Fault,942,1.27,22-10-2024,Anthony Brown,4
+11-02-2024,M005,Preventive,1187,30,4,Bearing,94,Electrical Fault,907,7.07,06-05-2024,John Turner,1
+25-06-2023,M002,Preventive,4836,36,4,Belt,68,Electrical Fault,898,2.12,20-08-2023,Adam Adams,3
+26-11-2023,M001,Preventive,3795,211,4,Belt,87,Overload,889,3.83,28-12-2023,Amber Glenn,3
+12-11-2023,M001,Preventive,1788,187,4,Motor,17,Wear,510,4.06,16-12-2023,Jessica Alexander,4
+31-12-2023,M003,Preventive,1212,237,3,Gearbox,71,Overload,141,4.57,01-03-2024,Patricia Mccarthy,2
+05-02-2023,M002,Preventive,2098,125,3,Gearbox,89,Overload,759,5.35,15-04-2023,Beverly Herrera,2
+06-08-2023,M004,Preventive,684,187,4,Bearing,82,Electrical Fault,286,1.14,28-09-2023,Patrick Miller,2
+15-01-2023,M005,Preventive,1960,214,3,Motor,84,None,496,5.97,17-03-2023,Cassandra Larson,5
+20-10-2024,M001,Preventive,4189,225,0,Motor,79,None,913,7.61,22-11-2024,Sarah Welch,5
+03-12-2023,M001,Preventive,4651,260,1,Motor,90,None,222,2.99,04-02-2024,Pamela Smith,2
+08-12-2024,M003,Preventive,2817,196,0,Belt,11,Wear,729,7.28,12-02-2025,Lauren Williams,4
+25-06-2023,M003,Preventive,4108,90,0,Gearbox,69,Wear,656,8.74,18-09-2023,Stephanie Roth,4
+22-01-2023,M003,Preventive,1661,170,0,Gearbox,61,Wear,494,5.87,20-04-2023,Thomas Meyer,4
+22-05-2022,M004,Preventive,4865,71,0,Motor,63,Electrical Fault,953,6.45,12-07-2022,Debra Roach,1
+26-02-2023,M003,Reactive,3935,48,4,Bearing,69,Overload,586,7.19,25-05-2023,Melinda Martin,2
+02-04-2023,M002,Preventive,1484,203,4,Bearing,68,Electrical Fault,589,9.66,23-06-2023,Amber Ray,4
+02-03-2025,M004,Reactive,4190,261,1,Gearbox,47,Electrical Fault,992,1.91,16-05-2025,Samantha Martinez,2
+31-07-2022,M004,Preventive,3071,201,1,Belt,82,None,707,6.09,12-10-2022,Emily Bennett,1
+13-04-2025,M005,Preventive,2998,212,3,Sensor,18,Wear,386,7.91,25-06-2025,William Barnett,5
+28-04-2024,M004,Reactive,2418,39,2,Sensor,86,Electrical Fault,487,7.2,18-06-2024,Nicole Carter,1
+28-07-2024,M005,Preventive,2197,69,3,Sensor,88,Wear,851,5.98,01-09-2024,Kimberly Barron,3
+19-01-2025,M005,Reactive,3559,249,3,Motor,11,None,610,3.23,22-02-2025,Rebecca Cannon,4
+04-12-2022,M002,Preventive,3542,161,1,Motor,29,Electrical Fault,160,7.24,14-02-2023,James Pennington,4
+12-01-2025,M005,Preventive,894,37,0,Sensor,28,Electrical Fault,495,2.23,18-03-2025,Jason Alvarez,3
+15-09-2024,M005,Preventive,4330,285,4,Bearing,35,Wear,940,7.22,08-12-2024,Joshua Martinez,5
+23-04-2023,M001,Reactive,4905,60,0,Motor,31,Overload,885,6.82,05-07-2023,Catherine Shaw,5
+27-04-2025,M003,Preventive,2985,204,1,Belt,62,Wear,347,9.46,15-07-2025,Kayla Andersen,4
+02-07-2023,M003,Preventive,3219,162,1,Gearbox,42,None,772,6.22,10-09-2023,Chloe Carpenter,5
+10-12-2023,M002,Reactive,548,265,1,Gearbox,8,Overload,459,4.29,21-02-2024,Jack Haney,3
+18-12-2022,M004,Preventive,4670,96,1,Belt,88,Wear,115,9.88,30-01-2023,Anne Harris,1
+12-11-2023,M003,Preventive,2500,252,3,Belt,10,Wear,393,6.01,31-12-2023,Michael Schwartz,5
+05-11-2023,M004,Preventive,2694,221,2,Gearbox,88,Wear,897,9.17,10-12-2023,Jesse Foster,1
+22-01-2023,M005,Preventive,4552,158,1,Motor,39,Electrical Fault,873,8.42,11-04-2023,Richard Adams,2
+13-11-2022,M002,Preventive,673,148,2,Gearbox,25,Electrical Fault,199,1,16-01-2023,Stephen Diaz,4
+31-07-2022,M005,Reactive,4591,225,1,Belt,16,Electrical Fault,892,1.24,18-09-2022,Matthew Johnson,4
+26-03-2023,M004,Preventive,2941,187,4,Gearbox,20,None,296,3.59,03-06-2023,Brad Pittman,3
+20-10-2024,M005,Preventive,1418,157,3,Bearing,10,Wear,428,3.75,29-12-2024,Eduardo Jackson,5
+27-04-2025,M001,Preventive,4709,144,1,Motor,70,None,889,6.65,19-06-2025,Adam Thomas,4
+30-06-2024,M004,Preventive,1617,63,2,Gearbox,60,Electrical Fault,925,9.61,30-08-2024,Rhonda Ray,2
+13-08-2023,M001,Preventive,4974,138,3,Sensor,87,Electrical Fault,570,6.53,17-10-2023,Anthony Walker,5
+28-01-2024,M003,Preventive,923,261,0,Gearbox,9,Wear,597,3.99,01-03-2024,Teresa Byrd,2
+15-09-2024,M004,Preventive,2594,264,1,Gearbox,9,None,559,6.45,18-11-2024,William Murphy,5
+06-04-2025,M002,Preventive,4972,33,2,Motor,19,Electrical Fault,365,4.69,02-07-2025,Tiffany Diaz,2
+26-11-2023,M003,Preventive,1168,189,2,Gearbox,86,Overload,508,1.73,01-01-2024,Michelle Bailey,1
+06-08-2023,M005,Preventive,4421,93,4,Belt,31,Overload,786,1.04,09-09-2023,Jason Davidson,4
+10-09-2023,M004,Preventive,3414,190,3,Belt,62,Wear,362,2.06,23-10-2023,Brandi George MD,5
+14-01-2024,M005,Preventive,2040,185,3,Belt,82,Electrical Fault,813,2.21,22-03-2024,Matthew Duncan,1
+23-03-2025,M001,Reactive,2487,295,4,Motor,29,Wear,211,7.17,17-06-2025,Deanna Mcgee,2
+04-09-2022,M004,Preventive,4247,279,0,Belt,87,Overload,241,3.47,27-11-2022,Alan Sims,3
+03-11-2024,M004,Reactive,1084,41,2,Gearbox,79,Overload,743,2.83,19-12-2024,David Johnson,3
+01-01-2023,M005,Preventive,3699,37,1,Belt,76,Overload,357,4.3,03-03-2023,Ronald Fletcher,4
+29-01-2023,M001,Preventive,3707,188,4,Motor,33,Overload,427,6.02,08-03-2023,Amber Robinson,5
+11-09-2022,M005,Preventive,4950,110,4,Belt,93,None,425,7.36,16-11-2022,Dr. Jessica Dyer MD,4
+19-01-2025,M004,Preventive,1632,265,4,Belt,15,None,101,6.59,14-03-2025,Michelle Obrien,2
+06-04-2025,M005,Preventive,4057,138,2,Gearbox,87,None,826,7.02,11-06-2025,Derrick Paul,2
+20-11-2022,M001,Preventive,1372,198,1,Bearing,31,None,899,3.91,11-02-2023,Kimberly Vasquez,5
+04-08-2024,M005,Preventive,934,40,4,Sensor,53,Overload,400,3.47,09-10-2024,Curtis Shaffer,1
+12-11-2023,M002,Preventive,1504,126,4,Gearbox,22,None,374,4.92,01-01-2024,Brittany Carroll,1
+24-09-2023,M004,Reactive,4488,243,1,Belt,75,Electrical Fault,737,2.84,16-11-2023,Alyssa Nichols,1
+23-02-2025,M001,Preventive,1906,265,3,Gearbox,39,Wear,157,5.68,27-04-2025,Richard Oneal,1
+29-12-2024,M005,Preventive,2602,90,2,Bearing,42,Wear,943,3.87,23-03-2025,Toni Espinoza,4
+27-11-2022,M004,Reactive,3049,261,0,Sensor,15,Electrical Fault,101,1.26,06-02-2023,Matthew Medina,3
+08-01-2023,M003,Preventive,2078,88,4,Bearing,93,Electrical Fault,880,8.07,14-02-2023,Chelsea Thomas,2
+20-10-2024,M003,Preventive,3409,134,1,Bearing,94,Wear,173,9.13,21-11-2024,Ricardo Martinez,5
+16-03-2025,M002,Reactive,2919,142,0,Gearbox,31,None,471,3.1,25-04-2025,Miss Amanda Matthews,3
+11-12-2022,M001,Preventive,3292,257,0,Sensor,69,Wear,403,6.55,26-01-2023,Andrew Parker,5
+28-07-2024,M001,Reactive,4208,237,1,Motor,41,Wear,705,7.28,01-10-2024,Scott Garcia,2
+14-07-2024,M001,Reactive,4656,130,0,Gearbox,80,Overload,334,6,02-09-2024,Kenneth Miller,3
+25-02-2024,M004,Preventive,1747,179,4,Gearbox,7,Electrical Fault,774,6.1,16-05-2024,Jennifer Hernandez,5
+23-02-2025,M005,Preventive,3035,94,0,Motor,6,None,409,3.84,25-03-2025,Teresa Todd,2
+11-08-2024,M004,Reactive,813,82,0,Belt,48,Electrical Fault,118,2.72,02-10-2024,Michelle Smith,1
+25-06-2023,M002,Reactive,2056,41,2,Sensor,43,Overload,451,7.14,30-08-2023,John Dawson,5
+14-01-2024,M002,Preventive,1823,94,2,Belt,50,Wear,553,3.13,14-03-2024,John Singh,3
+26-05-2024,M004,Preventive,3645,115,2,Sensor,16,Wear,774,5.88,16-07-2024,Tammy Townsend,5
+22-12-2024,M001,Preventive,1576,148,3,Sensor,19,None,280,4.72,26-01-2025,Marcus Lane,2
+20-04-2025,M003,Preventive,2689,30,2,Motor,72,Overload,679,4.6,25-06-2025,Juan Savage,2
+27-10-2024,M001,Preventive,3475,280,0,Gearbox,52,Electrical Fault,229,6.31,11-01-2025,Matthew Perry,3
+22-05-2022,M002,Reactive,4981,245,3,Motor,64,None,423,8.78,17-08-2022,Mary Jones,3
+25-12-2022,M004,Preventive,2202,71,2,Gearbox,58,None,477,2.95,06-02-2023,Jared Gibson,5
+21-01-2024,M004,Reactive,611,219,3,Bearing,7,Electrical Fault,997,1.4,29-02-2024,Lindsay Petersen,5
+17-12-2023,M003,Reactive,3572,96,4,Gearbox,60,Electrical Fault,153,5.76,21-01-2024,Jennifer Jimenez,1
+24-07-2022,M001,Preventive,3667,289,3,Sensor,37,Electrical Fault,768,1.51,28-09-2022,Walter Hernandez,4
+29-05-2022,M004,Preventive,4095,85,1,Sensor,95,None,342,8.96,09-08-2022,Kevin Allen,5
+26-11-2023,M002,Preventive,4217,58,2,Sensor,30,Overload,294,1.7,16-01-2024,Melissa Brown,5
+03-11-2024,M004,Reactive,1807,77,2,Gearbox,75,Overload,320,1.87,28-12-2024,Kathryn Smith,4
+30-04-2023,M005,Preventive,2212,117,0,Belt,54,None,870,6.07,15-07-2023,Elizabeth Stone,3
+24-03-2024,M002,Reactive,2411,101,1,Sensor,12,Electrical Fault,227,6.96,16-06-2024,Alexander Sullivan,2
+22-01-2023,M002,Reactive,3737,37,1,Belt,48,None,949,5.46,02-03-2023,Brandy Moreno,3
+05-01-2025,M003,Preventive,2624,146,2,Motor,83,Overload,507,9.47,12-02-2025,Karen Gardner,2
+17-11-2024,M005,Preventive,1859,156,3,Motor,47,None,394,7.85,01-02-2025,Joshua Ramos,5
+29-12-2024,M005,Preventive,3059,292,2,Motor,73,Electrical Fault,402,3.46,24-03-2025,Randall Morgan,4
+20-08-2023,M004,Reactive,4679,244,4,Bearing,93,Overload,354,9.49,21-09-2023,James York,3
+13-11-2022,M002,Preventive,2427,285,1,Motor,16,Wear,550,3.51,23-01-2023,Victoria Gonzalez,5
+21-01-2024,M002,Preventive,4645,173,2,Gearbox,81,None,683,9.9,15-04-2024,Maria Parker,4
+22-12-2024,M003,Reactive,3384,153,3,Belt,26,Overload,922,2.85,14-03-2025,Jesus Sanders,4
+10-07-2022,M003,Reactive,2360,105,1,Bearing,20,None,575,6.64,28-09-2022,Elizabeth Gardner,3
+24-07-2022,M001,Preventive,4349,175,4,Belt,70,Overload,455,1.29,20-10-2022,Bradley Roberts,2
+11-02-2024,M003,Preventive,1278,219,4,Gearbox,7,Overload,879,9.96,12-04-2024,Benjamin Walton,1
+07-07-2024,M002,Preventive,4776,131,1,Belt,51,Overload,139,9.37,17-08-2024,David Freeman,1
+30-06-2024,M003,Reactive,1499,219,3,Motor,82,Electrical Fault,388,1.09,06-08-2024,Sandra Reeves,3
+26-06-2022,M003,Preventive,1789,188,3,Sensor,48,Wear,727,7.96,28-07-2022,Megan Rangel,5
+18-12-2022,M001,Reactive,3249,72,3,Gearbox,68,Overload,130,4.7,05-03-2023,Rachel Foster,1
+13-11-2022,M004,Preventive,2044,279,0,Motor,48,Electrical Fault,416,6.01,13-01-2023,Christopher Ramirez,3
+08-09-2024,M003,Preventive,1638,157,1,Motor,45,None,516,6.57,12-11-2024,Joseph Porter,2
+15-09-2024,M002,Reactive,3439,108,3,Gearbox,73,None,162,4.16,09-12-2024,Dakota Stewart,5
+19-01-2025,M001,Preventive,4829,202,2,Motor,98,Electrical Fault,280,7.66,18-04-2025,Gregory Cannon,5
+18-09-2022,M004,Preventive,3000,275,3,Belt,61,Overload,421,8.5,21-11-2022,Wesley Meadows,1
+31-07-2022,M001,Preventive,3507,110,2,Belt,26,Electrical Fault,397,6.17,26-09-2022,Micheal Mcdaniel,3
+04-09-2022,M002,Preventive,1819,52,0,Bearing,15,Wear,207,5.96,16-11-2022,Joshua Vazquez,2
+15-01-2023,M003,Preventive,3076,235,4,Motor,75,Electrical Fault,534,1.1,14-02-2023,Erin Ramirez,2
+21-01-2024,M004,Preventive,4326,134,3,Motor,14,Overload,107,5.2,13-04-2024,Christopher Allen PhD,4
+22-10-2023,M002,Reactive,1448,130,2,Motor,49,Overload,255,2.7,04-01-2024,Regina Roach,1
+08-01-2023,M005,Preventive,3759,239,4,Belt,9,Wear,413,5.38,19-03-2023,Jeremy Ballard,5
+08-09-2024,M004,Preventive,4113,198,1,Motor,49,None,498,7.72,13-10-2024,Kathleen Case,5
+29-10-2023,M001,Preventive,3072,102,1,Bearing,94,None,613,1.57,12-12-2023,Kathryn Alvarez,2
+13-04-2025,M002,Preventive,1036,107,1,Sensor,13,Electrical Fault,222,9.64,10-06-2025,Amanda Hughes,5
+17-12-2023,M003,Preventive,4518,51,1,Belt,34,Overload,975,8.67,18-01-2024,Lindsay Logan,1
+11-02-2024,M002,Preventive,4576,142,4,Belt,9,None,229,1.94,20-04-2024,Courtney Oneill,4
+09-07-2023,M003,Preventive,2365,76,4,Gearbox,50,Overload,288,6.49,11-09-2023,Jodi Brown,4
+04-12-2022,M002,Preventive,1384,146,4,Sensor,93,Electrical Fault,580,7.45,14-02-2023,Heather Yu,1
+17-03-2024,M002,Preventive,3004,197,3,Bearing,34,Overload,993,5.21,23-04-2024,Adrian Henderson,2
+27-11-2022,M004,Preventive,4790,254,3,Motor,98,Overload,593,8.37,21-01-2023,Connie Mckay,5
+08-01-2023,M004,Reactive,4464,87,2,Motor,39,Overload,460,5.59,29-03-2023,Michele Yang,4
+28-08-2022,M005,Preventive,4878,208,4,Belt,84,Wear,770,4.94,11-10-2022,Karen Kaiser,1
+02-03-2025,M001,Preventive,3280,107,4,Gearbox,66,None,777,3.22,26-05-2025,Taylor Walker,4
+15-05-2022,M004,Preventive,4906,220,4,Bearing,60,Electrical Fault,329,6.13,05-07-2022,Travis Pope,2
+05-01-2025,M002,Preventive,4556,144,2,Motor,66,Overload,494,3.59,03-03-2025,Christopher Cook,2
+15-09-2024,M004,Preventive,1620,195,1,Belt,19,Electrical Fault,620,5.98,20-11-2024,Ashley Williamson,5
+23-04-2023,M004,Preventive,4057,81,4,Gearbox,40,Electrical Fault,511,4.66,02-07-2023,Jeffery Stephens,4
+07-08-2022,M005,Reactive,3424,190,2,Belt,52,Wear,874,2.32,03-10-2022,Steve Gonzalez,3
+06-10-2024,M005,Reactive,1465,136,0,Bearing,82,Overload,590,6.33,24-11-2024,Jacob Johnson,2
+18-09-2022,M004,Preventive,4921,98,0,Bearing,73,Wear,283,8.46,08-12-2022,Christine Lowery,2
+07-04-2024,M004,Preventive,4755,218,2,Motor,99,None,504,8.29,23-06-2024,Shannon Jacobson,5
+22-12-2024,M002,Reactive,969,199,1,Sensor,67,Electrical Fault,893,1.53,28-02-2025,Theresa Buchanan,4
+28-08-2022,M001,Preventive,3509,93,1,Gearbox,71,Electrical Fault,822,3.2,11-11-2022,Kristin Cohen,4
+15-10-2023,M005,Preventive,1839,105,3,Gearbox,11,Overload,366,8.81,28-11-2023,Christopher Hamilton,5
+01-10-2023,M001,Preventive,760,158,2,Belt,34,Electrical Fault,794,7.66,06-12-2023,Chris Schneider,5
+31-03-2024,M003,Preventive,1960,158,0,Sensor,16,None,743,3.12,16-05-2024,Heather Thompson,3
+10-09-2023,M001,Preventive,3178,36,3,Belt,81,Wear,826,7.91,11-11-2023,Karla Aguilar,2
+31-03-2024,M003,Preventive,3207,165,4,Belt,28,Overload,395,8.09,07-06-2024,Herbert Davis,1
+10-09-2023,M003,Reactive,713,235,1,Sensor,23,None,705,4.44,04-11-2023,Amy Olson,2
+24-03-2024,M004,Preventive,3502,261,1,Belt,75,Overload,326,3.14,17-06-2024,Paul Hall,3
+08-09-2024,M002,Preventive,2466,158,3,Sensor,7,Electrical Fault,912,2.02,23-10-2024,Spencer Henderson,1
+26-03-2023,M003,Preventive,3080,139,3,Gearbox,80,Overload,409,2.56,28-05-2023,Samuel Whitney,5
+21-08-2022,M001,Reactive,3145,259,4,Bearing,23,Electrical Fault,480,9.75,04-11-2022,Anna Faulkner,2
+16-03-2025,M001,Preventive,1754,144,0,Gearbox,75,Overload,923,7.62,14-05-2025,Tiffany Adams,1
+24-11-2024,M004,Preventive,3552,163,4,Gearbox,95,Wear,387,8.05,21-01-2025,Stephanie Cunningham,3
+25-02-2024,M002,Preventive,3363,185,0,Gearbox,5,Electrical Fault,219,1.93,28-03-2024,Cynthia Francis,2
+16-03-2025,M001,Preventive,3245,91,0,Sensor,42,None,903,3.69,03-05-2025,Sean Barrera,1
+26-02-2023,M003,Preventive,3098,154,4,Sensor,9,Electrical Fault,101,8.95,13-05-2023,Elizabeth Carpenter,4
+26-03-2023,M004,Preventive,3750,56,4,Sensor,26,Overload,367,6.6,30-04-2023,Ashley Velez,4
+09-07-2023,M005,Preventive,3777,179,0,Sensor,79,Wear,356,3.94,22-08-2023,Kim Bartlett,5
+20-04-2025,M004,Preventive,1685,84,0,Belt,92,Wear,637,9.95,21-06-2025,Christine Rivera,3
+30-10-2022,M004,Preventive,1880,127,3,Motor,13,Overload,811,2.78,19-01-2023,Sandra Lawrence,5
+22-09-2024,M002,Reactive,3303,141,4,Belt,79,Wear,875,4.67,03-11-2024,Madison Swanson,4
+02-10-2022,M005,Preventive,4522,113,3,Gearbox,60,Overload,336,3.78,12-12-2022,Kyle Smith,2
+07-04-2024,M004,Preventive,779,106,1,Sensor,96,None,925,6.2,01-06-2024,Ivan Parker,5
+17-07-2022,M005,Preventive,4875,212,1,Belt,58,Overload,609,5.46,24-08-2022,Craig Meyer,1
+12-01-2025,M002,Reactive,652,288,2,Gearbox,8,None,609,4.68,19-03-2025,Suzanne Smith,4
+13-08-2023,M003,Preventive,3843,42,0,Motor,5,Wear,387,7.37,25-10-2023,Adam Torres,5
+09-10-2022,M003,Preventive,4693,288,4,Gearbox,66,Electrical Fault,515,5.39,03-12-2022,Jaime Cherry,2
+21-01-2024,M004,Reactive,3662,101,4,Bearing,22,Wear,631,5.87,21-02-2024,Jill Morrow,2
+12-11-2023,M002,Reactive,1601,269,3,Bearing,82,Electrical Fault,238,2.12,19-01-2024,David Wells,4
+23-10-2022,M001,Reactive,2617,183,4,Sensor,73,Wear,444,6.12,14-12-2022,Jason Calderon,5
+11-02-2024,M001,Preventive,4412,275,1,Motor,64,Wear,569,6.54,27-03-2024,Steven Leon,3
+01-10-2023,M005,Reactive,911,274,1,Gearbox,95,None,962,2.83,06-12-2023,George Gutierrez,5
+06-10-2024,M001,Reactive,1750,249,3,Bearing,44,Electrical Fault,780,5.17,26-11-2024,Amy Ferguson MD,1
+30-07-2023,M005,Reactive,2110,31,4,Sensor,12,None,651,2.23,17-10-2023,Brandon Russell,2
+11-12-2022,M001,Preventive,2321,134,2,Gearbox,82,Electrical Fault,149,3.05,27-01-2023,Brian Davis,1
+25-12-2022,M004,Preventive,526,121,1,Motor,28,Wear,448,3.47,27-01-2023,Tonya Edwards,2
+06-11-2022,M002,Preventive,2275,116,0,Sensor,62,Overload,651,3.46,06-01-2023,Mark Macias,3
+16-07-2023,M001,Preventive,1788,278,0,Belt,20,Overload,333,8.19,12-09-2023,Stephen Campbell,1
+14-01-2024,M005,Preventive,4706,138,3,Gearbox,89,Wear,369,8.87,09-04-2024,Chad Gibbs,4
+25-06-2023,M002,Preventive,2514,293,1,Motor,70,None,608,8.7,30-08-2023,Monica Washington,5
+23-10-2022,M003,Reactive,2788,76,0,Belt,54,Electrical Fault,431,2.04,28-11-2022,John Russell,5
+09-10-2022,M002,Preventive,1153,142,1,Gearbox,90,None,407,5.77,13-12-2022,Christopher Hawkins,5
+10-07-2022,M003,Preventive,2225,129,0,Sensor,89,Overload,283,5.94,29-09-2022,Brandi Wallace,4
+09-10-2022,M001,Reactive,1875,176,1,Bearing,78,Electrical Fault,482,4.87,20-12-2022,Jeremy Hernandez,3
+16-02-2025,M001,Preventive,1325,250,4,Motor,93,None,119,8.06,26-03-2025,Sarah Schneider,2
+04-12-2022,M004,Preventive,4526,204,0,Belt,47,Electrical Fault,171,6.26,04-02-2023,Ricky Foster,2
+26-05-2024,M001,Preventive,1855,282,2,Sensor,69,Electrical Fault,469,4.37,31-07-2024,Stephen Woods,3
+13-11-2022,M005,Reactive,2972,168,0,Bearing,70,Overload,485,2.15,30-01-2023,Jasmine Grant,2
+16-06-2024,M005,Preventive,3007,148,1,Motor,93,Wear,114,8.39,07-09-2024,Jessica Johnson,5
+19-01-2025,M002,Preventive,4733,258,4,Bearing,27,Wear,402,8.55,19-02-2025,Tina Keller,4
+11-02-2024,M002,Preventive,627,224,0,Gearbox,56,Wear,392,3.68,05-05-2024,Charles Foster,1
+22-09-2024,M005,Preventive,2012,68,0,Belt,74,None,116,5.02,18-12-2024,Diana Williams,3
+29-10-2023,M001,Preventive,2478,42,3,Motor,88,Wear,933,6.71,28-11-2023,Marc Phillips,3
+21-04-2024,M003,Preventive,2404,78,4,Belt,15,None,499,9.79,17-07-2024,Jesse Novak,4
+29-12-2024,M002,Preventive,4311,83,4,Sensor,97,Electrical Fault,395,9.49,04-02-2025,Joseph Greer PhD,4
+07-05-2023,M004,Reactive,4432,294,1,Belt,42,Wear,145,8.34,13-06-2023,Jessica Schmitt,3
+05-02-2023,M003,Preventive,1394,222,4,Bearing,62,None,791,1.33,05-05-2023,Tracy Campbell,2
+03-09-2023,M003,Reactive,1853,219,3,Motor,96,Electrical Fault,246,2.14,01-11-2023,Christina Kelly,1
+20-04-2025,M004,Preventive,2147,250,2,Motor,26,None,608,7.04,16-07-2025,Gregory Ray,4
+16-06-2024,M005,Preventive,4131,156,4,Bearing,68,Overload,830,5.19,02-08-2024,Travis Hall,1
+13-04-2025,M005,Preventive,1621,191,3,Gearbox,59,Wear,372,7.59,17-06-2025,Erica Kidd,4
+09-07-2023,M002,Preventive,2160,238,3,Motor,40,None,570,8.13,27-08-2023,Justin Taylor,4
+19-03-2023,M005,Reactive,4166,161,3,Sensor,96,None,410,8.11,12-05-2023,Kenneth Blackwell,4
+02-07-2023,M004,Preventive,4102,36,0,Sensor,93,None,458,3.94,25-09-2023,Carrie Allen,5
+31-07-2022,M002,Preventive,4206,33,2,Bearing,25,None,291,3.53,24-10-2022,Valerie Wang,4
+03-07-2022,M002,Reactive,565,53,3,Gearbox,97,None,101,1.34,03-08-2022,Keith Jones,4
+16-04-2023,M003,Reactive,2930,256,2,Bearing,96,Electrical Fault,339,8.91,28-05-2023,Taylor Lucero,5
+06-04-2025,M003,Preventive,873,298,3,Bearing,88,Wear,575,2.99,16-05-2025,John Cooper,1
+26-11-2023,M003,Reactive,4634,179,1,Belt,23,Wear,248,4.17,26-12-2023,Shirley Fox,2
+10-11-2024,M004,Preventive,1355,154,1,Gearbox,97,Overload,167,2.12,17-01-2025,Morgan Aguilar,3
+06-04-2025,M003,Reactive,2345,180,2,Gearbox,45,Overload,362,6.1,14-05-2025,Michael Reid,2
+03-03-2024,M002,Preventive,4041,149,2,Gearbox,89,Wear,485,1.04,16-04-2024,Francisco Turner,1
+07-04-2024,M001,Preventive,2038,150,1,Sensor,44,Electrical Fault,310,2.36,26-06-2024,Robert Ingram,5
+19-11-2023,M003,Reactive,4786,279,1,Gearbox,78,Electrical Fault,937,2.19,07-01-2024,Mindy Chavez,5
+30-10-2022,M003,Preventive,2075,115,1,Motor,46,Overload,663,8.38,09-12-2022,Vincent Holloway,3
+08-10-2023,M002,Reactive,1541,224,0,Bearing,22,None,848,7.56,01-12-2023,Scott Rangel,3
+09-04-2023,M004,Preventive,1649,72,1,Motor,66,Electrical Fault,940,8.66,10-06-2023,Albert Arnold,5
+23-10-2022,M001,Preventive,4230,84,3,Belt,41,Wear,183,9.49,26-12-2022,Teresa Long,5
+11-06-2023,M003,Preventive,3891,280,2,Sensor,62,None,149,6.26,28-08-2023,James Gray,1
+04-08-2024,M001,Preventive,2928,160,4,Gearbox,55,Wear,488,2.41,28-10-2024,John Sullivan,1
+03-07-2022,M002,Preventive,2535,163,1,Motor,9,Wear,263,9.92,22-09-2022,Nicole Baker,2
+24-12-2023,M005,Reactive,3145,151,0,Gearbox,94,Overload,908,6.11,02-02-2024,Holly Johnson,4
+19-05-2024,M001,Preventive,4992,254,4,Belt,36,Electrical Fault,874,5.11,16-08-2024,Lori James,1
+26-06-2022,M003,Preventive,4251,98,1,Sensor,84,Overload,370,4,22-09-2022,Timothy Cruz,4
+07-07-2024,M002,Preventive,4024,97,1,Bearing,68,Overload,618,2,08-08-2024,Brenda Cole,5
+08-10-2023,M001,Reactive,1267,96,1,Bearing,50,Overload,478,9.92,28-11-2023,Noah Walker,2
+23-02-2025,M005,Preventive,1517,216,1,Sensor,67,Wear,120,7.23,07-05-2025,Melinda Silva,5
+24-12-2023,M004,Preventive,1322,115,3,Motor,10,Wear,186,1.41,19-02-2024,John Robertson,4
+10-07-2022,M004,Preventive,1610,92,1,Bearing,56,Electrical Fault,134,4.43,21-08-2022,Amanda Bryant,2
+19-06-2022,M005,Reactive,3870,263,1,Belt,35,Overload,297,9.54,29-07-2022,Debra Nunez,3
+29-09-2024,M004,Reactive,2212,196,2,Gearbox,68,Wear,142,8.38,25-12-2024,Brandon Guerra,2
+26-01-2025,M005,Preventive,1402,115,1,Gearbox,86,Electrical Fault,987,5.89,22-04-2025,Susan Hatfield,1
+18-02-2024,M001,Reactive,2247,241,4,Motor,43,None,794,9.31,26-03-2024,Mary Welch,3
+12-06-2022,M003,Preventive,2760,142,4,Belt,85,Overload,851,2.59,30-07-2022,Robert Bryant,3
+08-01-2023,M004,Preventive,1999,237,4,Bearing,40,Overload,592,6.13,11-02-2023,Joshua Freeman,1
+06-08-2023,M001,Preventive,4207,114,1,Belt,60,Electrical Fault,131,7.67,10-09-2023,Haley Marquez,3
+29-01-2023,M002,Reactive,4498,123,1,Belt,45,None,989,1.97,15-04-2023,Jason Ho,4
+29-12-2024,M002,Preventive,1814,200,0,Gearbox,38,None,208,9.23,15-02-2025,Jason Bender,3
+12-03-2023,M002,Reactive,823,112,4,Gearbox,88,None,553,4.55,02-06-2023,Matthew Perez,4
+15-12-2024,M002,Preventive,1246,298,0,Gearbox,92,Wear,181,8.66,16-01-2025,Jerry Rice,3
+04-12-2022,M003,Reactive,1739,259,1,Sensor,7,Wear,136,9.18,04-01-2023,Christopher Moore,3
+09-04-2023,M005,Preventive,3058,133,3,Bearing,32,Wear,141,2.45,05-06-2023,Jean Daniels,4
+23-10-2022,M004,Preventive,4249,37,4,Gearbox,47,Electrical Fault,407,8.74,27-12-2022,Kyle Watson,1
+02-07-2023,M003,Reactive,2065,228,4,Sensor,65,Wear,745,5.41,24-08-2023,Bradley Kim,3
+03-11-2024,M002,Preventive,714,56,2,Belt,5,None,727,9.36,21-12-2024,Joshua Rodgers,1
+29-05-2022,M004,Preventive,3554,88,1,Motor,73,None,455,4.54,22-07-2022,Brandon Espinoza,1
+30-03-2025,M005,Reactive,2281,78,0,Gearbox,49,Electrical Fault,512,2.73,07-06-2025,Roy Barajas,2
+20-04-2025,M001,Reactive,2178,285,1,Bearing,96,None,258,3.07,09-06-2025,John Young,1
+16-02-2025,M004,Preventive,3445,53,3,Bearing,39,Electrical Fault,729,4.59,16-04-2025,Aaron Robinson,5
+07-01-2024,M005,Preventive,4802,115,0,Motor,62,Wear,604,6.54,22-03-2024,Heather Golden,1
+27-11-2022,M001,Preventive,2258,47,4,Sensor,70,None,539,8.18,05-01-2023,Frederick Levy,3
+06-10-2024,M005,Reactive,1411,68,4,Sensor,37,None,492,6.3,12-12-2024,Hannah Duncan,4
+22-05-2022,M005,Reactive,1668,48,1,Sensor,40,Wear,550,4.65,11-07-2022,Jason Martin,1
+26-06-2022,M001,Preventive,2621,257,4,Belt,15,Wear,664,3.32,14-09-2022,Cheryl Johnson,3
+17-07-2022,M002,Preventive,2585,94,1,Bearing,23,None,442,4.75,26-09-2022,Megan Woodard,2
+22-05-2022,M004,Preventive,1878,78,4,Bearing,98,None,192,5.18,15-08-2022,Stephanie Dixon,2
+15-09-2024,M001,Preventive,1306,101,2,Motor,86,Overload,357,1.76,26-10-2024,Megan Santiago,2
+03-09-2023,M004,Preventive,2022,276,0,Sensor,45,None,363,6.42,12-10-2023,Julie Castillo,3
+08-09-2024,M003,Reactive,890,106,1,Motor,68,Electrical Fault,293,2.61,08-11-2024,Abigail Carr,4
+20-11-2022,M005,Reactive,3380,221,2,Motor,23,Overload,797,6.96,06-01-2023,Brittany Lloyd,3
+19-02-2023,M002,Preventive,1687,126,2,Sensor,12,Electrical Fault,493,4.76,20-04-2023,Brittany Boyd,1
+10-11-2024,M001,Reactive,3446,255,4,Motor,88,Wear,889,2.33,20-01-2025,Christopher Murillo,5
+19-01-2025,M001,Reactive,2692,94,1,Gearbox,55,Overload,238,7.95,04-04-2025,Mary Elliott,5
+15-05-2022,M001,Preventive,4836,233,1,Gearbox,13,None,727,8.07,15-06-2022,Caitlin Carlson,3
+09-04-2023,M005,Preventive,3977,98,3,Bearing,37,Wear,767,2.46,24-05-2023,Bryan Wilson,4
+08-01-2023,M002,Preventive,540,280,0,Sensor,9,Wear,574,4.13,26-03-2023,Jack Brown,5
+21-05-2023,M005,Preventive,1054,263,1,Sensor,81,None,890,4.52,29-07-2023,Elizabeth Hernandez,5
+17-12-2023,M004,Preventive,3850,238,3,Bearing,84,None,869,7.34,25-02-2024,Philip Wilkins,2
+28-07-2024,M001,Preventive,2971,102,1,Belt,67,Wear,267,4.66,23-09-2024,Sarah Martin,3
+11-06-2023,M004,Preventive,4606,73,4,Belt,37,Electrical Fault,579,5.22,11-08-2023,Jon Howard,5
+29-10-2023,M004,Reactive,3083,242,4,Bearing,78,Electrical Fault,935,8.04,19-01-2024,Margaret Anderson,1
+25-12-2022,M002,Reactive,4786,269,0,Gearbox,17,Overload,658,4.9,21-03-2023,Robert Miller Jr.,4
+09-10-2022,M003,Preventive,560,97,2,Sensor,68,Overload,580,2.55,11-12-2022,Scott Simpson,2
+03-03-2024,M001,Preventive,4941,194,1,Bearing,89,Overload,986,5.72,06-04-2024,Paula Wilson,5
+26-01-2025,M003,Preventive,1445,92,0,Belt,59,Electrical Fault,579,6.54,07-04-2025,Jillian Reed,5
+27-10-2024,M004,Preventive,3612,112,1,Belt,29,Wear,720,3.96,18-12-2024,Tony Watts,4
+19-06-2022,M001,Preventive,4587,82,1,Bearing,5,Overload,398,2,19-07-2022,Katelyn Grant,4
+02-06-2024,M002,Preventive,3436,83,1,Gearbox,17,Electrical Fault,846,4.71,30-07-2024,Patrick Petersen,5
+21-08-2022,M002,Preventive,3829,75,4,Bearing,58,Wear,128,4.76,29-10-2022,Bruce Brown,4
+26-02-2023,M004,Preventive,3529,118,3,Belt,6,None,812,6.62,17-04-2023,Jennifer Young,1
+11-06-2023,M001,Reactive,598,108,1,Sensor,45,Overload,590,9.76,23-08-2023,Sara Cardenas,5
+07-05-2023,M002,Preventive,3265,141,1,Bearing,97,Overload,266,9.7,14-07-2023,Randall Martin,4
+20-08-2023,M001,Preventive,835,214,0,Belt,26,Wear,558,9.65,17-11-2023,Deborah Schmidt,1
+17-03-2024,M004,Preventive,4650,288,4,Motor,51,None,571,5.73,10-06-2024,Elizabeth Johnson,2
+04-09-2022,M002,Preventive,2008,100,1,Motor,58,Electrical Fault,209,2.07,02-12-2022,Jennifer Glover,3
+12-06-2022,M001,Preventive,1366,228,1,Belt,73,Wear,558,3.77,17-08-2022,Kimberly Ballard,2
+18-09-2022,M001,Preventive,3920,161,2,Sensor,85,Electrical Fault,383,3.33,06-12-2022,Peter White,1
+10-09-2023,M005,Preventive,3664,283,1,Belt,24,None,202,5.73,07-11-2023,Thomas Turner,2
+27-04-2025,M001,Preventive,2550,44,4,Belt,61,None,215,4.68,12-07-2025,Patrick Wagner,5
+17-03-2024,M005,Preventive,1274,128,1,Gearbox,31,Electrical Fault,186,6.44,04-05-2024,Deborah Leblanc,5
+16-03-2025,M003,Reactive,2647,294,3,Belt,42,None,512,6.02,29-04-2025,Debra Beltran,2
+21-07-2024,M002,Preventive,1556,210,1,Motor,47,Overload,533,3.62,20-09-2024,Brooke Davis,3
+06-04-2025,M002,Preventive,3256,245,0,Sensor,50,None,806,1.28,05-06-2025,Michelle Boyd,4
+01-01-2023,M005,Preventive,2276,247,2,Gearbox,24,Overload,202,5.7,18-02-2023,Tonya Lloyd,5
+17-12-2023,M005,Reactive,810,278,0,Bearing,77,Wear,353,6.97,02-02-2024,Jennifer Oliver,4
+20-08-2023,M005,Reactive,955,260,1,Gearbox,86,Overload,956,2.69,27-09-2023,Melissa Mcgrath,4
+24-09-2023,M001,Preventive,3784,108,2,Gearbox,78,Wear,719,9.01,24-11-2023,Jared Ross,1
+17-03-2024,M004,Reactive,1653,131,3,Bearing,47,Overload,573,6.55,10-06-2024,Ashley Adams,5
+14-04-2024,M005,Preventive,2911,120,0,Bearing,52,Electrical Fault,813,4.44,07-06-2024,Cassie Lynch,4
+24-03-2024,M001,Preventive,4513,242,0,Bearing,34,Overload,117,3.28,13-06-2024,Austin Lopez,2
+23-04-2023,M004,Preventive,4547,175,4,Belt,99,Electrical Fault,826,2.17,10-07-2023,Angela Burns,1
+02-06-2024,M002,Preventive,2660,161,2,Bearing,14,None,363,2.55,09-08-2024,Debra Perez DDS,1
+09-07-2023,M002,Preventive,3756,77,4,Bearing,14,Electrical Fault,287,8.6,28-08-2023,Jeff Mann,1
+14-07-2024,M003,Preventive,937,122,1,Sensor,49,None,151,7.29,14-08-2024,Jason Harris,5
+08-10-2023,M001,Preventive,1331,273,4,Motor,37,Electrical Fault,777,5.18,24-12-2023,Andrew Reyes,2
+05-03-2023,M002,Preventive,4026,147,1,Bearing,64,Wear,327,7.53,07-05-2023,Melissa Reed,3
+02-02-2025,M003,Preventive,2809,59,1,Motor,32,Overload,320,2.54,06-03-2025,Jon Berry,1
+25-06-2023,M001,Preventive,1225,276,3,Motor,73,None,813,7.12,23-08-2023,Nicole Dougherty,3
+29-05-2022,M003,Preventive,535,267,1,Belt,65,Electrical Fault,590,5.14,30-07-2022,Sharon Small,5
+13-10-2024,M005,Reactive,4475,116,1,Belt,80,Overload,959,5.24,07-01-2025,Marissa Martinez,4
+12-05-2024,M004,Preventive,4639,146,4,Belt,78,Wear,184,7.34,16-07-2024,Catherine Berg,1
+16-10-2022,M003,Reactive,2900,185,0,Motor,82,Overload,820,2.15,07-12-2022,Sarah King,1
+02-03-2025,M001,Preventive,4159,223,2,Sensor,24,Wear,261,6.71,11-05-2025,Sabrina Martinez,3
+03-09-2023,M003,Reactive,3952,86,1,Belt,21,Overload,884,1.39,30-11-2023,Kari Bird,2
+30-03-2025,M003,Preventive,3854,239,4,Motor,57,Wear,175,1.08,27-06-2025,Joshua Alexander,4
+01-10-2023,M005,Preventive,2484,112,3,Gearbox,78,Wear,356,4.33,04-12-2023,Cole Jackson,1
+24-03-2024,M001,Preventive,3594,125,1,Motor,34,Overload,162,2.11,09-06-2024,Jessica Kramer,3
+15-09-2024,M004,Preventive,2395,37,0,Gearbox,85,Overload,972,2.41,30-10-2024,Calvin Lewis,3
+26-11-2023,M002,Reactive,3518,64,0,Sensor,57,Wear,591,9.72,21-01-2024,Kimberly Lin,5
+16-07-2023,M004,Preventive,3864,103,4,Motor,51,Wear,523,4.47,11-10-2023,Bethany Ayala,4
+07-01-2024,M002,Reactive,1304,261,4,Sensor,58,None,803,5.28,11-03-2024,Natalie Weaver,4
+30-04-2023,M003,Preventive,767,143,4,Sensor,31,Overload,370,9.52,13-06-2023,James Stewart,2
+29-10-2023,M002,Preventive,2587,257,4,Motor,37,Overload,427,9.2,21-01-2024,Lori Martinez,2
+28-04-2024,M004,Preventive,1825,194,3,Bearing,90,Wear,984,1.67,08-07-2024,Bradley Griffin,1
+11-08-2024,M004,Preventive,3852,132,2,Gearbox,32,None,207,1.06,11-10-2024,Allison Randall,2
+16-03-2025,M001,Reactive,4550,267,3,Belt,9,None,923,5.32,26-05-2025,Christopher Moreno,5
+02-06-2024,M001,Reactive,1748,290,2,Motor,49,Overload,765,2.71,23-07-2024,Adam Walker,3
+31-07-2022,M004,Preventive,4216,37,4,Sensor,90,Wear,272,3.54,27-10-2022,Marissa Perez,3
+26-06-2022,M005,Preventive,1152,257,2,Sensor,31,Overload,953,2.64,08-09-2022,Roger James,1
+04-08-2024,M003,Preventive,2846,201,4,Motor,69,Overload,253,4.63,03-10-2024,Stanley Ford,4
+02-07-2023,M002,Preventive,4081,84,1,Motor,24,Electrical Fault,795,9.19,06-09-2023,Chris Lane,2
+01-12-2024,M001,Preventive,1181,238,0,Bearing,31,None,531,1.02,22-01-2025,Robert Hughes,3
+28-08-2022,M003,Reactive,2819,287,4,Bearing,41,Wear,420,4.72,27-10-2022,Jonathan Harrison,3
+12-11-2023,M003,Preventive,1553,109,4,Gearbox,55,None,643,4.43,22-12-2023,Christy Tanner,3
+21-04-2024,M003,Preventive,615,246,0,Motor,75,Wear,634,5.2,29-06-2024,Daniel Reynolds,3
+21-08-2022,M004,Preventive,3414,244,1,Motor,97,Overload,244,8.37,07-10-2022,Lee Graham MD,2
+19-11-2023,M004,Preventive,4481,98,0,Motor,35,Wear,606,7.34,02-02-2024,Lawrence Reed,1
+24-12-2023,M005,Preventive,2647,258,3,Bearing,10,Electrical Fault,490,1.78,17-02-2024,Shelly Griffith,2
+10-09-2023,M001,Preventive,4034,161,0,Motor,70,Wear,715,5.1,29-10-2023,Sara Hubbard,1
+07-08-2022,M002,Reactive,4886,45,4,Gearbox,64,Electrical Fault,284,5.65,24-09-2022,Anthony Robles,1
+16-10-2022,M001,Preventive,3218,241,1,Motor,62,Wear,470,9.58,07-01-2023,Shane Turner,1
+16-10-2022,M001,Reactive,4683,228,2,Gearbox,92,Wear,777,2.92,30-12-2022,Isaiah Thompson,2
+13-10-2024,M002,Preventive,4877,275,1,Bearing,34,Wear,291,9.33,25-11-2024,Cameron Howe,2
+25-09-2022,M001,Preventive,2863,152,1,Sensor,60,Electrical Fault,362,5.83,29-10-2022,Alice Miller,1
+04-06-2023,M004,Preventive,2123,167,1,Motor,24,Wear,424,1.09,27-08-2023,Kristin Moore,5
+16-02-2025,M004,Reactive,719,165,3,Motor,10,Overload,946,8.3,11-05-2025,Kimberly Garcia,5
+03-07-2022,M005,Reactive,3471,55,1,Sensor,52,Wear,945,8.12,18-09-2022,Susan Howard,5
+23-03-2025,M005,Preventive,2693,191,1,Gearbox,80,Overload,680,4.16,03-05-2025,Richard Frazier,1
+22-09-2024,M004,Preventive,1982,65,0,Gearbox,86,None,635,2.76,10-11-2024,Zachary Johnson,3
+15-05-2022,M002,Reactive,4293,251,2,Sensor,69,Wear,411,1.96,16-07-2022,Michael Thomas,3
+24-12-2023,M001,Reactive,3641,291,1,Sensor,92,Electrical Fault,783,2.94,26-02-2024,John Morris,3
+19-03-2023,M001,Preventive,3438,268,1,Bearing,11,Wear,697,9.1,23-05-2023,Heather Edwards,5
+04-02-2024,M002,Preventive,2914,56,3,Gearbox,28,Wear,158,3.07,10-03-2024,Manuel Gonzalez,5
+02-10-2022,M004,Reactive,1980,228,1,Gearbox,93,Overload,406,7.17,03-12-2022,Kimberly Adams,3
+28-01-2024,M001,Preventive,1829,175,2,Sensor,72,Overload,496,9.67,16-03-2024,Brittney Dominguez,2
+01-09-2024,M001,Preventive,2521,277,1,Motor,66,Overload,342,2.12,05-11-2024,Shawn Higgins,3
+23-10-2022,M004,Preventive,3613,258,0,Motor,16,Overload,386,8.86,13-12-2022,Christopher Bentley,2
+10-09-2023,M002,Preventive,1268,239,1,Gearbox,62,Overload,444,2.83,04-12-2023,Angela Adkins,5
+24-11-2024,M004,Preventive,2096,202,1,Gearbox,43,None,405,6.22,21-02-2025,Kiara Peterson,3
+21-04-2024,M001,Reactive,2148,287,1,Gearbox,97,Electrical Fault,157,1.42,01-07-2024,Brandon Carpenter,5
+06-11-2022,M003,Preventive,1069,145,4,Gearbox,7,Wear,214,6.2,18-12-2022,Douglas Roberts,5
+29-05-2022,M003,Preventive,1422,133,4,Motor,76,Overload,763,2.41,11-08-2022,Ian Miller,3
+07-01-2024,M001,Preventive,4255,159,2,Belt,54,Overload,187,1.92,20-02-2024,Breanna Allen,2
+08-09-2024,M003,Preventive,3470,277,0,Sensor,57,Wear,486,2.02,27-10-2024,Jane Jensen,3
+25-02-2024,M001,Reactive,1295,186,1,Motor,58,Wear,137,6.61,15-04-2024,Gerald Austin,2
+14-07-2024,M002,Preventive,2994,226,1,Belt,70,Electrical Fault,197,6.75,09-09-2024,Anthony Cobb,2
+12-03-2023,M004,Preventive,3909,203,3,Gearbox,12,Electrical Fault,869,7.37,20-04-2023,Derek Gregory,1
+25-08-2024,M004,Reactive,3865,191,2,Motor,50,None,474,1,20-10-2024,David Mason,3
+09-04-2023,M004,Preventive,933,102,2,Bearing,63,Electrical Fault,474,1.66,15-05-2023,Kimberly Jackson,2
+23-10-2022,M002,Reactive,3717,135,1,Motor,25,Electrical Fault,683,6.85,01-12-2022,Barbara Garcia,2
+12-11-2023,M003,Preventive,1980,101,1,Bearing,87,None,271,6.03,08-02-2024,Jonathon Nguyen,2
+30-06-2024,M003,Reactive,902,117,2,Bearing,38,Electrical Fault,139,7.18,19-08-2024,Thomas Barnes,3
+25-02-2024,M001,Preventive,3108,187,3,Bearing,12,Wear,797,4.68,10-04-2024,Lauren Mitchell,4
+22-01-2023,M004,Reactive,896,291,1,Motor,53,Wear,670,5.35,21-04-2023,Seth Roman,3
+12-02-2023,M005,Preventive,4678,134,4,Belt,56,Electrical Fault,976,3.49,23-03-2023,Jeremy Mendez,5
+24-03-2024,M005,Preventive,4347,179,2,Gearbox,10,Electrical Fault,874,8.87,26-04-2024,Shannon Butler,1
+20-11-2022,M002,Preventive,1915,86,0,Belt,14,None,402,3.3,05-01-2023,John Brown,5
+17-12-2023,M002,Reactive,1591,66,2,Sensor,66,None,176,7.44,28-01-2024,Leah Griffin,2
+16-07-2023,M001,Preventive,1945,285,1,Belt,74,Overload,871,1.64,29-08-2023,Rhonda Marquez,5
+30-06-2024,M005,Preventive,1822,97,2,Sensor,60,Electrical Fault,581,9.1,09-09-2024,James Collins,3
+17-09-2023,M003,Preventive,2943,228,2,Motor,59,Electrical Fault,439,1.45,13-12-2023,Elizabeth Porter,3
+02-03-2025,M001,Preventive,4608,271,0,Gearbox,68,Wear,610,6.42,03-05-2025,Tammy Lowe,4
+03-12-2023,M003,Reactive,2368,48,1,Belt,77,None,834,7.03,25-02-2024,Tiffany Patterson,2
+14-07-2024,M002,Reactive,1607,203,0,Gearbox,92,Wear,177,7.19,09-09-2024,Rachel Strong,3
+13-04-2025,M005,Reactive,3779,216,3,Motor,70,Electrical Fault,185,3.03,22-06-2025,Kevin Cunningham,4
+05-11-2023,M004,Preventive,2091,157,0,Sensor,81,Electrical Fault,759,7.6,01-01-2024,Angel Pierce,1
+26-02-2023,M005,Preventive,2669,223,4,Belt,58,Overload,422,3.98,07-04-2023,Kathleen King,1
+18-12-2022,M004,Preventive,3638,279,4,Sensor,45,Overload,821,3.64,05-02-2023,Stephanie Salas,1
+25-08-2024,M001,Preventive,1859,61,0,Gearbox,25,Overload,118,5.57,09-11-2024,David Smith,5
+08-09-2024,M004,Preventive,2042,172,0,Gearbox,9,None,842,2.36,25-11-2024,Rebecca Bell,1
+07-07-2024,M005,Preventive,2266,32,3,Motor,99,None,754,6.14,16-09-2024,Carlos Morris,3
+11-09-2022,M005,Preventive,2199,214,3,Belt,48,None,240,6.13,24-10-2022,Mr. Patrick Carney,1
+09-04-2023,M001,Preventive,1778,265,3,Motor,27,None,271,4.31,25-06-2023,Debra Reyes,3
+16-04-2023,M003,Preventive,2066,106,4,Bearing,81,Wear,212,4.77,05-06-2023,Andrew Price,4
+19-01-2025,M003,Preventive,1186,246,0,Belt,58,None,183,8.65,19-03-2025,Joseph Matthews,5
+14-05-2023,M002,Reactive,2506,276,0,Belt,97,Wear,163,1.35,08-07-2023,Matthew Ayala,4
+02-10-2022,M005,Preventive,1049,240,1,Gearbox,80,Electrical Fault,876,3.72,08-12-2022,Sarah Hensley,3
+18-08-2024,M001,Preventive,2739,162,2,Sensor,97,Electrical Fault,758,4.58,29-10-2024,Andrew Buck,2
+27-11-2022,M003,Reactive,3702,67,2,Sensor,50,None,887,3.3,23-02-2023,Mrs. Meghan Armstrong,1
+26-11-2023,M003,Preventive,2354,209,3,Sensor,58,Wear,283,6.7,22-02-2024,Christopher Ponce,4
+12-03-2023,M002,Preventive,2598,159,2,Bearing,73,Overload,446,5.75,13-04-2023,Kenneth Hudson,2
+05-05-2024,M005,Preventive,4068,135,4,Bearing,30,Electrical Fault,968,3.54,01-07-2024,Daniel Ramirez,4
+23-04-2023,M002,Reactive,823,148,3,Motor,73,Wear,869,5.43,11-06-2023,Beverly Sherman,5
+19-06-2022,M001,Preventive,1282,202,2,Sensor,23,Wear,592,3.25,24-07-2022,Michael Forbes,3
+28-07-2024,M001,Preventive,2233,124,0,Sensor,90,Wear,168,9.94,10-09-2024,Lisa Guerrero,2
+07-04-2024,M001,Preventive,3044,112,2,Motor,24,Wear,492,5.98,14-05-2024,Erica Johnson,2
+17-07-2022,M004,Reactive,2106,192,3,Motor,8,Electrical Fault,664,8.05,26-09-2022,Craig Gonzalez,3
+26-02-2023,M005,Preventive,733,38,2,Motor,54,Overload,289,5.86,31-03-2023,Jacob Reynolds,5
+07-08-2022,M002,Reactive,1644,32,1,Gearbox,92,Overload,243,4.12,26-09-2022,Andrew Salinas,1
+24-12-2023,M003,Preventive,1279,143,0,Sensor,14,Overload,948,4.27,10-03-2024,Karen Howard,5
+21-05-2023,M001,Preventive,4387,132,1,Gearbox,54,Wear,460,5.9,04-07-2023,Lauren Hill,1
+10-07-2022,M005,Preventive,3189,235,4,Motor,37,None,737,8.44,18-08-2022,Ian Nicholson,2
+21-04-2024,M005,Preventive,3522,108,4,Bearing,26,None,315,1.36,12-06-2024,George Ross,3
+15-05-2022,M005,Preventive,2967,146,3,Bearing,97,Wear,418,4.47,22-06-2022,Elaine Mathis,1
+16-02-2025,M003,Preventive,3338,171,2,Gearbox,75,Wear,682,1.52,09-04-2025,Jessica Dixon,2
+27-11-2022,M003,Preventive,2900,251,2,Sensor,5,Electrical Fault,274,2.73,17-02-2023,Mark Hayes,3
+03-12-2023,M005,Reactive,3641,160,3,Motor,25,Electrical Fault,136,7.09,17-01-2024,Renee Sullivan,1
+04-12-2022,M001,Preventive,2450,97,1,Motor,72,None,660,7.85,27-02-2023,Heather Anderson,1
+17-09-2023,M004,Preventive,3985,218,4,Gearbox,56,Electrical Fault,854,3.05,02-11-2023,Christian Gamble,1
+21-08-2022,M003,Preventive,1650,58,3,Belt,48,Wear,300,5.38,23-10-2022,Jean Gutierrez,3
+14-08-2022,M005,Reactive,2540,186,1,Motor,8,None,291,5.8,07-11-2022,Melissa Rose,3
+19-03-2023,M001,Preventive,4422,133,0,Motor,6,Overload,320,2.15,23-04-2023,Jason Harrison,4
+16-02-2025,M001,Preventive,1558,43,1,Motor,91,Overload,220,9.1,13-05-2025,Hailey Weber,2
+10-07-2022,M001,Preventive,776,217,3,Motor,81,Electrical Fault,500,8.04,11-08-2022,Curtis Lozano,2
+18-12-2022,M003,Preventive,4117,218,1,Gearbox,28,Wear,122,5.26,06-03-2023,Ashlee Woods,2
+03-12-2023,M002,Preventive,2307,120,4,Belt,60,None,583,4.74,22-01-2024,Angela Griffin,1
+31-03-2024,M001,Reactive,2557,91,1,Bearing,80,Wear,458,6.88,05-06-2024,Andrea Smith,5
+12-03-2023,M004,Preventive,3976,245,4,Motor,9,Electrical Fault,684,7.48,05-06-2023,Barbara Cochran,5
+11-09-2022,M004,Preventive,1733,39,4,Sensor,18,None,164,3.47,19-10-2022,Alexis Barrett,5
+12-11-2023,M004,Preventive,810,198,2,Belt,93,Wear,761,3.88,20-01-2024,Susan Cisneros,5
+03-03-2024,M004,Preventive,1765,182,0,Sensor,98,Wear,692,9.85,09-04-2024,Taylor Lee,4
+06-08-2023,M004,Reactive,2564,161,2,Sensor,26,Overload,511,5.82,24-09-2023,Kathy Rivera,5
+24-12-2023,M005,Preventive,1305,227,3,Motor,31,Electrical Fault,440,3.42,15-02-2024,Tracy Guzman,3
+21-01-2024,M002,Reactive,4001,161,4,Gearbox,11,Electrical Fault,906,6.67,07-04-2024,Kelly Henderson,5
+19-03-2023,M001,Preventive,1448,126,0,Bearing,64,None,893,8.88,03-05-2023,Sharon Bird,4
+07-01-2024,M004,Preventive,873,54,4,Bearing,48,Wear,369,5.91,22-02-2024,Joann Beck,3
+13-08-2023,M005,Preventive,4690,70,1,Gearbox,25,Overload,583,1.74,29-09-2023,Timothy Allen,3
+18-09-2022,M003,Reactive,2460,166,2,Gearbox,33,Overload,675,7.17,08-12-2022,Edward Nguyen,4
+27-08-2023,M004,Preventive,4080,71,4,Gearbox,93,Wear,419,4.86,08-10-2023,Emily Warren MD,4
+09-10-2022,M001,Preventive,2671,74,1,Gearbox,29,Electrical Fault,614,1.77,03-01-2023,Michael Alvarez,1
+31-12-2023,M002,Reactive,2125,211,2,Motor,46,None,682,7.78,18-03-2024,Jessica Jacobs,1
+26-11-2023,M003,Preventive,687,76,1,Bearing,5,Wear,492,4.17,31-12-2023,Kenneth Jones,1
+04-06-2023,M003,Preventive,4568,132,2,Motor,15,None,826,6.94,27-07-2023,Charles Jackson,4
+16-02-2025,M004,Preventive,4110,245,3,Bearing,81,None,409,5.46,20-04-2025,Mr. Erik Jones,3
+02-06-2024,M004,Preventive,578,224,3,Belt,21,Electrical Fault,901,4.64,05-07-2024,Robert Anderson,4
+24-11-2024,M005,Reactive,4652,87,0,Gearbox,33,None,639,9.07,21-01-2025,Jessica Lambert,2
+08-10-2023,M002,Preventive,1070,175,0,Belt,47,Wear,926,2.17,05-12-2023,Michael Walter,1
+15-05-2022,M004,Preventive,2257,216,2,Gearbox,52,None,738,5.71,30-06-2022,Joshua Bowers,1
+30-06-2024,M001,Preventive,4915,265,0,Sensor,65,None,877,3.27,14-08-2024,Richard Miles,5
+16-07-2023,M005,Reactive,1519,145,4,Sensor,24,Overload,401,8.79,18-09-2023,Charles Ramos,2
+08-10-2023,M004,Reactive,2879,238,1,Gearbox,33,Wear,318,3.16,13-11-2023,Kathleen Hanson,2
+04-02-2024,M005,Preventive,3973,150,3,Belt,29,None,672,7.03,25-03-2024,David Lee,5
+06-10-2024,M001,Reactive,4628,56,4,Bearing,74,Electrical Fault,305,8.8,07-11-2024,Jane Phillips,2
+06-08-2023,M005,Preventive,857,50,3,Bearing,90,Electrical Fault,339,6.12,18-10-2023,Vicki Gibson,4
+19-01-2025,M003,Preventive,3170,212,2,Belt,85,None,384,7.76,27-03-2025,Shawn Hill,1
+07-07-2024,M001,Preventive,4204,280,2,Motor,18,Wear,797,2.64,06-09-2024,Daniel Edwards,4
+16-02-2025,M003,Preventive,4115,72,3,Belt,86,Electrical Fault,548,1.83,02-04-2025,Tina White,3
+06-04-2025,M004,Preventive,1305,35,2,Bearing,39,None,232,9.37,19-06-2025,Courtney Jensen,4
+24-12-2023,M003,Preventive,3331,287,0,Belt,57,Wear,105,6.15,21-02-2024,Heather Wood,4
+19-03-2023,M004,Preventive,1386,245,3,Motor,79,Wear,275,4.16,05-05-2023,Alicia Esparza,2
+07-07-2024,M001,Reactive,4824,85,1,Belt,81,None,300,2.34,17-09-2024,David Wilcox,3
+12-01-2025,M004,Preventive,959,119,1,Belt,18,None,466,1.59,18-02-2025,Christopher Jones,3
+04-12-2022,M001,Preventive,4609,78,1,Motor,60,None,394,2.95,07-02-2023,Tanya Davis,3
+26-02-2023,M005,Preventive,984,278,1,Motor,96,Overload,524,3.49,21-05-2023,Jonathan Thomas,2
+22-10-2023,M004,Preventive,3854,105,1,Bearing,27,None,919,8.13,19-12-2023,Elizabeth Chavez,2
+19-05-2024,M005,Preventive,1549,238,0,Motor,64,Wear,628,8.84,14-07-2024,Katrina Garza,2
+07-07-2024,M002,Preventive,985,270,3,Motor,15,None,493,1.29,25-08-2024,Jon Miller,5
+30-04-2023,M003,Reactive,1965,220,1,Bearing,23,Overload,992,3.26,13-07-2023,Jeffrey Fuller,3
+04-08-2024,M004,Reactive,933,151,3,Sensor,85,Electrical Fault,384,9.45,05-10-2024,Michael Dennis,4
+12-03-2023,M002,Reactive,3101,59,1,Motor,32,None,834,8.08,21-04-2023,Joshua Rowland,1
+22-09-2024,M002,Preventive,4747,80,0,Bearing,21,None,678,7.33,20-12-2024,Jeffrey Henson,1
+26-05-2024,M001,Preventive,1258,259,0,Motor,85,None,852,5.86,29-07-2024,Kenneth Simon,4
+14-05-2023,M005,Reactive,3555,232,3,Belt,71,Overload,477,3.27,18-07-2023,Barbara Boyd,2
+29-10-2023,M004,Reactive,4189,217,3,Gearbox,83,Electrical Fault,781,1.36,12-01-2024,Kelsey Smith,5
+05-03-2023,M001,Preventive,3237,107,2,Belt,24,Overload,778,4.02,05-05-2023,Robert Nolan,5
+24-11-2024,M005,Reactive,1090,33,4,Bearing,85,None,735,1.79,24-01-2025,Willie Williams,3
+30-06-2024,M005,Preventive,1656,220,4,Belt,74,Overload,213,8.33,18-08-2024,Richard Moore,1
+16-10-2022,M005,Preventive,3409,88,4,Sensor,93,None,831,8.57,14-12-2022,Timothy Tanner,2
+13-11-2022,M003,Reactive,1337,48,3,Bearing,16,Electrical Fault,510,3.61,16-12-2022,Ronald Avery,3
+09-04-2023,M005,Preventive,2568,117,1,Bearing,40,Overload,755,9.01,17-06-2023,Larry Fuentes,5
+14-05-2023,M001,Preventive,1342,126,3,Sensor,88,Electrical Fault,213,3.75,23-07-2023,Taylor Guzman,2
+29-09-2024,M004,Reactive,1106,64,1,Sensor,90,Wear,260,6.49,19-11-2024,Jonathan Barry,3
+19-11-2023,M004,Preventive,1084,70,2,Sensor,81,Wear,702,8.09,10-01-2024,Gregory Lee,5
+14-07-2024,M001,Preventive,4997,40,1,Motor,48,Electrical Fault,930,5.56,19-09-2024,Sharon Lambert,1
+29-09-2024,M005,Preventive,3880,146,3,Bearing,31,Wear,676,7.26,11-12-2024,Leslie Fuentes,4
+20-11-2022,M002,Preventive,2612,225,2,Bearing,32,None,673,1.46,03-02-2023,Melanie Cameron,2
+21-08-2022,M002,Reactive,4270,147,4,Gearbox,12,Overload,264,6.63,21-10-2022,Claire Rodriguez,5
+23-06-2024,M001,Preventive,3163,260,3,Bearing,36,None,786,1.91,19-08-2024,Jeremy Allen,3
+17-11-2024,M003,Preventive,4427,60,4,Motor,12,Overload,892,5.06,26-12-2024,Lynn Collins,3
+27-08-2023,M002,Preventive,2590,183,0,Motor,42,Electrical Fault,782,1.61,10-10-2023,Connie Arnold,2
+12-06-2022,M002,Preventive,4545,210,4,Gearbox,22,Wear,909,7.33,03-08-2022,Erica Leonard,3
+11-02-2024,M001,Preventive,4140,283,3,Belt,86,Overload,778,9.43,08-05-2024,Anne Martinez,5
+22-09-2024,M004,Preventive,3111,138,1,Gearbox,17,Wear,887,2.88,24-11-2024,Taylor Paul,5
+05-05-2024,M005,Preventive,3896,124,2,Sensor,15,Electrical Fault,924,3.37,08-06-2024,Joseph Cline,3
+21-05-2023,M005,Reactive,1209,108,4,Motor,89,None,281,2.94,23-06-2023,Jon Bennett,4
+04-12-2022,M004,Reactive,1230,196,4,Gearbox,68,Electrical Fault,279,9.76,22-02-2023,Alicia Bell,3
+01-05-2022,M001,Preventive,3023,219,0,Gearbox,5,Electrical Fault,832,4.7,11-07-2022,Brandon Reed,2
+23-10-2022,M005,Preventive,3445,64,4,Belt,72,Overload,859,9.52,27-11-2022,Joseph Adams,1
+18-02-2024,M002,Preventive,2984,216,2,Motor,92,Wear,879,7.94,21-04-2024,Sean Edwards,4
+08-01-2023,M004,Preventive,1855,123,4,Bearing,63,Electrical Fault,827,3.36,28-03-2023,Diana Owens,2
+25-09-2022,M003,Preventive,2919,189,1,Belt,95,Wear,575,9.13,14-11-2022,Amy Cooke,2
+14-08-2022,M002,Preventive,4938,195,2,Sensor,84,Electrical Fault,967,6.89,27-09-2022,Stacey Stewart,3
+19-06-2022,M003,Preventive,4570,243,0,Belt,62,None,232,7.24,21-08-2022,Donald Sanders,2
+06-11-2022,M002,Preventive,3271,103,3,Bearing,24,Overload,676,3.99,07-01-2023,Stephen Allen,4
+14-05-2023,M003,Preventive,3136,281,4,Gearbox,83,Wear,609,1.02,06-07-2023,Theresa Freeman,2
+15-01-2023,M003,Preventive,3235,99,0,Belt,63,Overload,206,7.09,12-04-2023,Stephen Jones,3
+27-11-2022,M005,Reactive,1305,47,2,Sensor,27,None,804,4.55,11-02-2023,Luis Jones,2
+13-11-2022,M004,Preventive,4736,31,0,Belt,5,None,409,6.76,10-02-2023,Bruce Werner,4
+01-12-2024,M005,Preventive,568,68,2,Bearing,25,None,537,3.05,18-01-2025,Erika Whitney,1
+15-05-2022,M003,Preventive,1026,246,1,Belt,37,Overload,246,7.07,23-07-2022,Nancy Norton,4
+04-08-2024,M001,Preventive,4954,285,4,Motor,13,Wear,689,1.29,04-10-2024,Donna Ramirez,3
+18-08-2024,M005,Reactive,2288,171,4,Gearbox,11,Overload,443,5.8,15-10-2024,Jerry Moreno,3
+23-04-2023,M005,Preventive,1563,116,4,Bearing,83,Overload,628,6.46,30-06-2023,Pamela Wright,3
+25-12-2022,M001,Preventive,4969,219,1,Gearbox,31,Electrical Fault,228,4.45,28-01-2023,Ronald Meyer,5
+30-07-2023,M004,Reactive,3278,269,1,Bearing,73,Overload,996,2.48,03-10-2023,Meghan Thomas,1
+16-10-2022,M005,Preventive,1131,225,3,Motor,68,Wear,483,3.09,05-01-2023,Jay Thomas,4
+08-12-2024,M004,Preventive,3475,205,0,Sensor,44,Overload,589,3.75,26-02-2025,Timothy Smith,1
+18-12-2022,M002,Preventive,4770,233,3,Gearbox,58,None,229,3.05,10-03-2023,Jennifer Jones,1
+04-12-2022,M003,Reactive,3379,156,1,Belt,10,Wear,715,5.64,03-02-2023,Tina Shaw,1
+29-10-2023,M004,Reactive,3172,276,2,Motor,45,Overload,687,6.57,22-01-2024,Lisa Jones,5
+10-09-2023,M004,Preventive,1009,47,3,Belt,77,None,394,8.36,09-11-2023,Jennifer Powell,2
+03-09-2023,M001,Reactive,1998,172,1,Motor,44,Wear,134,6.78,17-11-2023,Dalton Nolan,1
+08-09-2024,M004,Preventive,4743,143,0,Motor,99,Overload,216,3.83,11-11-2024,Jacob Peterson,1
+21-01-2024,M002,Preventive,3976,257,1,Motor,70,Overload,120,8.7,17-04-2024,Lauren Carter,4
+12-01-2025,M001,Preventive,4058,61,2,Motor,61,Electrical Fault,954,5.35,02-04-2025,Sarah Wright,1
+24-11-2024,M002,Reactive,3678,69,4,Bearing,62,Electrical Fault,439,7.9,02-02-2025,Stacy Wiggins,5
+01-01-2023,M004,Reactive,1786,35,4,Motor,10,None,767,2.17,06-02-2023,Antonio Davis,2
+20-10-2024,M003,Preventive,2448,83,0,Motor,71,Wear,271,1.7,13-01-2025,Joseph Smith,4
+01-10-2023,M004,Preventive,3428,213,1,Bearing,70,Wear,238,5.61,14-11-2023,Mrs. Lisa Khan,3
+10-11-2024,M001,Preventive,4568,223,3,Motor,14,None,307,9.42,05-01-2025,Keith Gordon,2
+17-12-2023,M003,Preventive,2115,169,2,Gearbox,26,None,957,6.61,17-02-2024,Michael Mcconnell,1
+10-07-2022,M002,Preventive,1831,229,2,Belt,68,None,955,5.59,13-09-2022,David Adams,1
+28-01-2024,M005,Preventive,3031,145,1,Motor,18,Overload,771,7.51,22-04-2024,Robert Shepard,5
+21-01-2024,M002,Preventive,4356,230,3,Bearing,62,Overload,360,1.14,29-03-2024,Cassandra Hansen,2
+07-04-2024,M005,Preventive,716,195,0,Bearing,20,None,391,3.76,07-05-2024,Crystal Jones,5
+24-03-2024,M005,Reactive,4134,34,0,Gearbox,98,Wear,851,4.73,13-06-2024,Ryan Andrews,2
+21-04-2024,M001,Reactive,3887,275,4,Sensor,71,None,526,3.9,04-06-2024,Johnny Flores,5
+30-07-2023,M005,Preventive,743,55,0,Gearbox,99,None,138,5.57,06-09-2023,Joshua Harris,5
+07-08-2022,M005,Reactive,4005,160,1,Belt,26,Electrical Fault,490,3.33,19-09-2022,Tracy Wright,1
+17-11-2024,M001,Preventive,2026,165,1,Sensor,87,Overload,379,4.05,25-12-2024,Lisa Barrett,4
+06-04-2025,M001,Preventive,2402,175,0,Bearing,9,Overload,591,8.81,11-06-2025,Mr. Adam Brown Jr.,1
+31-07-2022,M004,Preventive,4754,199,3,Motor,38,Wear,770,7.08,03-10-2022,Edward Kent,3
+31-07-2022,M003,Preventive,4966,233,0,Sensor,31,None,139,6,28-09-2022,Rebecca Mejia,1
+23-02-2025,M003,Reactive,4904,52,1,Gearbox,99,Overload,558,1.32,11-05-2025,Brittany Carlson,3
+21-05-2023,M002,Preventive,4237,125,2,Sensor,76,Overload,591,8.01,14-08-2023,Cory Goodwin,2
+21-04-2024,M003,Reactive,653,37,4,Gearbox,51,None,509,3.4,03-07-2024,Matthew Benton,2
+28-01-2024,M004,Preventive,740,216,1,Sensor,28,Wear,917,5.62,13-03-2024,Susan Thomas,2
+09-06-2024,M002,Preventive,4882,261,3,Motor,21,None,106,5.31,15-08-2024,Troy Rice DDS,1
+15-10-2023,M002,Preventive,3756,187,0,Belt,79,None,855,7.74,02-01-2024,Denise Brown,5
+02-07-2023,M002,Reactive,2973,187,3,Bearing,54,Wear,707,2.16,12-09-2023,Michael Mullen,5
+06-10-2024,M001,Preventive,2770,62,1,Motor,25,None,323,3.07,26-12-2024,Emily Roberts,5
+26-11-2023,M002,Reactive,1726,180,3,Gearbox,84,Overload,467,7.68,08-02-2024,Sophia Howard,2
+17-09-2023,M004,Reactive,4774,71,4,Gearbox,58,Wear,347,6.64,05-11-2023,Albert Johnson,2
+18-12-2022,M003,Preventive,1557,220,3,Belt,69,Overload,701,9.52,04-03-2023,Luis Perez,1
+04-09-2022,M002,Preventive,1671,126,0,Motor,87,Overload,507,1.31,14-11-2022,Natasha James,3
+02-06-2024,M005,Reactive,3811,264,1,Belt,24,Electrical Fault,902,8.85,25-08-2024,Joshua Clark,4
+23-03-2025,M002,Preventive,2106,131,3,Belt,30,None,294,7.17,18-05-2025,Sarah Freeman,2
+15-01-2023,M003,Preventive,4840,129,1,Gearbox,41,Wear,885,2.28,15-02-2023,Louis West,5
+03-11-2024,M004,Reactive,1117,150,4,Bearing,80,Wear,191,7.19,15-12-2024,Zachary Reid,4
+01-05-2022,M003,Preventive,4234,206,3,Belt,32,Wear,925,8.67,10-07-2022,John Diaz,4
+02-03-2025,M005,Preventive,3927,55,2,Motor,41,Wear,512,7.73,01-04-2025,Michael Lara,3
+03-03-2024,M002,Reactive,2220,99,2,Bearing,13,Electrical Fault,638,9.1,28-05-2024,Jimmy Riley,4
+04-06-2023,M002,Reactive,2600,200,4,Belt,25,Overload,320,2.84,27-07-2023,Sara Brady,5
+26-11-2023,M005,Preventive,4902,168,1,Gearbox,11,Overload,976,9.23,26-01-2024,Susan Livingston,2
+12-06-2022,M002,Preventive,2377,39,2,Bearing,65,Wear,248,6.83,08-08-2022,Miguel Johnson,1
+26-05-2024,M005,Preventive,517,275,0,Bearing,17,Electrical Fault,794,1.42,01-08-2024,Lisa Perez,1
+09-06-2024,M002,Preventive,792,281,2,Sensor,20,Wear,788,6.57,14-07-2024,Carrie Strong,3
+29-12-2024,M002,Preventive,2413,265,2,Sensor,17,Overload,569,1.19,11-03-2025,Mary Rose,2
+14-04-2024,M002,Preventive,3309,35,4,Belt,16,Overload,446,1.58,08-06-2024,Matthew Williams,1
+17-11-2024,M004,Preventive,2511,213,3,Sensor,97,Electrical Fault,361,2.63,03-01-2025,William Wise MD,1
+17-09-2023,M002,Reactive,4031,85,0,Motor,56,None,537,1.81,15-12-2023,Kathryn Cherry,1
+09-07-2023,M004,Preventive,1900,101,4,Sensor,95,None,172,2.43,14-09-2023,Michael Spears,1
+23-04-2023,M004,Preventive,3881,73,4,Sensor,20,Overload,476,5.31,12-07-2023,Alexandria Lutz,1
+18-09-2022,M001,Preventive,989,41,0,Bearing,68,Overload,733,8.01,21-10-2022,Aaron Cooper,2
+30-10-2022,M005,Preventive,4871,76,4,Gearbox,98,Electrical Fault,924,7.24,19-01-2023,Joseph Robles,3
+21-07-2024,M002,Preventive,1079,189,3,Gearbox,83,None,389,4.89,20-08-2024,Stephen Smith,5
+15-05-2022,M002,Preventive,3228,33,2,Sensor,63,None,354,1.82,19-07-2022,Thomas Hensley,3
+25-08-2024,M004,Reactive,3392,170,4,Bearing,52,Wear,682,7.04,02-11-2024,Katie Torres,2
+28-01-2024,M001,Preventive,1714,204,1,Gearbox,77,Electrical Fault,484,8.47,04-04-2024,Christopher Li,4
+23-06-2024,M002,Reactive,4810,121,0,Belt,10,Electrical Fault,955,4.88,26-07-2024,Robert Gonzalez,1
+30-03-2025,M003,Preventive,2191,97,0,Motor,60,Overload,300,6.39,10-06-2025,Joshua Mitchell,5
+31-07-2022,M005,Reactive,4549,254,0,Motor,58,Wear,353,3.22,22-09-2022,John Roberts,5
+24-11-2024,M002,Preventive,2814,148,3,Belt,20,Wear,828,5.62,13-02-2025,Kimberly Nunez,4
+06-10-2024,M002,Reactive,3103,50,1,Belt,51,None,590,1.72,29-11-2024,Patrick Tucker,3
+28-01-2024,M003,Preventive,1856,42,2,Sensor,87,Overload,249,5.48,23-04-2024,Alexander Mann,3
+07-01-2024,M004,Preventive,3986,71,2,Motor,7,Wear,469,7.63,21-03-2024,Rodney English,1
+07-05-2023,M001,Preventive,2024,139,4,Sensor,11,Wear,972,8.04,27-06-2023,Sara Vaughn,2
+14-04-2024,M005,Preventive,4432,235,1,Belt,68,Overload,204,7.58,23-05-2024,Chase Barker,5
+20-04-2025,M001,Reactive,4445,42,1,Motor,67,Wear,674,2.77,09-07-2025,Kathleen Mcdaniel,1
+16-04-2023,M005,Preventive,2400,198,2,Sensor,99,None,266,2.82,17-05-2023,Matthew Lopez,1
+29-09-2024,M005,Preventive,984,270,2,Gearbox,98,Overload,874,2.55,14-12-2024,Vincent Thomas,1
+04-06-2023,M002,Reactive,3046,260,2,Belt,96,Wear,334,3.01,21-08-2023,Michael Barnes,2
+26-01-2025,M003,Reactive,4162,271,0,Belt,91,Electrical Fault,566,8.22,02-03-2025,Alan Reyes,1
+09-03-2025,M003,Preventive,4140,99,1,Gearbox,71,Overload,415,5.23,06-05-2025,Alexis Rivas,1
+18-12-2022,M004,Preventive,1870,148,3,Gearbox,78,Overload,277,4.46,15-02-2023,Jaime Kelly,5
+25-02-2024,M004,Preventive,2422,292,1,Motor,11,Electrical Fault,852,4.82,20-05-2024,Mary Chavez,3
+21-05-2023,M001,Preventive,3463,147,4,Bearing,40,Wear,225,9.42,13-08-2023,Paige Norton,5
+02-06-2024,M004,Preventive,1364,289,4,Motor,72,Overload,292,2.56,15-08-2024,David Hines,3
+05-06-2022,M004,Reactive,4601,230,1,Sensor,61,Electrical Fault,741,1.24,30-07-2022,Michael Carroll,4
+01-09-2024,M002,Preventive,1716,235,2,Motor,59,None,429,4.1,28-11-2024,Jessica Howard,5
+05-05-2024,M001,Reactive,1856,228,1,Sensor,26,Electrical Fault,594,6.13,14-07-2024,Nathan Williamson,3
+30-07-2023,M005,Preventive,4334,190,0,Sensor,52,Overload,844,7.66,27-10-2023,Rachael Perez,5
+14-01-2024,M005,Preventive,3925,261,3,Bearing,29,Electrical Fault,934,7,26-02-2024,Carolyn Friedman,3
+11-09-2022,M005,Preventive,3347,105,1,Gearbox,92,Wear,336,8.58,17-11-2022,Henry Long,2
+12-01-2025,M002,Reactive,3942,51,3,Bearing,82,None,602,7.71,22-03-2025,Shane Mcdaniel,1
+11-06-2023,M001,Preventive,541,208,3,Motor,53,Electrical Fault,962,8.03,26-07-2023,Jo Taylor,4
+19-06-2022,M003,Preventive,2775,271,3,Gearbox,99,Overload,802,1.13,08-09-2022,Deborah Shaffer,2
+28-04-2024,M002,Preventive,4508,198,2,Gearbox,87,Electrical Fault,248,5.13,18-07-2024,Helen James,5
+15-09-2024,M004,Preventive,1160,95,1,Belt,20,Electrical Fault,154,6.34,06-11-2024,Eileen Obrien,5
+15-09-2024,M002,Reactive,4568,177,2,Bearing,81,Electrical Fault,744,1.66,13-12-2024,Emily Greer,4
+06-10-2024,M002,Preventive,3195,255,1,Sensor,17,Overload,894,5.99,19-11-2024,Patricia Irwin DVM,4
+08-01-2023,M005,Preventive,1084,237,4,Gearbox,28,None,468,8.65,21-02-2023,Brent Baker,2
+29-12-2024,M001,Reactive,1632,41,4,Gearbox,59,Overload,249,4.91,10-03-2025,Shawn Holland,2
+12-05-2024,M004,Preventive,2094,126,2,Bearing,97,None,373,7.78,19-07-2024,Dennis Davis,1
+29-09-2024,M001,Reactive,1327,44,4,Motor,87,Wear,947,3.8,13-12-2024,Paul Brown,3
+22-12-2024,M005,Preventive,2421,132,3,Belt,56,Overload,940,5.24,07-03-2025,Julie Smith,4
+03-09-2023,M003,Preventive,2424,66,1,Motor,7,None,473,1.18,08-11-2023,Kellie Guerra,1
+05-06-2022,M002,Preventive,2458,220,2,Gearbox,58,Wear,398,6.83,15-08-2022,Sean Hunter,1
+20-11-2022,M005,Reactive,2047,255,2,Sensor,81,Overload,184,4.96,14-02-2023,Dan Hernandez,2
+26-05-2024,M001,Preventive,1908,232,4,Sensor,15,None,555,3.3,18-07-2024,Anthony Hernandez,3
+26-05-2024,M005,Preventive,2189,96,3,Sensor,22,None,353,4.92,23-07-2024,Kaitlin Jackson,5
+28-01-2024,M001,Reactive,1158,74,3,Belt,91,None,267,8.21,20-03-2024,Sarah Baker,2
+06-04-2025,M001,Preventive,3117,88,0,Bearing,19,Wear,573,3.17,09-06-2025,Haley Barrett,4
+06-08-2023,M002,Reactive,863,155,3,Belt,22,Overload,406,8.09,01-10-2023,Mr. Jeremy Chase,4
+14-08-2022,M002,Reactive,1384,199,0,Gearbox,55,Overload,732,9.37,12-10-2022,Mr. John Smith,4
+28-08-2022,M003,Preventive,2683,174,1,Motor,23,None,547,5.32,17-11-2022,Robert Wiley,2
+17-03-2024,M002,Reactive,4731,92,0,Belt,22,Electrical Fault,704,9.71,21-05-2024,Matthew Smith,1
+14-07-2024,M002,Reactive,4483,75,0,Belt,99,Overload,990,3.36,15-08-2024,Daniel White,1
+25-02-2024,M005,Preventive,1657,231,0,Bearing,13,Overload,938,3.56,04-05-2024,Gloria Wood,3
+10-12-2023,M003,Reactive,4085,177,1,Belt,95,None,290,6.38,29-02-2024,Jacob Torres,4
+05-02-2023,M003,Reactive,1741,154,3,Belt,85,Overload,181,6.43,16-03-2023,Lisa Barker,4
+27-10-2024,M003,Preventive,1432,181,3,Sensor,23,Electrical Fault,865,3.05,08-12-2024,Evan Padilla PhD,3
+02-06-2024,M004,Preventive,3811,227,1,Bearing,5,Wear,938,5.18,13-08-2024,Margaret Ochoa,4
+24-12-2023,M005,Preventive,4122,245,3,Sensor,6,Overload,869,3.17,17-02-2024,Brandy Peterson,5
+09-04-2023,M005,Preventive,2334,119,2,Sensor,54,None,684,9.17,09-06-2023,Derek Rogers,3
+22-05-2022,M002,Reactive,4137,48,4,Gearbox,41,Wear,750,8.3,10-07-2022,Kayla Everett,1
+25-09-2022,M005,Preventive,3077,41,2,Gearbox,26,Electrical Fault,907,7.5,20-11-2022,Matthew Martin,2
+26-01-2025,M004,Preventive,2712,62,0,Sensor,38,Overload,863,8.98,14-03-2025,Julie Meyer,3
+08-10-2023,M003,Preventive,2067,90,1,Gearbox,11,Electrical Fault,871,2.79,12-11-2023,Tracy Roberts,2
+14-08-2022,M004,Preventive,4150,101,4,Gearbox,28,Electrical Fault,434,8.88,14-09-2022,Jeffrey Thomas,2
+15-01-2023,M002,Preventive,4574,142,1,Bearing,77,Overload,627,3.71,23-02-2023,Christy Atkins,3
+25-12-2022,M004,Preventive,2819,53,3,Sensor,95,Wear,734,6.4,16-03-2023,Meredith Shepherd,3
+01-12-2024,M004,Preventive,3600,208,3,Gearbox,48,Wear,698,8.74,18-02-2025,Jordan Rivera,5
+13-10-2024,M004,Reactive,2328,278,0,Sensor,27,Electrical Fault,907,8.37,28-12-2024,John Wiley,3
+04-09-2022,M003,Preventive,1956,92,2,Bearing,56,Electrical Fault,716,2.89,06-11-2022,Carrie Rivera,5
+03-03-2024,M003,Preventive,3786,179,2,Motor,49,Overload,141,5.22,20-05-2024,James Green,4
+26-02-2023,M004,Reactive,3532,135,4,Motor,99,Electrical Fault,399,2.91,03-05-2023,Thomas Preston,5
+27-11-2022,M003,Preventive,4462,167,1,Sensor,29,None,689,4.05,20-02-2023,Keith Brown,5
+05-01-2025,M003,Preventive,2762,180,3,Gearbox,52,Wear,436,3.14,22-02-2025,Autumn Torres MD,1
+14-04-2024,M003,Preventive,4645,69,1,Bearing,69,Overload,469,5.08,07-07-2024,Francis Crosby,3
+22-01-2023,M002,Preventive,3991,197,1,Belt,74,Electrical Fault,830,2.13,21-03-2023,Isaac Whitney,5
+16-10-2022,M003,Reactive,2583,46,4,Belt,9,Overload,315,1.82,24-12-2022,Bill Wiley,4
+28-05-2023,M005,Reactive,1497,65,1,Sensor,64,Overload,557,8.02,18-07-2023,Daniel Salazar,4
+01-12-2024,M002,Preventive,928,263,3,Motor,16,None,656,2.72,25-02-2025,Matthew Neal,4
+24-12-2023,M002,Preventive,3723,204,1,Gearbox,7,Wear,740,5.41,21-02-2024,Gilbert Powell,2
+23-04-2023,M003,Reactive,4849,150,4,Gearbox,51,Overload,741,1.52,08-07-2023,Tiffany Rodgers,2
+29-09-2024,M005,Preventive,3968,264,4,Belt,41,Wear,498,4.11,22-11-2024,Benjamin Nielsen,1
+09-02-2025,M004,Preventive,3603,256,2,Motor,21,Wear,538,4.16,22-03-2025,Vicki Brown,3
+07-01-2024,M004,Preventive,4412,119,2,Sensor,7,Wear,801,7.97,27-03-2024,Jordan Robertson,3
+04-08-2024,M002,Preventive,2278,275,0,Belt,37,Electrical Fault,504,7.2,16-09-2024,Felicia Miller,4
+07-01-2024,M003,Preventive,3252,69,0,Bearing,97,Overload,385,9.47,10-03-2024,April Perez,1
+23-10-2022,M005,Preventive,1080,261,1,Bearing,58,Electrical Fault,680,9.75,18-01-2023,Alicia Tucker,3
+17-09-2023,M005,Preventive,4976,243,3,Gearbox,41,None,358,9.34,14-12-2023,Sarah Jones,2
+20-11-2022,M001,Reactive,3126,100,2,Belt,98,Overload,559,6.88,10-02-2023,David Hess,1
+10-03-2024,M001,Preventive,2989,262,3,Bearing,29,None,675,5.94,02-06-2024,Destiny Hammond,5
+03-07-2022,M001,Preventive,4446,198,1,Belt,8,None,524,7.71,21-09-2022,Ashley Scott,2
+10-09-2023,M004,Preventive,4887,276,1,Belt,48,Overload,409,3.53,25-10-2023,Cody Curtis,1
+19-02-2023,M002,Preventive,4912,80,2,Belt,63,Electrical Fault,200,7.76,02-05-2023,Steven Oliver,3
+30-07-2023,M003,Reactive,3780,172,4,Gearbox,41,Overload,259,8.09,14-09-2023,Glenn Schmidt DDS,5
+02-06-2024,M003,Reactive,3870,192,0,Motor,46,None,241,1.9,07-07-2024,Jonathan Torres,4
+19-01-2025,M003,Preventive,2081,288,3,Bearing,38,None,747,4.32,14-04-2025,Nancy Mahoney,4
+08-09-2024,M002,Preventive,4524,161,1,Belt,81,None,809,3.71,28-10-2024,Melissa Chan,1
+11-09-2022,M003,Preventive,2539,84,4,Gearbox,81,Wear,757,7.96,31-10-2022,Michelle Mayer,3
+31-12-2023,M005,Preventive,4276,246,4,Motor,80,Wear,559,5.66,13-03-2024,Marco Lawrence,4
+18-09-2022,M002,Preventive,1403,196,3,Motor,60,Overload,274,8.87,20-10-2022,Mrs. Victoria Wells,5
+16-10-2022,M002,Reactive,2198,161,1,Belt,17,Electrical Fault,827,3.36,04-01-2023,Mackenzie Rodriguez,4
+07-07-2024,M001,Reactive,2509,244,4,Gearbox,94,Wear,436,6.63,04-10-2024,Jeffery Gardner,1
+21-08-2022,M004,Preventive,2627,199,3,Bearing,70,Overload,117,2.64,11-11-2022,Sarah Ward,1
+31-12-2023,M002,Reactive,2037,136,0,Belt,17,None,178,3.21,21-03-2024,Michael Medina,3
+26-05-2024,M004,Preventive,1669,241,2,Gearbox,11,Electrical Fault,849,1.72,26-06-2024,Erin Sanders,4
+11-09-2022,M003,Preventive,3512,68,1,Sensor,22,None,310,9.28,28-10-2022,David Chavez,2
+30-04-2023,M003,Preventive,1645,257,1,Bearing,17,Overload,923,8.81,17-06-2023,Patricia Mckenzie,3
+12-06-2022,M003,Preventive,4744,278,3,Gearbox,18,Electrical Fault,382,7.1,06-09-2022,Megan Nichols,5
+27-08-2023,M002,Preventive,1713,155,2,Gearbox,7,Overload,477,7.14,18-11-2023,Steven Miller,5
+25-12-2022,M004,Reactive,2910,207,2,Bearing,94,Electrical Fault,514,8.44,15-02-2023,Aaron Wheeler,4
+11-06-2023,M005,Preventive,1135,256,3,Belt,33,Electrical Fault,779,1.06,12-07-2023,Bobby Reed,4
+01-01-2023,M004,Preventive,4333,261,0,Gearbox,29,None,255,8.08,25-02-2023,Laurie Aguilar,4
+21-07-2024,M005,Preventive,4333,172,1,Belt,48,None,626,5.02,02-09-2024,Cody Gentry,5
+14-04-2024,M004,Preventive,4133,195,3,Motor,97,Overload,915,6.42,28-05-2024,Lawrence Davis,5
+27-11-2022,M001,Preventive,1777,113,2,Bearing,71,None,166,3.24,19-02-2023,Daniel Sanchez,4
+15-12-2024,M002,Preventive,2901,191,1,Sensor,50,Overload,120,3.55,06-03-2025,Michael Irwin,5
+08-10-2023,M003,Preventive,1559,227,4,Motor,72,Wear,906,7.34,18-12-2023,Vincent Bryant,5
+25-12-2022,M005,Preventive,2490,257,0,Sensor,56,Overload,384,1.85,28-01-2023,James Jones,2
+23-06-2024,M005,Reactive,4789,294,0,Gearbox,95,Electrical Fault,786,9.8,06-09-2024,Jeff Dean,5
+25-09-2022,M004,Preventive,2752,120,4,Gearbox,33,None,581,5.64,05-11-2022,Angela Barnes,3
+23-06-2024,M001,Reactive,954,125,1,Bearing,74,Overload,450,1.32,10-08-2024,Pamela Kelly,1
+29-12-2024,M002,Preventive,556,140,3,Belt,40,None,975,1.51,28-01-2025,Anthony Benjamin,5
+18-12-2022,M004,Preventive,964,81,4,Gearbox,39,Wear,660,4.11,09-03-2023,Nancy Baker,2
+16-10-2022,M003,Preventive,697,148,0,Gearbox,22,Electrical Fault,660,6.94,21-12-2022,Erin Weeks,3
+29-12-2024,M002,Reactive,3609,180,2,Bearing,23,Overload,590,7.09,06-02-2025,Marie Pena,3
+24-12-2023,M005,Preventive,4996,139,0,Motor,36,Wear,229,4.95,21-03-2024,Lorraine Cooper,5
+26-05-2024,M001,Preventive,1911,142,1,Belt,26,Electrical Fault,382,5.25,16-07-2024,Tyler Suarez,5
+21-08-2022,M002,Reactive,2204,297,4,Belt,26,Wear,296,2.47,01-11-2022,Caleb Valencia,1
+19-05-2024,M004,Preventive,3089,195,1,Motor,50,Overload,427,6.35,08-07-2024,Michael Harper,3
+29-09-2024,M003,Reactive,3513,234,4,Motor,6,Wear,632,3,07-12-2024,Ms. Carla Miller,2
+18-08-2024,M001,Preventive,4940,152,4,Motor,64,Electrical Fault,109,9.15,19-10-2024,George Wagner,1
+01-01-2023,M005,Preventive,4335,107,0,Bearing,98,Overload,193,9.62,26-02-2023,Tiffany Knight,3
+24-09-2023,M004,Preventive,925,204,0,Motor,92,Electrical Fault,905,4.74,19-12-2023,Cynthia Martinez,2
+14-07-2024,M005,Reactive,4406,208,0,Sensor,98,None,394,1.78,18-08-2024,Christopher Reynolds,5
+15-10-2023,M003,Preventive,1969,112,1,Belt,63,Electrical Fault,282,3.92,22-11-2023,Corey Trevino,5
+19-02-2023,M002,Reactive,1949,209,1,Gearbox,87,Wear,657,7.95,11-04-2023,Sergio Walter,3
+04-06-2023,M004,Preventive,3168,167,3,Motor,69,None,925,6.56,28-08-2023,Jacob Cummings,4
+07-07-2024,M001,Preventive,2237,116,4,Motor,7,Electrical Fault,685,6.76,10-08-2024,Eric Khan,4
+08-09-2024,M003,Preventive,903,102,4,Gearbox,62,Electrical Fault,592,4.61,14-11-2024,Megan Hernandez,3
+11-02-2024,M005,Reactive,4588,225,0,Bearing,40,Overload,932,5.55,08-04-2024,Julie Bolton,1
+04-02-2024,M001,Reactive,3295,266,3,Belt,51,Overload,961,5.82,17-04-2024,Lisa Hawkins,4
+11-08-2024,M002,Reactive,1713,185,4,Sensor,89,Overload,503,8.01,12-10-2024,Gina Russell,1
+19-03-2023,M004,Preventive,2475,154,1,Belt,10,Overload,841,4.54,28-04-2023,Robert Jones,1
+18-02-2024,M004,Preventive,4097,284,4,Bearing,27,None,412,5,03-05-2024,Darlene Gonzalez,1
+29-10-2023,M001,Preventive,1725,142,0,Bearing,85,None,866,2.82,12-01-2024,Heather Baker,3
+05-06-2022,M004,Preventive,4071,129,4,Bearing,93,Wear,740,1.21,16-07-2022,David Cruz,2
+30-04-2023,M001,Reactive,1080,200,2,Bearing,53,Wear,244,1.95,21-06-2023,Aaron Kennedy,2
+09-03-2025,M003,Preventive,1265,65,1,Belt,21,Wear,328,7.65,29-05-2025,Rachel Williams,5
+01-09-2024,M005,Preventive,997,71,0,Motor,15,Wear,726,5.93,28-10-2024,Julian Rice,5
+24-03-2024,M002,Preventive,4412,162,3,Bearing,59,Electrical Fault,821,6.32,16-05-2024,Jamie Elliott,3
+14-07-2024,M003,Reactive,3012,205,4,Belt,22,Overload,899,3,17-09-2024,Jennifer Ramos,5
+19-11-2023,M002,Preventive,4867,295,1,Sensor,56,Wear,860,5.52,26-01-2024,Gail Boyd,3
+23-07-2023,M001,Preventive,1322,185,4,Motor,89,None,108,9.39,08-10-2023,Ronald Mooney,3
+11-06-2023,M003,Preventive,3435,98,3,Belt,93,None,964,9.06,17-07-2023,Christina Moore,1
+11-08-2024,M002,Preventive,2102,153,1,Belt,63,Overload,784,5.83,15-09-2024,Clinton Beck,3
+12-03-2023,M004,Preventive,1864,114,4,Sensor,25,None,517,8.93,03-06-2023,Michelle Brown,4
+09-10-2022,M005,Preventive,549,36,4,Motor,42,Overload,876,4.54,27-11-2022,Jason Moon,2
+14-05-2023,M002,Reactive,663,287,3,Bearing,50,None,866,6.64,03-07-2023,Jamie Williams,3
+30-07-2023,M005,Reactive,998,264,2,Motor,94,Overload,865,3.61,22-09-2023,Jordan Walker,5
+17-12-2023,M005,Preventive,2032,193,4,Gearbox,39,Electrical Fault,624,1.74,23-01-2024,Cheryl Brown,3
+11-02-2024,M005,Reactive,3169,219,2,Gearbox,50,Wear,190,9.08,25-03-2024,Lisa Arnold,3
+23-07-2023,M004,Preventive,4291,89,0,Belt,58,Wear,354,2.85,24-09-2023,Jennifer Cobb,5
+22-01-2023,M001,Preventive,680,83,3,Belt,62,Electrical Fault,635,4.46,03-04-2023,David Perez,4
+15-05-2022,M005,Preventive,2872,158,2,Motor,56,Electrical Fault,216,9.13,30-07-2022,Shelly Spears,3
+30-04-2023,M004,Reactive,1226,158,3,Belt,50,Electrical Fault,112,3.01,14-07-2023,Theresa Graham,5
+23-03-2025,M005,Preventive,3156,289,1,Sensor,35,None,763,7.82,15-06-2025,Rebecca Wagner,1
+12-11-2023,M005,Preventive,1365,135,2,Motor,49,Overload,487,6.58,15-12-2023,Mr. Stephen Griffin,5
+01-05-2022,M005,Preventive,3774,222,1,Sensor,28,Electrical Fault,489,5.86,23-06-2022,Kimberly Daniels,3
+15-09-2024,M003,Preventive,1020,160,4,Belt,55,None,961,8.48,19-10-2024,Michael Cooper,2
+24-03-2024,M005,Preventive,1160,283,1,Motor,69,Electrical Fault,301,9.78,21-06-2024,Brittney Green,1
+26-03-2023,M001,Preventive,4751,285,1,Motor,65,None,452,7.15,31-05-2023,Anthony Stephens,1
+28-04-2024,M005,Preventive,2187,209,0,Bearing,31,None,992,8.16,08-07-2024,Melanie Hill,3
+29-05-2022,M005,Preventive,1081,242,0,Belt,54,Electrical Fault,785,5.06,18-07-2022,Sean Williams,1
+20-04-2025,M002,Preventive,3774,31,1,Motor,83,Electrical Fault,416,7.97,27-05-2025,Raymond Rodriguez,3
+22-05-2022,M003,Preventive,1536,92,4,Bearing,39,Electrical Fault,986,1.13,21-06-2022,Daniel Jenkins,2
+27-11-2022,M002,Preventive,4310,265,0,Bearing,60,Overload,753,3.28,01-02-2023,Heather Munoz,4
+05-03-2023,M003,Preventive,2977,280,1,Gearbox,80,Electrical Fault,470,5.76,07-05-2023,Keith Sosa,2
+04-06-2023,M002,Preventive,2022,115,1,Gearbox,40,Overload,547,9.7,25-08-2023,Stacy Rivera,5
+07-01-2024,M005,Preventive,3038,299,2,Gearbox,61,Electrical Fault,375,6.25,05-03-2024,Justin Combs,4
+29-12-2024,M002,Reactive,3108,120,2,Sensor,37,None,169,2.52,13-03-2025,Marc Howard,2
+14-05-2023,M005,Preventive,1865,150,2,Gearbox,99,Electrical Fault,535,3.47,16-06-2023,Mary Thomas,2
+31-07-2022,M002,Preventive,4836,116,0,Gearbox,6,Wear,482,4.76,05-09-2022,Angela Smith,1
+14-04-2024,M001,Preventive,1761,154,4,Belt,33,Overload,643,6.25,29-05-2024,Erik Diaz,5
+14-05-2023,M001,Preventive,3374,180,4,Sensor,24,Overload,101,6.84,26-06-2023,Frederick Hughes,1
+21-08-2022,M001,Preventive,4319,85,0,Motor,25,None,866,4.67,04-10-2022,Brian Smith,4
+11-12-2022,M002,Preventive,1121,145,0,Belt,55,Overload,169,6.35,15-01-2023,Patrick Peterson,4
+20-04-2025,M003,Reactive,825,191,2,Bearing,8,Wear,317,9.81,02-07-2025,Nicole Jones,2
+16-02-2025,M001,Preventive,3985,132,3,Motor,82,Overload,955,4.98,30-03-2025,Alexa Todd,3
+08-09-2024,M003,Preventive,3001,242,4,Sensor,69,Electrical Fault,985,7.93,03-11-2024,Kenneth Leon,5
+14-05-2023,M001,Preventive,1967,61,3,Bearing,42,Overload,454,6.76,27-06-2023,Leslie Smith,1
+01-01-2023,M002,Preventive,2932,219,3,Bearing,20,None,337,5.02,06-03-2023,Tyler Robinson,4
+20-11-2022,M002,Reactive,4701,293,2,Bearing,47,Electrical Fault,655,7.73,26-12-2022,Scott Carlson,3
+26-11-2023,M005,Preventive,2029,180,0,Gearbox,52,Electrical Fault,525,7.25,06-01-2024,David Dawson,1
+24-09-2023,M003,Reactive,1907,206,4,Motor,45,Wear,362,3.91,21-12-2023,Danielle Schneider,3
+30-07-2023,M002,Preventive,3765,146,3,Motor,81,Electrical Fault,448,7.48,21-10-2023,Jeffrey Harding,1
+26-11-2023,M004,Preventive,4669,118,2,Bearing,29,Overload,835,7.72,16-01-2024,Sean Howe,5
+18-12-2022,M002,Preventive,1418,50,3,Motor,79,None,303,6.54,13-02-2023,Carl Anthony DDS,5
+11-06-2023,M001,Preventive,3740,64,3,Bearing,22,Electrical Fault,832,2.33,29-08-2023,Amanda Patton,3
+25-12-2022,M003,Preventive,941,251,4,Belt,34,None,743,3.68,24-02-2023,Michael Melendez,5
+05-06-2022,M002,Preventive,1534,282,3,Sensor,78,Wear,898,3.22,11-08-2022,Christopher Duran,2
+12-02-2023,M001,Preventive,672,71,4,Sensor,83,Electrical Fault,553,1.27,02-05-2023,Brittany Grant,5
+27-04-2025,M003,Preventive,4418,62,4,Sensor,80,None,885,9.61,18-07-2025,Daniel Paul,3
+16-03-2025,M004,Reactive,1727,272,3,Motor,45,Overload,762,8.6,20-04-2025,David Malone,2
+04-12-2022,M003,Preventive,2917,284,0,Sensor,28,Electrical Fault,702,1.83,25-01-2023,Randy Estrada,4
+17-09-2023,M005,Preventive,2655,152,3,Gearbox,28,Wear,127,5.77,13-12-2023,Hannah Rojas,2
+11-09-2022,M001,Reactive,1768,76,1,Gearbox,63,Overload,986,3.77,10-11-2022,Sara Gill,2
+15-01-2023,M005,Preventive,1162,266,2,Sensor,48,Wear,664,2.12,30-03-2023,April Farmer,2
+05-05-2024,M004,Preventive,1563,119,3,Belt,49,None,368,1.98,21-07-2024,William Le,4
+12-11-2023,M005,Preventive,3314,152,4,Motor,11,None,676,2.6,22-01-2024,Kristin Lewis,2
+03-07-2022,M002,Preventive,2696,242,3,Bearing,26,Overload,547,7.38,03-08-2022,Robert Stone,2
+19-02-2023,M002,Preventive,2080,160,0,Sensor,42,Overload,111,6.78,01-04-2023,Samuel Espinoza,4
+23-04-2023,M002,Reactive,1058,40,2,Belt,54,None,464,3.35,15-07-2023,Todd Horton,4
+07-07-2024,M002,Reactive,4199,159,2,Belt,92,Wear,910,3.14,04-09-2024,Garrett Cameron,2
+09-07-2023,M002,Reactive,2058,234,2,Sensor,27,Wear,137,7.68,28-09-2023,Leslie Padilla,1

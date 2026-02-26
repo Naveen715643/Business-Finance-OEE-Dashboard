@@ -1,0 +1,1001 @@
+Date,Machine_ID,Machine_Name,Shift,Units_Produced,Downtime_Minutes,Scrap_Units,Defect_Percentage,Machine_Utilization (%),Bottleneck_Reason,Delay_Cause,Planned_Production,Actual_Production,Energy_Consumption (kWh),Operator_Name
+2023-01-14,M003,Machine_M003,Swing,845,2,1,4.02,67.07,Operator Error,None,976,845,1097,James Donaldson
+2024-10-06,M003,Machine_M003,Day,542,115,2,1.52,77.64,Operator Error,Maintenance Delay,624,542,1408,Roberto Morris
+2024-07-21,M003,Machine_M003,Day,362,104,16,2.66,60.52,Operator Error,Power Issue,498,362,1433,Jackie Mooney
+2024-10-15,M005,Machine_M005,Day,481,57,12,2.85,72.77,Tooling Issue,Power Issue,575,481,1423,Albert Herrera
+2025-01-25,M004,Machine_M004,Night,651,60,26,4.4,60.71,Operator Error,None,709,651,1048,Maria Montgomery
+2023-01-27,M001,Machine_M001,Swing,742,55,25,1.56,63.05,Material Shortage,Maintenance Delay,829,742,1810,Stephanie Simmons
+2022-11-20,M001,Machine_M001,Swing,694,44,21,3.3,71.52,None,Power Issue,822,694,1804,Cristina Reilly
+2024-10-17,M003,Machine_M003,Night,657,98,7,2.26,61.75,Material Shortage,Setup Delay,777,657,1219,Karen Reed
+2022-08-24,M004,Machine_M004,Night,351,66,15,2.15,92.08,None,Power Issue,405,351,1217,Anne Strong
+2023-10-01,M004,Machine_M004,Night,731,27,19,4.66,72.11,Tooling Issue,Setup Delay,832,731,1472,Keith Le
+2024-10-13,M002,Machine_M002,Day,584,106,16,3.12,93.55,Tooling Issue,Power Issue,713,584,1083,Elizabeth Wallace
+2024-11-18,M004,Machine_M004,Day,991,63,30,3.73,84.23,Material Shortage,Power Issue,1093,991,1930,Amanda Lewis
+2023-07-24,M005,Machine_M005,Day,309,92,4,0.62,91.91,None,Setup Delay,383,309,1389,Frederick Bryant
+2024-09-16,M002,Machine_M002,Day,381,42,12,1.19,89.83,Operator Error,Setup Delay,519,381,1288,Nancy Moore
+2023-03-29,M004,Machine_M004,Day,980,64,42,3.36,75.98,Tooling Issue,Setup Delay,1086,980,1437,Robert Dixon
+2025-01-09,M004,Machine_M004,Day,846,65,12,0.89,67.48,Operator Error,Power Issue,988,846,1636,Michael Simmons
+2023-05-10,M003,Machine_M003,Night,637,69,27,1.66,91.39,Material Shortage,Setup Delay,770,637,1827,Benjamin Nicholson
+2023-08-19,M003,Machine_M003,Swing,889,64,19,4.94,94.25,Operator Error,Power Issue,993,889,1600,Barbara Haney
+2024-04-30,M001,Machine_M001,Day,497,65,24,0.98,89.7,Tooling Issue,Power Issue,567,497,1593,Vanessa Glass
+2024-09-17,M005,Machine_M005,Night,425,8,13,1.53,94.71,Operator Error,None,494,425,1476,Andrea Duke
+2024-01-26,M002,Machine_M002,Swing,342,15,2,0.64,83.38,Material Shortage,None,491,342,1418,Valerie Phillips
+2024-09-29,M001,Machine_M001,Swing,536,103,18,4.0,72.74,Material Shortage,Power Issue,647,536,1167,Michael Strickland PhD
+2024-10-27,M005,Machine_M005,Swing,487,89,16,2.41,67.05,Material Shortage,Setup Delay,584,487,1754,Leah Walsh
+2022-08-29,M004,Machine_M004,Night,161,47,8,3.17,63.98,Tooling Issue,Power Issue,249,161,1867,Kimberly Hoffman
+2023-11-28,M004,Machine_M004,Day,559,60,12,2.01,84.41,Material Shortage,Power Issue,658,559,1986,Cynthia Young
+2024-03-14,M003,Machine_M003,Day,559,47,19,3.29,61.52,Material Shortage,Power Issue,628,559,1828,Tyler Brown
+2022-08-31,M004,Machine_M004,Day,828,58,11,1.88,66.05,Material Shortage,Power Issue,905,828,1035,Kayla Johnston
+2022-10-06,M001,Machine_M001,Swing,734,43,7,2.66,86.44,Material Shortage,None,822,734,1966,Nicole Gibson
+2023-01-23,M005,Machine_M005,Swing,743,2,19,2.81,78.03,None,Setup Delay,839,743,1994,Susan Riley
+2024-04-17,M002,Machine_M002,Swing,743,19,11,3.74,90.86,Tooling Issue,None,834,743,1048,Evelyn Farrell
+2022-12-17,M002,Machine_M002,Night,211,0,7,4.96,74.83,Operator Error,Setup Delay,315,211,1975,Shannon Wallace
+2023-11-11,M005,Machine_M005,Swing,456,51,12,2.47,64.21,Tooling Issue,Maintenance Delay,532,456,1619,Donald Boone
+2024-04-02,M005,Machine_M005,Day,661,90,25,4.67,81.86,Tooling Issue,None,793,661,1360,Nicole Yang
+2023-03-16,M003,Machine_M003,Day,518,104,20,4.23,62.26,None,Power Issue,667,518,1626,Jacqueline Ramirez
+2024-08-08,M004,Machine_M004,Night,775,16,36,3.18,64.84,Tooling Issue,Setup Delay,882,775,1786,Elizabeth Chan
+2023-09-26,M002,Machine_M002,Swing,726,110,3,3.82,72.03,Operator Error,Maintenance Delay,848,726,1121,James Thompson
+2024-01-01,M005,Machine_M005,Day,369,65,1,3.13,65.87,Operator Error,None,491,369,1541,Jesus Faulkner
+2023-06-27,M001,Machine_M001,Swing,614,21,6,2.59,82.24,Tooling Issue,Setup Delay,668,614,1479,Denise Parsons
+2024-02-16,M001,Machine_M001,Swing,998,86,49,4.42,79.35,Material Shortage,Maintenance Delay,1100,998,1299,Cynthia Harris
+2024-11-21,M005,Machine_M005,Day,558,9,2,4.3,69.48,Tooling Issue,None,641,558,1364,Laurie Allen
+2023-08-17,M004,Machine_M004,Day,392,81,18,3.67,60.47,Operator Error,Power Issue,495,392,1414,Steven Townsend
+2024-10-06,M001,Machine_M001,Swing,473,7,12,4.31,85.61,Operator Error,Maintenance Delay,573,473,1571,Christopher Cisneros
+2022-11-25,M003,Machine_M003,Night,912,60,21,2.01,75.01,Operator Error,None,1053,912,1993,Thomas Weber
+2023-11-04,M003,Machine_M003,Swing,609,29,21,2.43,78.61,None,None,703,609,1092,Ana Stout
+2023-03-22,M003,Machine_M003,Swing,603,28,17,0.87,72.81,Operator Error,Maintenance Delay,687,603,1888,Maria Mitchell
+2024-09-06,M003,Machine_M003,Night,687,72,15,1.03,67.41,Tooling Issue,Maintenance Delay,834,687,1759,Jeremy Dyer
+2024-11-19,M002,Machine_M002,Day,577,93,4,3.57,60.65,Tooling Issue,None,670,577,1779,John Kelly
+2025-02-01,M005,Machine_M005,Night,426,81,5,3.41,94.3,None,Setup Delay,477,426,1136,Kenneth Parks
+2023-03-31,M004,Machine_M004,Night,491,42,6,2.4,82.87,Tooling Issue,Power Issue,633,491,1118,Kyle Brown
+2023-06-05,M001,Machine_M001,Night,641,9,31,2.6,92.34,Material Shortage,Maintenance Delay,713,641,1853,Jacob Riley
+2023-08-26,M003,Machine_M003,Swing,223,25,10,4.24,92.67,None,Power Issue,363,223,1268,Eric Rowe
+2024-02-07,M004,Machine_M004,Day,587,39,4,4.03,80.17,Operator Error,Power Issue,646,587,1980,April Jackson
+2023-02-15,M004,Machine_M004,Night,784,82,16,1.46,68.25,Operator Error,Maintenance Delay,918,784,1917,Ariana Juarez
+2024-12-18,M004,Machine_M004,Day,715,1,8,4.3,73.64,Tooling Issue,None,790,715,1256,Louis Deleon
+2024-03-29,M003,Machine_M003,Day,811,17,30,3.52,79.65,Operator Error,Power Issue,895,811,1819,Rachel Rogers
+2023-05-10,M003,Machine_M003,Swing,478,77,15,2.84,94.02,None,Setup Delay,611,478,1662,Emily Phillips
+2023-05-11,M001,Machine_M001,Day,958,3,46,1.06,86.24,None,Power Issue,1102,958,1204,Chloe Lambert
+2023-03-07,M001,Machine_M001,Day,493,94,24,0.54,73.25,Material Shortage,Maintenance Delay,562,493,1249,Cameron Douglas
+2022-12-18,M003,Machine_M003,Swing,313,96,5,2.81,62.56,None,Maintenance Delay,392,313,1407,Elizabeth Harris
+2023-11-22,M002,Machine_M002,Day,729,99,15,2.21,64.73,Tooling Issue,Setup Delay,876,729,1585,Teresa Chapman
+2025-04-05,M001,Machine_M001,Swing,304,29,14,3.85,87.84,None,Setup Delay,397,304,1588,Nicolas Beck
+2024-02-11,M005,Machine_M005,Night,834,34,3,1.7,87.03,Tooling Issue,None,957,834,1846,Christina Williams
+2022-08-06,M001,Machine_M001,Day,514,73,8,0.54,81.96,None,Maintenance Delay,584,514,1445,James Davidson
+2025-02-07,M002,Machine_M002,Swing,932,76,32,2.51,75.43,None,Maintenance Delay,1068,932,1732,Thomas Riley
+2024-03-28,M005,Machine_M005,Swing,586,117,11,4.92,80.14,Operator Error,None,650,586,1431,Johnathan Cook
+2024-09-22,M003,Machine_M003,Day,125,51,4,4.77,81.91,None,Setup Delay,264,125,1043,Lisa Solomon
+2022-12-25,M001,Machine_M001,Day,277,39,13,1.65,82.56,Material Shortage,None,411,277,1979,Danielle Morse
+2022-10-19,M002,Machine_M002,Swing,484,63,9,1.95,63.82,None,Power Issue,540,484,1726,Ronald Bennett
+2022-11-01,M005,Machine_M005,Swing,113,57,1,2.69,86.73,Tooling Issue,None,244,113,1897,James Martinez
+2022-10-10,M002,Machine_M002,Swing,980,33,5,3.13,82.02,None,Maintenance Delay,1093,980,1986,John Fowler
+2022-07-09,M001,Machine_M001,Night,545,99,14,3.77,81.7,Tooling Issue,Power Issue,613,545,1935,William Herring
+2023-03-21,M005,Machine_M005,Night,930,18,7,2.32,67.57,Tooling Issue,Maintenance Delay,1029,930,1610,Caitlin Richardson
+2025-01-05,M003,Machine_M003,Swing,271,31,7,1.5,70.61,Tooling Issue,Maintenance Delay,341,271,1202,Holly Alvarez
+2024-10-17,M001,Machine_M001,Swing,550,49,15,2.21,87.78,None,Setup Delay,637,550,1329,Steven Sanchez
+2022-08-25,M005,Machine_M005,Swing,313,22,1,4.1,60.26,Tooling Issue,Maintenance Delay,428,313,1821,Christopher Higgins
+2023-10-03,M001,Machine_M001,Day,975,37,9,4.76,73.29,Material Shortage,Power Issue,1057,975,1328,Megan Dickerson
+2022-09-20,M003,Machine_M003,Swing,152,69,4,1.94,85.94,None,Power Issue,288,152,1654,Harold Miller
+2023-09-05,M003,Machine_M003,Day,376,55,8,1.7,82.95,Material Shortage,Power Issue,426,376,1990,Matthew Hill
+2025-01-05,M004,Machine_M004,Night,570,60,2,0.6,86.37,None,None,641,570,1081,Christopher Ramirez
+2023-03-17,M002,Machine_M002,Day,165,76,7,2.81,84.39,None,Setup Delay,279,165,1424,Olivia Long
+2024-11-03,M002,Machine_M002,Night,965,37,15,4.83,61.87,Tooling Issue,Setup Delay,1101,965,1349,Mr. Patrick Alexander
+2025-03-14,M002,Machine_M002,Day,791,25,17,4.48,72.17,None,Setup Delay,901,791,1785,Joseph Nelson
+2024-08-31,M005,Machine_M005,Night,899,57,6,1.88,71.88,None,Setup Delay,1037,899,1363,Mrs. Dawn Gillespie
+2022-11-21,M002,Machine_M002,Day,375,5,2,1.44,86.84,Operator Error,Maintenance Delay,459,375,1198,Jesse Young
+2024-02-20,M003,Machine_M003,Night,889,116,18,3.2,84.65,None,None,963,889,1703,Austin Jones
+2022-12-22,M001,Machine_M001,Swing,218,90,8,2.55,87.58,Material Shortage,Power Issue,282,218,1666,Danielle Henson
+2023-01-15,M003,Machine_M003,Swing,162,65,0,0.72,90.37,Operator Error,Power Issue,281,162,1683,Elizabeth Evans
+2022-08-02,M003,Machine_M003,Swing,157,86,4,3.9,77.73,Tooling Issue,Maintenance Delay,301,157,1043,Tyler Woods
+2024-07-24,M002,Machine_M002,Day,399,98,15,1.54,82.76,None,Setup Delay,460,399,1378,Susan Taylor
+2023-08-27,M001,Machine_M001,Day,446,88,4,4.99,67.1,Tooling Issue,Setup Delay,543,446,1672,Kristen Hoffman
+2024-12-04,M005,Machine_M005,Swing,717,86,27,3.46,89.68,Operator Error,Power Issue,776,717,1656,Donna Guzman
+2022-09-10,M005,Machine_M005,Day,188,69,8,2.48,78.89,Operator Error,None,271,188,1617,Jennifer Ryan
+2023-01-21,M005,Machine_M005,Night,537,17,26,0.74,62.21,Operator Error,Maintenance Delay,637,537,1179,Alyssa Roman
+2023-07-01,M003,Machine_M003,Swing,137,58,1,0.67,84.26,None,None,272,137,1097,Megan Leon
+2024-11-27,M005,Machine_M005,Night,837,113,28,1.47,63.75,Material Shortage,Power Issue,921,837,1123,Nicole Carter
+2024-05-29,M005,Machine_M005,Swing,197,84,1,1.31,60.31,Tooling Issue,Setup Delay,271,197,1156,Cody Schmitt
+2023-09-09,M001,Machine_M001,Night,866,99,16,1.86,76.35,Material Shortage,Maintenance Delay,970,866,1647,Sandra Howard
+2024-04-01,M002,Machine_M002,Night,978,37,22,2.44,73.83,Tooling Issue,Power Issue,1039,978,1335,Amy Thomas
+2024-03-05,M002,Machine_M002,Day,211,34,2,4.88,83.46,Material Shortage,Setup Delay,272,211,1307,Jenny Young
+2023-04-02,M001,Machine_M001,Night,114,100,1,4.7,93.28,Material Shortage,None,253,114,1724,James Hughes
+2022-06-07,M002,Machine_M002,Night,150,58,1,4.21,80.64,Tooling Issue,Setup Delay,291,150,1949,Stephanie Peck
+2023-01-03,M003,Machine_M003,Day,744,90,22,3.09,85.26,None,Setup Delay,804,744,1515,Michelle Williams
+2025-03-03,M004,Machine_M004,Swing,555,35,2,2.55,83.96,Tooling Issue,Power Issue,682,555,1493,Wesley French
+2024-08-12,M003,Machine_M003,Day,760,41,2,3.64,76.7,Material Shortage,None,901,760,1203,Melissa Jones
+2022-09-08,M005,Machine_M005,Night,228,112,6,0.86,73.38,Operator Error,Setup Delay,356,228,1750,Kayla Barry
+2024-07-06,M001,Machine_M001,Swing,495,6,21,1.12,87.35,Operator Error,Setup Delay,640,495,1159,Robin Ramirez
+2023-07-16,M004,Machine_M004,Swing,205,22,7,3.51,82.21,None,Power Issue,308,205,1938,Lee Deleon
+2023-01-04,M001,Machine_M001,Night,196,20,0,2.89,60.06,Material Shortage,None,259,196,1180,Ricardo Lynn
+2024-07-19,M004,Machine_M004,Day,898,45,25,4.33,82.58,Operator Error,Power Issue,1030,898,1386,John Peterson
+2024-09-25,M003,Machine_M003,Day,174,100,0,4.43,93.65,Material Shortage,Power Issue,296,174,1586,Joseph Marquez
+2025-01-28,M004,Machine_M004,Swing,442,114,10,4.15,65.86,Material Shortage,None,516,442,1522,Christy Mahoney
+2023-01-21,M004,Machine_M004,Night,422,20,4,3.67,68.08,None,Power Issue,530,422,1669,David Gaines
+2024-07-01,M005,Machine_M005,Day,231,65,1,4.87,68.13,Tooling Issue,Setup Delay,372,231,1014,Sophia Kelley
+2024-07-28,M003,Machine_M003,Day,169,26,4,2.6,80.58,Operator Error,Maintenance Delay,245,169,1290,Patrick Holt
+2022-10-19,M003,Machine_M003,Day,231,25,4,2.3,65.24,Tooling Issue,Setup Delay,349,231,1154,John Ramirez
+2023-04-30,M005,Machine_M005,Day,762,14,18,0.76,88.01,Material Shortage,None,812,762,1280,Jacob Keller
+2022-07-22,M003,Machine_M003,Day,556,105,10,3.35,67.0,None,None,658,556,1510,Willie Yoder
+2023-04-14,M005,Machine_M005,Swing,632,57,4,1.16,85.23,Material Shortage,Setup Delay,682,632,1497,Carly Robertson
+2024-02-10,M005,Machine_M005,Swing,883,47,34,2.61,61.41,Material Shortage,Power Issue,941,883,1711,Eric Phillips
+2023-10-05,M004,Machine_M004,Day,200,72,8,2.01,88.8,Material Shortage,Maintenance Delay,302,200,1529,Olivia Lee
+2023-05-20,M002,Machine_M002,Night,158,46,5,2.69,63.28,None,Power Issue,283,158,1019,Deborah Jackson
+2022-08-01,M003,Machine_M003,Day,221,20,9,3.63,92.88,None,Power Issue,344,221,1589,Heidi Lawson
+2022-11-22,M005,Machine_M005,Swing,596,70,12,1.22,72.72,None,Power Issue,717,596,1634,Mark Hernandez
+2022-06-19,M004,Machine_M004,Night,609,72,14,4.7,74.68,None,Power Issue,735,609,1958,Tracy Dodson
+2024-02-06,M001,Machine_M001,Day,469,74,7,4.55,82.29,None,Setup Delay,586,469,1199,Gary Stone
+2024-03-10,M003,Machine_M003,Night,382,80,0,1.67,89.36,None,Power Issue,495,382,1989,Andrea White
+2022-07-06,M005,Machine_M005,Night,540,28,19,4.64,67.37,None,Setup Delay,621,540,1647,Mario Williams
+2024-03-19,M002,Machine_M002,Swing,621,82,16,2.59,65.34,None,Setup Delay,726,621,1154,Daniel Davis
+2022-08-17,M005,Machine_M005,Day,292,44,10,2.81,78.43,Tooling Issue,None,407,292,1624,Ruth Richardson
+2024-11-13,M003,Machine_M003,Swing,321,31,1,4.79,88.94,Operator Error,Setup Delay,452,321,1025,Alicia Cooper
+2024-01-28,M002,Machine_M002,Day,171,71,4,1.89,78.9,Material Shortage,Maintenance Delay,292,171,1964,Matthew Vargas
+2024-06-14,M001,Machine_M001,Night,859,30,7,4.71,89.34,None,Power Issue,925,859,1164,Christina Brown
+2023-10-04,M002,Machine_M002,Swing,424,51,12,2.38,75.59,None,Setup Delay,489,424,1788,Victor Wood
+2024-12-15,M002,Machine_M002,Night,900,108,12,4.79,88.0,Tooling Issue,None,1022,900,1110,John Alexander
+2024-10-05,M003,Machine_M003,Night,904,2,41,1.49,62.75,None,Maintenance Delay,1040,904,1413,Denise Smith
+2023-12-14,M002,Machine_M002,Night,665,92,32,2.84,60.13,None,Setup Delay,768,665,1669,Joshua Smith
+2024-12-08,M003,Machine_M003,Day,631,109,29,0.51,69.72,Operator Error,Maintenance Delay,751,631,1993,Kimberly Dunn
+2023-10-13,M001,Machine_M001,Night,968,5,44,0.65,73.24,Operator Error,None,1082,968,1314,Joshua Craig
+2023-11-04,M004,Machine_M004,Swing,590,49,6,1.36,62.4,Operator Error,None,707,590,1896,Benjamin Doyle
+2024-06-18,M002,Machine_M002,Swing,928,95,22,0.92,77.96,Tooling Issue,Setup Delay,1039,928,1200,William Gonzales
+2024-08-20,M005,Machine_M005,Swing,643,116,22,2.98,90.0,None,Setup Delay,777,643,1551,Thomas Smith
+2023-02-14,M003,Machine_M003,Swing,539,36,7,3.79,69.5,None,None,676,539,1697,Jamie Garrett
+2024-03-02,M002,Machine_M002,Day,292,107,5,4.94,65.6,None,Setup Delay,362,292,1995,Daniel Paul
+2022-12-21,M002,Machine_M002,Swing,392,104,17,4.75,76.43,Tooling Issue,Maintenance Delay,452,392,1043,Stephanie Myers
+2023-07-04,M005,Machine_M005,Day,699,0,18,3.85,94.56,Material Shortage,Setup Delay,815,699,1443,Stephanie Kim
+2022-12-21,M004,Machine_M004,Night,413,64,16,2.75,82.1,Operator Error,Power Issue,476,413,1019,Zoe Miller
+2022-09-18,M001,Machine_M001,Swing,858,104,0,1.4,70.47,None,Setup Delay,1001,858,1557,Jessica Thomas
+2024-05-24,M003,Machine_M003,Night,282,51,13,4.04,68.36,Material Shortage,None,384,282,1145,James Mccarthy
+2024-08-25,M004,Machine_M004,Night,750,57,3,4.43,70.68,None,Power Issue,845,750,1176,Michelle Johnson
+2023-05-13,M002,Machine_M002,Swing,769,80,30,3.09,79.88,Tooling Issue,None,860,769,1441,Julie Gonzalez
+2024-03-20,M002,Machine_M002,Night,193,34,5,1.1,70.5,None,None,252,193,1872,Jeremy Cisneros
+2024-08-14,M005,Machine_M005,Swing,744,35,6,4.43,82.07,Operator Error,None,879,744,1326,Stephen Brooks
+2023-11-14,M004,Machine_M004,Swing,585,106,21,1.22,63.17,Tooling Issue,None,647,585,1181,Mary Jackson
+2024-02-08,M004,Machine_M004,Day,892,4,20,4.93,79.52,None,Setup Delay,1021,892,1522,John Terry
+2024-03-29,M004,Machine_M004,Swing,810,40,23,1.72,71.7,Operator Error,Maintenance Delay,869,810,1670,Jared Carney
+2023-02-10,M001,Machine_M001,Swing,275,53,0,3.1,61.53,Material Shortage,Maintenance Delay,356,275,1552,Jeremy Brown
+2022-09-14,M002,Machine_M002,Swing,670,116,17,3.08,81.46,None,Power Issue,752,670,1355,Amy Miller
+2022-05-14,M001,Machine_M001,Night,268,9,0,2.3,68.8,None,Setup Delay,318,268,1238,Andrew Reyes
+2022-05-04,M004,Machine_M004,Night,348,96,4,1.09,64.11,Tooling Issue,None,414,348,1910,Doris Solis
+2022-10-31,M002,Machine_M002,Swing,142,66,0,0.96,90.43,Operator Error,None,269,142,1509,Deborah Hines
+2023-02-19,M004,Machine_M004,Night,549,13,20,1.67,85.11,Operator Error,None,605,549,1918,Jenny Clark
+2025-04-13,M003,Machine_M003,Swing,301,57,12,4.36,87.57,Operator Error,Setup Delay,412,301,1198,Leslie Montgomery
+2024-11-12,M005,Machine_M005,Night,531,33,24,2.4,73.8,Operator Error,None,629,531,1947,Sarah Martinez
+2023-10-31,M005,Machine_M005,Day,414,103,13,4.93,92.9,Material Shortage,Power Issue,543,414,1357,Brandon Villa
+2024-06-10,M003,Machine_M003,Day,707,22,12,3.67,74.1,Operator Error,Power Issue,778,707,1772,Laura Johnson
+2023-07-20,M001,Machine_M001,Day,937,27,34,0.96,62.85,Operator Error,None,1064,937,1038,Sarah Harper
+2025-02-15,M005,Machine_M005,Night,590,61,25,4.39,63.55,None,None,648,590,1681,Robert Fry
+2024-03-24,M005,Machine_M005,Swing,696,80,16,2.48,63.47,Material Shortage,Maintenance Delay,763,696,1918,Travis Hunter
+2024-05-11,M001,Machine_M001,Day,641,111,9,2.78,92.28,Tooling Issue,Maintenance Delay,730,641,1134,Brian Walker
+2024-02-05,M002,Machine_M002,Day,787,61,32,1.36,72.96,None,Power Issue,880,787,1331,Tyler Guerrero
+2023-06-16,M003,Machine_M003,Swing,792,64,19,0.57,82.4,None,Power Issue,853,792,1493,Jeremy Bell
+2023-04-11,M002,Machine_M002,Night,476,51,2,2.3,61.52,Tooling Issue,Power Issue,576,476,1066,Jason Carey
+2023-07-18,M001,Machine_M001,Day,239,99,3,2.2,85.66,None,Power Issue,289,239,1210,John Anderson
+2023-08-27,M001,Machine_M001,Swing,748,70,20,2.13,78.75,None,Setup Delay,849,748,1586,Russell Robertson
+2024-05-03,M005,Machine_M005,Night,699,51,22,4.74,94.27,Material Shortage,Maintenance Delay,749,699,1087,Timothy Rhodes
+2024-08-17,M002,Machine_M002,Day,320,91,12,0.99,79.85,Tooling Issue,None,426,320,1709,Christopher Moore
+2022-08-25,M005,Machine_M005,Day,294,10,11,2.69,61.89,None,Setup Delay,420,294,1933,Elizabeth Williams
+2023-11-24,M001,Machine_M001,Day,179,97,4,4.97,68.48,Operator Error,Setup Delay,287,179,1056,James Miller
+2022-08-18,M004,Machine_M004,Swing,865,48,6,2.5,65.52,Tooling Issue,Power Issue,969,865,1119,Christopher Kirk
+2022-09-07,M003,Machine_M003,Night,465,110,19,4.08,80.82,Tooling Issue,Power Issue,566,465,1574,Brandy Turner MD
+2023-10-30,M004,Machine_M004,Night,187,22,5,2.01,64.41,Operator Error,Setup Delay,269,187,1334,Jeffrey Simmons
+2023-07-18,M002,Machine_M002,Night,480,88,15,1.51,90.08,None,Power Issue,601,480,1478,Thomas Richardson
+2022-07-17,M004,Machine_M004,Swing,794,8,35,3.7,85.81,Operator Error,Setup Delay,894,794,1783,Eric Francis
+2024-10-28,M001,Machine_M001,Swing,397,98,17,2.71,60.65,Operator Error,None,458,397,1037,Crystal Johnson
+2024-03-13,M003,Machine_M003,Swing,183,38,5,4.65,66.62,None,Power Issue,251,183,1662,Aaron Bailey
+2025-02-21,M001,Machine_M001,Night,970,20,12,0.72,72.47,Operator Error,Power Issue,1096,970,1996,Catherine Trevino
+2024-10-21,M005,Machine_M005,Night,468,76,21,2.15,60.66,Tooling Issue,Maintenance Delay,563,468,1972,Veronica Perez
+2022-05-27,M005,Machine_M005,Day,798,28,7,2.01,67.01,Tooling Issue,Maintenance Delay,921,798,1695,Kevin Fry
+2022-11-13,M003,Machine_M003,Swing,264,34,4,0.77,83.39,Material Shortage,Power Issue,324,264,1046,Harry Allison
+2025-02-22,M001,Machine_M001,Swing,255,112,4,3.37,79.82,None,Power Issue,321,255,1042,Michelle Powers
+2022-09-19,M001,Machine_M001,Day,935,28,13,1.99,80.62,Tooling Issue,Maintenance Delay,1075,935,1086,Meghan Miller
+2025-02-01,M005,Machine_M005,Swing,101,102,5,2.03,69.6,Material Shortage,Power Issue,165,101,1681,Cameron Torres
+2023-06-23,M003,Machine_M003,Day,912,84,2,1.4,60.91,Material Shortage,Power Issue,1010,912,1130,Melissa Wilson
+2025-03-25,M002,Machine_M002,Swing,496,16,6,4.05,90.76,None,Setup Delay,613,496,1413,Jorge Mckenzie
+2022-08-02,M005,Machine_M005,Swing,319,70,14,1.86,87.77,Tooling Issue,Maintenance Delay,434,319,1519,Steven Thomas
+2024-07-19,M005,Machine_M005,Night,543,118,6,0.6,63.3,Tooling Issue,Maintenance Delay,682,543,1426,Michelle Trevino
+2025-03-16,M005,Machine_M005,Night,868,107,12,4.56,81.69,Material Shortage,Power Issue,992,868,1045,Joseph Bailey
+2023-09-22,M001,Machine_M001,Night,773,96,10,3.79,79.59,None,Setup Delay,828,773,1286,Robert Smith
+2023-07-09,M003,Machine_M003,Day,209,39,4,1.47,73.93,None,Maintenance Delay,309,209,1998,Christina Brown
+2023-02-16,M005,Machine_M005,Swing,801,49,39,3.05,61.24,Operator Error,Maintenance Delay,889,801,1202,Lindsay Hicks
+2025-03-15,M005,Machine_M005,Swing,530,5,8,1.27,71.19,Tooling Issue,Maintenance Delay,649,530,1339,Daniel White
+2023-10-14,M003,Machine_M003,Day,351,27,2,1.53,63.58,Material Shortage,Setup Delay,467,351,1666,Dale Gill
+2025-02-06,M001,Machine_M001,Swing,198,84,1,3.76,60.81,Material Shortage,Maintenance Delay,302,198,1053,Michael Jenkins
+2022-08-30,M001,Machine_M001,Night,144,32,6,1.07,91.32,None,Maintenance Delay,201,144,1700,Glenn Barajas
+2024-04-19,M005,Machine_M005,Day,898,31,14,3.9,68.49,Operator Error,None,1040,898,1331,Rachel Cook
+2024-10-10,M005,Machine_M005,Swing,107,104,3,4.7,83.42,Material Shortage,Power Issue,241,107,1276,Barbara Martin
+2024-12-13,M005,Machine_M005,Day,229,54,2,4.6,71.46,None,Power Issue,317,229,1811,Mr. Jeffrey Johnson DDS
+2022-10-14,M005,Machine_M005,Night,940,44,41,3.49,80.91,Operator Error,Maintenance Delay,1065,940,1466,Heather Jenkins
+2023-01-05,M002,Machine_M002,Day,155,56,0,1.15,68.41,Operator Error,Setup Delay,248,155,1867,Lisa David
+2024-06-24,M002,Machine_M002,Swing,652,103,17,2.03,64.49,Operator Error,None,794,652,1139,John Lopez
+2024-02-21,M001,Machine_M001,Night,477,107,20,3.59,88.13,None,Setup Delay,549,477,1797,Vincent Dunlap
+2023-05-06,M002,Machine_M002,Night,688,95,17,2.27,94.33,Material Shortage,Power Issue,751,688,1972,Lindsey Edwards
+2024-07-02,M001,Machine_M001,Swing,340,28,14,4.5,66.24,Operator Error,Setup Delay,392,340,1437,Kaitlyn Thomas
+2023-12-29,M005,Machine_M005,Night,856,38,29,1.05,76.57,None,Power Issue,970,856,1181,Danielle Butler
+2022-09-07,M003,Machine_M003,Swing,476,31,12,0.94,77.83,Operator Error,Maintenance Delay,612,476,1208,Donald Aguirre
+2024-04-15,M004,Machine_M004,Night,280,15,9,4.28,90.81,Tooling Issue,Setup Delay,358,280,1486,Amy Thomas
+2025-03-11,M002,Machine_M002,Swing,425,44,3,0.63,60.97,Material Shortage,None,569,425,1181,Brian Kennedy
+2024-11-07,M005,Machine_M005,Day,468,78,16,1.0,75.68,None,None,587,468,1342,Olivia Dillon
+2023-09-14,M001,Machine_M001,Night,137,33,0,4.83,74.69,None,None,255,137,1666,Robert Turner
+2024-08-05,M002,Machine_M002,Night,507,87,2,2.91,89.34,Tooling Issue,None,591,507,1925,Scott Powers
+2024-06-06,M004,Machine_M004,Swing,820,84,21,4.78,72.89,Tooling Issue,None,954,820,1888,Mandy Petty
+2023-02-09,M004,Machine_M004,Day,990,1,10,3.52,81.28,None,Setup Delay,1114,990,1098,Adrian Blevins
+2023-04-02,M002,Machine_M002,Night,295,75,0,4.39,81.51,Operator Error,Power Issue,357,295,1077,Jesse House
+2024-09-18,M004,Machine_M004,Day,885,29,43,1.68,94.16,Tooling Issue,Setup Delay,989,885,1600,Jennifer Thomas
+2022-05-20,M003,Machine_M003,Swing,952,78,17,2.58,71.21,Tooling Issue,Setup Delay,1039,952,1556,Christina Guerrero
+2023-11-27,M001,Machine_M001,Swing,847,82,12,2.15,74.62,Material Shortage,None,907,847,1300,Lauren Scott
+2022-10-12,M005,Machine_M005,Swing,438,29,10,2.97,76.58,Operator Error,None,534,438,1371,Alexandria Haley
+2024-05-12,M004,Machine_M004,Swing,310,26,5,3.12,71.77,Tooling Issue,None,423,310,1049,Aaron Gross
+2022-06-28,M001,Machine_M001,Day,670,6,21,4.23,94.98,None,Maintenance Delay,774,670,1339,Amy Hill
+2024-10-24,M005,Machine_M005,Night,375,27,18,4.18,71.47,Operator Error,Setup Delay,448,375,1383,John Hart
+2024-10-04,M002,Machine_M002,Night,401,51,9,3.95,93.62,None,Setup Delay,468,401,1855,Rebecca Smith
+2024-11-02,M001,Machine_M001,Night,520,49,19,2.02,87.35,None,None,619,520,1055,Angela Gonzalez
+2023-01-17,M004,Machine_M004,Swing,232,46,8,2.76,71.96,Operator Error,Maintenance Delay,284,232,1638,Tina Valdez
+2024-07-23,M001,Machine_M001,Swing,156,66,5,1.33,71.0,Operator Error,Setup Delay,235,156,1094,Renee Jennings
+2022-06-29,M004,Machine_M004,Swing,683,94,19,1.41,67.99,Tooling Issue,None,784,683,1759,Barbara Johnston
+2023-06-21,M003,Machine_M003,Swing,838,63,10,4.07,80.11,Tooling Issue,Maintenance Delay,973,838,1570,Jillian Collins
+2022-07-09,M003,Machine_M003,Night,800,41,5,2.83,69.28,Material Shortage,Power Issue,940,800,1736,Michael Reed
+2022-09-15,M002,Machine_M002,Swing,709,6,0,2.34,81.83,Tooling Issue,Power Issue,772,709,1687,Amy Mckinney
+2022-05-04,M004,Machine_M004,Day,351,62,2,0.9,77.73,Material Shortage,Setup Delay,418,351,1953,Charlene Johnson
+2025-02-06,M003,Machine_M003,Swing,859,88,21,0.79,75.73,Tooling Issue,Setup Delay,994,859,1767,Bryan Taylor
+2024-07-07,M001,Machine_M001,Swing,222,57,6,2.54,89.85,None,None,341,222,1114,Caitlin Adkins
+2022-10-03,M001,Machine_M001,Swing,952,93,23,2.55,83.55,Tooling Issue,Power Issue,1063,952,1010,James Peters
+2023-08-06,M001,Machine_M001,Day,862,24,15,1.97,66.04,None,Power Issue,938,862,1909,John Clark
+2023-05-26,M005,Machine_M005,Day,332,59,10,2.87,72.21,Material Shortage,Maintenance Delay,388,332,1366,Manuel Ellis
+2024-06-04,M002,Machine_M002,Day,277,83,4,4.65,73.87,Tooling Issue,None,409,277,1685,Victoria Ramsey
+2022-09-27,M005,Machine_M005,Night,755,3,29,0.51,73.8,Material Shortage,Power Issue,853,755,1882,Martha Porter
+2023-06-02,M004,Machine_M004,Night,253,37,11,1.47,85.45,None,None,326,253,1488,Dawn Nguyen
+2025-03-17,M004,Machine_M004,Night,815,110,15,2.69,80.65,Tooling Issue,None,921,815,1151,Yvonne Payne
+2024-02-27,M004,Machine_M004,Night,190,84,6,4.95,76.58,None,Maintenance Delay,304,190,1383,David Smith
+2022-11-20,M003,Machine_M003,Swing,182,23,4,3.27,84.71,Operator Error,Power Issue,296,182,1726,Christopher Anderson
+2024-08-28,M002,Machine_M002,Day,329,7,7,1.59,89.01,Material Shortage,Setup Delay,400,329,1579,Jasmine Ross
+2024-11-09,M004,Machine_M004,Night,386,32,2,3.07,81.19,Tooling Issue,Maintenance Delay,522,386,1514,Amy George
+2022-07-11,M002,Machine_M002,Swing,625,81,19,3.25,76.89,None,Maintenance Delay,698,625,1229,Richard Phillips
+2023-04-17,M001,Machine_M001,Night,751,40,31,2.82,90.76,None,Power Issue,867,751,1941,Courtney Jones
+2025-04-17,M004,Machine_M004,Swing,683,8,29,4.55,79.14,Material Shortage,Power Issue,786,683,1374,Brittany Nguyen
+2024-10-02,M005,Machine_M005,Night,151,73,4,1.31,82.66,Material Shortage,Power Issue,260,151,1578,Angela James
+2025-01-17,M002,Machine_M002,Night,922,74,35,2.57,60.35,None,Power Issue,1015,922,1774,Jason Bell
+2024-08-21,M004,Machine_M004,Swing,174,54,0,2.0,80.13,Tooling Issue,Maintenance Delay,268,174,1976,Kyle Lopez
+2025-03-01,M002,Machine_M002,Night,783,82,33,5.0,66.88,Material Shortage,Power Issue,865,783,1509,Aaron Dunn
+2024-09-19,M005,Machine_M005,Swing,407,57,10,4.91,64.3,Operator Error,Setup Delay,538,407,1880,Nicole Todd
+2023-07-20,M002,Machine_M002,Night,439,58,13,0.57,66.07,Material Shortage,None,538,439,1190,Jeffrey Welch
+2022-07-02,M004,Machine_M004,Swing,601,40,25,3.93,87.36,Material Shortage,None,731,601,1213,Kathleen Williams MD
+2022-05-13,M001,Machine_M001,Swing,879,54,2,3.35,66.23,Material Shortage,None,933,879,1193,Kevin French
+2023-10-20,M001,Machine_M001,Day,707,118,22,4.56,65.6,Tooling Issue,Maintenance Delay,764,707,1224,Sherry Johnson
+2024-03-15,M001,Machine_M001,Day,234,75,2,3.65,87.27,Tooling Issue,Power Issue,377,234,1713,Lance Newman
+2023-12-24,M002,Machine_M002,Day,549,117,15,2.33,64.68,None,Setup Delay,631,549,1027,Dr. John Brown
+2024-07-20,M005,Machine_M005,Night,458,54,4,3.89,75.79,Tooling Issue,Power Issue,576,458,1599,Derek Garrett
+2024-10-18,M005,Machine_M005,Night,361,41,11,4.6,67.56,Operator Error,Maintenance Delay,426,361,1404,Thomas Harrison
+2023-10-25,M002,Machine_M002,Day,900,33,3,0.55,75.68,None,Power Issue,960,900,1873,Angela Frazier
+2022-07-14,M001,Machine_M001,Night,635,77,29,4.05,90.73,None,Setup Delay,778,635,1562,Brittany Jones
+2023-07-21,M004,Machine_M004,Night,191,87,5,1.42,83.03,Material Shortage,None,244,191,1606,Suzanne Kelly
+2023-03-19,M001,Machine_M001,Swing,548,63,26,4.06,76.11,Material Shortage,Maintenance Delay,648,548,1899,Meredith Gregory
+2024-06-22,M001,Machine_M001,Night,446,15,8,4.19,81.82,Material Shortage,Maintenance Delay,530,446,1242,Robin Sims
+2024-06-03,M005,Machine_M005,Day,897,108,1,3.83,84.49,None,Setup Delay,980,897,1592,Laura Williams
+2022-12-20,M003,Machine_M003,Day,825,33,1,1.03,87.54,Operator Error,None,897,825,1365,Anthony Gibson
+2023-06-05,M002,Machine_M002,Day,707,22,17,4.47,62.55,Tooling Issue,Power Issue,763,707,1598,Joshua Massey
+2022-12-24,M002,Machine_M002,Night,568,96,8,4.78,81.98,Material Shortage,Power Issue,694,568,1997,Lee Morris
+2023-03-01,M004,Machine_M004,Night,450,53,9,4.76,74.1,Material Shortage,Setup Delay,523,450,1810,Christopher Hernandez
+2022-10-14,M003,Machine_M003,Night,682,1,8,4.79,94.6,Material Shortage,Power Issue,738,682,1518,Megan Chan
+2023-11-16,M002,Machine_M002,Day,508,102,20,2.68,67.26,Operator Error,Setup Delay,609,508,1671,Mariah Wells
+2023-05-17,M005,Machine_M005,Night,649,68,20,4.24,83.73,Tooling Issue,None,791,649,1844,Kelly Johnson
+2024-07-17,M004,Machine_M004,Day,306,104,2,4.24,94.32,Tooling Issue,Maintenance Delay,357,306,1253,Andrea York
+2022-05-02,M004,Machine_M004,Day,266,25,7,4.95,85.72,Tooling Issue,Setup Delay,406,266,1663,Deborah Douglas
+2022-05-18,M001,Machine_M001,Day,460,68,20,1.41,89.1,Material Shortage,None,597,460,1179,Lauren David
+2025-03-31,M002,Machine_M002,Day,478,101,7,2.3,90.42,Material Shortage,Maintenance Delay,579,478,1550,Alison Miller
+2023-05-12,M004,Machine_M004,Night,697,67,29,4.91,76.09,None,Power Issue,838,697,1035,Kyle Conrad
+2022-12-13,M001,Machine_M001,Swing,458,68,7,1.27,81.13,Operator Error,None,536,458,1195,Devon Baird
+2025-04-18,M002,Machine_M002,Night,157,12,2,0.79,85.9,Tooling Issue,Setup Delay,246,157,1192,Jon Bennett
+2024-03-23,M002,Machine_M002,Swing,829,87,34,4.43,72.95,Operator Error,Setup Delay,963,829,1713,Joshua Rodriguez
+2024-02-07,M001,Machine_M001,Night,246,61,2,1.11,64.59,Tooling Issue,None,387,246,1026,Steven Silva
+2022-08-04,M001,Machine_M001,Day,574,60,23,3.63,77.17,Tooling Issue,Setup Delay,629,574,1713,Alejandro Nichols
+2024-10-12,M003,Machine_M003,Day,500,12,7,4.65,62.33,Operator Error,Maintenance Delay,571,500,1689,Savannah Flores
+2023-12-29,M002,Machine_M002,Night,296,7,8,1.85,94.96,Operator Error,Maintenance Delay,437,296,1956,Marie Estrada
+2022-10-14,M001,Machine_M001,Day,342,119,2,1.24,88.45,Operator Error,Power Issue,473,342,1588,Andrew Chambers
+2023-11-09,M005,Machine_M005,Swing,433,68,19,2.37,89.03,Material Shortage,Maintenance Delay,563,433,1165,William Young
+2022-10-06,M001,Machine_M001,Day,886,4,16,0.56,72.28,Operator Error,Maintenance Delay,1030,886,1554,Caleb Bird
+2025-02-01,M003,Machine_M003,Swing,772,92,18,1.96,80.3,Material Shortage,None,824,772,1295,Scott Jenkins
+2023-12-11,M004,Machine_M004,Swing,185,38,9,4.71,74.14,Tooling Issue,Maintenance Delay,330,185,1218,Peter Yang
+2023-11-16,M002,Machine_M002,Day,295,89,7,3.74,88.65,None,Power Issue,416,295,1448,Alexis Kim
+2023-03-19,M003,Machine_M003,Day,885,21,40,2.86,67.47,None,Maintenance Delay,1023,885,1638,Tyler Walsh
+2024-04-03,M005,Machine_M005,Day,417,29,10,3.53,86.16,None,Maintenance Delay,558,417,1609,Stephanie Rosales
+2022-06-21,M003,Machine_M003,Swing,815,56,18,4.4,76.34,Tooling Issue,None,934,815,1955,Jessica Rogers
+2023-10-27,M002,Machine_M002,Night,613,63,4,3.12,69.17,Tooling Issue,Setup Delay,722,613,1719,Yolanda Terrell
+2022-06-30,M002,Machine_M002,Night,164,102,2,3.34,78.91,Material Shortage,Power Issue,285,164,1342,Stephanie Guzman
+2023-02-05,M001,Machine_M001,Day,188,43,1,0.89,65.91,Material Shortage,Maintenance Delay,287,188,1691,Kathleen Caldwell
+2025-02-09,M002,Machine_M002,Day,884,79,39,1.37,73.81,Tooling Issue,Maintenance Delay,993,884,1753,Mr. Christopher Durham
+2024-07-12,M003,Machine_M003,Day,366,98,1,2.76,77.68,None,Power Issue,481,366,1213,Mary Rodriguez
+2023-10-30,M002,Machine_M002,Day,159,90,4,4.93,91.85,None,Setup Delay,291,159,1591,Brenda Medina
+2024-07-02,M001,Machine_M001,Night,267,117,6,1.95,80.71,Operator Error,Power Issue,331,267,1591,Angela Fletcher
+2022-10-02,M002,Machine_M002,Night,428,19,13,2.66,78.03,Operator Error,None,571,428,1317,Kevin Callahan
+2024-06-27,M003,Machine_M003,Swing,136,6,3,3.33,63.98,Operator Error,Setup Delay,190,136,1819,Tanya Martinez
+2023-03-27,M005,Machine_M005,Day,862,63,20,4.29,87.48,Material Shortage,None,913,862,1840,Dylan Ellis
+2023-08-29,M002,Machine_M002,Day,209,100,3,2.44,67.91,Material Shortage,None,337,209,1496,Julie Russell
+2023-03-28,M005,Machine_M005,Swing,126,19,3,4.79,62.71,Tooling Issue,Power Issue,235,126,1870,Amanda Chapman
+2023-09-26,M001,Machine_M001,Swing,273,31,4,2.53,90.24,Tooling Issue,Setup Delay,420,273,1340,Michelle Bowers
+2023-04-07,M001,Machine_M001,Day,675,19,10,1.07,64.98,Operator Error,Maintenance Delay,818,675,1930,Juan Carlson
+2023-04-15,M002,Machine_M002,Day,770,92,20,4.51,69.66,Operator Error,Power Issue,911,770,1645,Lynn Douglas
+2024-02-15,M003,Machine_M003,Swing,822,54,6,2.35,71.07,None,Power Issue,940,822,1768,Brandon Gibson
+2022-09-15,M005,Machine_M005,Night,327,62,12,1.76,93.41,Operator Error,None,433,327,1775,Thomas Figueroa
+2024-05-02,M001,Machine_M001,Day,267,96,4,2.0,83.37,Tooling Issue,Power Issue,385,267,1384,Michelle Robinson
+2023-09-25,M005,Machine_M005,Night,969,4,19,4.29,62.97,Material Shortage,Maintenance Delay,1067,969,1232,Vanessa Kelly
+2025-01-22,M005,Machine_M005,Swing,360,98,8,1.31,91.92,Tooling Issue,None,469,360,1073,Martin Lambert
+2023-09-12,M004,Machine_M004,Swing,843,29,5,3.97,64.01,Tooling Issue,Maintenance Delay,987,843,1116,Jennifer Morales
+2024-10-29,M003,Machine_M003,Night,112,85,0,2.32,81.73,Operator Error,Setup Delay,256,112,1858,Alex Tran
+2024-09-15,M004,Machine_M004,Night,416,112,11,4.88,72.43,None,Power Issue,544,416,1448,Amy Morris
+2024-10-30,M004,Machine_M004,Swing,176,88,4,3.03,78.79,Material Shortage,Power Issue,300,176,1144,Kelly Smith
+2025-01-02,M004,Machine_M004,Swing,656,105,25,3.84,79.09,Operator Error,Maintenance Delay,738,656,1866,Mark Mueller
+2023-06-02,M005,Machine_M005,Night,499,100,23,1.68,61.97,Operator Error,None,632,499,1338,Ann Henry
+2022-09-01,M005,Machine_M005,Swing,290,102,14,3.94,71.62,Operator Error,None,413,290,1794,John Huffman
+2025-02-03,M005,Machine_M005,Swing,526,92,24,1.16,61.3,Material Shortage,Power Issue,641,526,1071,Susan Pearson
+2023-10-29,M002,Machine_M002,Day,957,51,9,4.44,76.2,None,Power Issue,1050,957,1811,Dean Stanley
+2024-11-21,M001,Machine_M001,Night,342,10,11,2.54,69.69,None,None,469,342,1177,Roger Ford
+2025-04-25,M002,Machine_M002,Night,338,85,16,3.69,72.96,Operator Error,Setup Delay,480,338,1402,Andrea Duran
+2023-03-31,M003,Machine_M003,Swing,565,21,17,1.39,73.7,Material Shortage,None,685,565,1611,Matthew Salinas
+2023-02-17,M005,Machine_M005,Swing,495,68,23,1.59,71.97,Operator Error,Maintenance Delay,603,495,1335,Anthony Williams
+2023-12-17,M004,Machine_M004,Swing,419,81,9,4.83,71.26,None,Maintenance Delay,491,419,1646,Victoria Christensen
+2024-03-25,M005,Machine_M005,Swing,407,31,4,0.98,88.03,Material Shortage,Maintenance Delay,547,407,1574,Melissa Sexton
+2022-05-14,M001,Machine_M001,Night,267,2,5,3.82,63.81,Tooling Issue,None,375,267,1960,Tiffany Nichols
+2022-08-17,M001,Machine_M001,Swing,562,8,23,3.59,88.28,Material Shortage,Setup Delay,696,562,1826,Michael Rhodes
+2022-11-30,M001,Machine_M001,Day,823,46,25,4.16,83.2,Tooling Issue,Setup Delay,921,823,1502,Nicole Silva
+2024-02-26,M002,Machine_M002,Night,878,109,37,3.38,66.45,Tooling Issue,Power Issue,1017,878,1450,Krista Foster
+2023-04-26,M005,Machine_M005,Swing,567,116,24,3.25,60.25,Operator Error,Power Issue,671,567,1056,Katherine Campbell
+2024-01-02,M005,Machine_M005,Swing,715,103,20,1.07,83.39,Tooling Issue,Setup Delay,811,715,1268,Kimberly Underwood
+2023-12-26,M002,Machine_M002,Swing,256,98,1,3.59,94.9,Operator Error,None,338,256,1760,Gregory Haynes
+2025-04-21,M001,Machine_M001,Night,847,3,17,1.8,86.5,None,None,916,847,1269,Emily Ramirez
+2022-10-04,M004,Machine_M004,Day,587,76,13,1.42,94.27,None,Setup Delay,678,587,1331,Jerome Henderson
+2023-08-22,M003,Machine_M003,Swing,719,65,15,1.6,73.18,None,Setup Delay,797,719,1438,Theresa Lawrence
+2024-05-23,M005,Machine_M005,Night,339,119,12,0.6,72.49,Operator Error,Setup Delay,400,339,1831,Lawrence Foster
+2024-10-27,M002,Machine_M002,Day,623,99,12,1.31,61.47,Tooling Issue,Power Issue,707,623,1466,Elizabeth Nelson
+2024-07-13,M001,Machine_M001,Day,998,0,12,4.08,80.91,None,Setup Delay,1107,998,1687,Jessica Shaw
+2023-03-18,M003,Machine_M003,Swing,523,91,23,0.95,67.6,Material Shortage,None,587,523,1961,Robert Adams
+2023-06-12,M001,Machine_M001,Day,232,52,9,0.85,70.41,Tooling Issue,Setup Delay,337,232,1872,David Johnson
+2023-10-04,M002,Machine_M002,Swing,612,11,19,2.71,68.95,None,Maintenance Delay,755,612,1989,Amanda Brown
+2022-08-05,M002,Machine_M002,Night,865,90,11,3.66,77.36,Operator Error,Power Issue,936,865,1682,Jeremy Bell
+2024-05-14,M001,Machine_M001,Day,333,81,10,0.91,84.5,Tooling Issue,None,479,333,1697,Diana Cowan
+2022-12-06,M004,Machine_M004,Swing,102,13,2,1.13,66.97,Operator Error,Setup Delay,152,102,1013,Terri Ruiz
+2023-03-12,M002,Machine_M002,Swing,319,84,0,1.85,73.55,Tooling Issue,None,444,319,1540,Travis Mcdowell
+2025-01-29,M003,Machine_M003,Swing,563,98,21,1.42,60.4,None,Setup Delay,638,563,1410,Joel Barnes
+2022-11-07,M002,Machine_M002,Swing,637,99,29,1.33,77.35,Tooling Issue,Setup Delay,733,637,1006,Suzanne Hunt
+2022-10-26,M003,Machine_M003,Day,790,32,6,3.19,83.64,Operator Error,Setup Delay,840,790,1597,Edward Miller
+2023-12-01,M003,Machine_M003,Night,991,40,2,3.35,87.54,Operator Error,Setup Delay,1070,991,1906,Jason Miller
+2023-08-12,M004,Machine_M004,Swing,866,101,12,4.98,64.39,None,Maintenance Delay,940,866,1727,Joseph Thornton
+2023-03-31,M003,Machine_M003,Night,466,56,9,4.78,63.64,None,Maintenance Delay,538,466,1782,Matthew Johnson
+2022-11-15,M002,Machine_M002,Day,660,91,23,4.06,91.83,Tooling Issue,Power Issue,801,660,1685,Jessica Powers
+2022-09-01,M003,Machine_M003,Day,158,30,5,2.16,60.79,Operator Error,Power Issue,229,158,1540,Julie Conrad
+2022-07-21,M001,Machine_M001,Swing,721,119,13,2.5,79.96,Material Shortage,None,790,721,1848,Douglas Evans
+2023-10-20,M005,Machine_M005,Swing,426,31,17,0.62,65.86,Tooling Issue,None,573,426,1146,Keith Ayala
+2025-01-10,M002,Machine_M002,Swing,250,53,7,3.83,81.04,Material Shortage,Power Issue,382,250,1576,Nancy Craig
+2023-12-29,M004,Machine_M004,Swing,560,62,14,4.05,80.61,Tooling Issue,Maintenance Delay,623,560,1438,Tammy Carter
+2023-03-22,M004,Machine_M004,Swing,473,57,10,2.05,92.99,Tooling Issue,Setup Delay,621,473,1918,Richard Brown
+2025-03-09,M005,Machine_M005,Night,904,52,43,2.05,74.17,Operator Error,Power Issue,1033,904,1909,Jennifer Mcdowell
+2024-06-17,M001,Machine_M001,Night,110,44,3,1.52,63.08,Tooling Issue,Power Issue,170,110,1935,Ann Chen
+2024-07-19,M005,Machine_M005,Night,423,59,6,1.28,86.78,Operator Error,Power Issue,526,423,1893,Karen Hernandez
+2023-09-24,M005,Machine_M005,Swing,658,5,19,3.3,78.0,Material Shortage,Power Issue,780,658,1574,Susan Kelley
+2025-04-14,M004,Machine_M004,Swing,812,113,37,1.79,79.25,Tooling Issue,Setup Delay,877,812,1836,Joseph Bean
+2024-09-07,M004,Machine_M004,Day,343,13,13,3.5,86.4,Tooling Issue,None,424,343,1828,Renee Pena
+2025-02-02,M005,Machine_M005,Swing,898,63,33,2.58,76.42,Operator Error,Maintenance Delay,988,898,1828,Elizabeth Pugh
+2023-06-06,M001,Machine_M001,Night,973,105,5,4.67,64.75,None,Setup Delay,1097,973,1951,Heather Green
+2023-08-31,M002,Machine_M002,Night,455,76,5,1.69,70.68,Material Shortage,None,585,455,1019,Erin Buckley
+2024-07-07,M001,Machine_M001,Swing,921,60,9,4.54,64.45,Operator Error,Maintenance Delay,1003,921,1279,Mark Long
+2023-11-27,M001,Machine_M001,Swing,596,56,19,4.96,74.22,Operator Error,Maintenance Delay,729,596,1318,Cynthia Ruiz
+2023-02-24,M005,Machine_M005,Swing,395,7,8,1.54,88.11,Material Shortage,None,524,395,1207,David Hill
+2022-09-18,M002,Machine_M002,Night,181,56,0,3.06,93.66,None,None,280,181,1658,Jennifer Leon
+2023-03-03,M001,Machine_M001,Night,814,49,25,4.12,67.56,Operator Error,Setup Delay,938,814,1010,Heather Patterson
+2022-11-28,M002,Machine_M002,Swing,738,92,12,1.37,71.69,Operator Error,Maintenance Delay,805,738,1386,Dennis Simmons
+2022-11-28,M001,Machine_M001,Night,818,65,35,2.06,69.01,None,Power Issue,927,818,1317,Christopher Anderson
+2024-11-15,M004,Machine_M004,Night,679,114,28,0.77,60.57,Tooling Issue,Setup Delay,763,679,1581,Jason Harrison
+2024-01-09,M005,Machine_M005,Night,609,27,0,1.78,71.24,Tooling Issue,None,743,609,1365,Martha Thompson
+2023-09-06,M003,Machine_M003,Day,925,76,18,2.0,78.89,Tooling Issue,None,1070,925,1894,Barbara Smith
+2024-03-05,M002,Machine_M002,Night,924,25,24,4.67,79.31,None,Maintenance Delay,1065,924,1521,Paul Harrison
+2024-06-24,M005,Machine_M005,Swing,763,7,35,4.46,68.58,None,Setup Delay,909,763,1341,Kimberly Williams
+2023-07-02,M005,Machine_M005,Night,570,47,21,4.23,83.38,None,Maintenance Delay,654,570,1475,Jennifer Bell MD
+2024-11-02,M005,Machine_M005,Day,658,26,27,4.4,75.42,Material Shortage,Power Issue,733,658,1669,John Mcmillan
+2025-02-23,M001,Machine_M001,Swing,212,104,7,3.71,67.75,Tooling Issue,Power Issue,272,212,1554,Samuel Chavez
+2024-10-27,M002,Machine_M002,Day,290,27,4,2.44,64.96,Operator Error,Power Issue,403,290,1310,Brian Williams
+2022-07-20,M001,Machine_M001,Day,462,86,18,1.31,67.47,Operator Error,Setup Delay,594,462,1132,Molly Beasley
+2023-09-07,M004,Machine_M004,Swing,371,86,11,3.29,83.25,None,Setup Delay,519,371,1324,Shannon Browning
+2023-11-13,M005,Machine_M005,Swing,537,25,14,2.77,79.83,Operator Error,None,627,537,1593,Dalton Hunter
+2022-05-30,M001,Machine_M001,Swing,446,19,20,1.6,60.65,None,Setup Delay,555,446,1416,Cody Roberson
+2025-03-31,M002,Machine_M002,Night,376,68,15,0.78,76.41,Material Shortage,Maintenance Delay,465,376,1967,Alejandro Baker
+2024-01-05,M004,Machine_M004,Night,193,76,0,0.58,88.99,Material Shortage,None,265,193,1267,Rhonda Harris DVM
+2023-12-31,M005,Machine_M005,Night,265,109,4,2.92,72.85,Tooling Issue,Setup Delay,388,265,1157,Candace Matthews
+2024-03-24,M002,Machine_M002,Night,389,12,0,4.61,94.84,Operator Error,Setup Delay,520,389,1579,Rachel Love
+2022-10-14,M001,Machine_M001,Swing,715,96,16,1.4,79.6,Operator Error,Setup Delay,839,715,1162,Lynn Wolfe
+2024-05-05,M002,Machine_M002,Swing,648,106,17,0.87,73.82,Material Shortage,Setup Delay,740,648,1552,Charles Williams
+2024-08-15,M002,Machine_M002,Night,730,107,25,4.23,91.47,Tooling Issue,None,850,730,1749,Amber Yoder
+2024-01-17,M004,Machine_M004,Swing,272,34,7,3.07,76.58,Material Shortage,Power Issue,347,272,1556,Jennifer Miller
+2024-11-09,M005,Machine_M005,Swing,778,44,22,2.61,76.31,Material Shortage,None,912,778,1188,Jay Lewis
+2023-04-30,M005,Machine_M005,Night,230,45,6,4.77,68.62,Tooling Issue,Setup Delay,304,230,1004,John Jones
+2022-07-16,M004,Machine_M004,Night,213,106,5,2.16,63.11,Material Shortage,Power Issue,330,213,1728,Sherri Rodriguez
+2022-11-29,M003,Machine_M003,Swing,209,96,3,0.87,80.91,Tooling Issue,Power Issue,349,209,1703,Melissa Lawrence
+2024-02-01,M004,Machine_M004,Swing,835,8,39,4.09,93.74,None,Setup Delay,969,835,1484,Clarence Davis
+2022-07-27,M005,Machine_M005,Day,645,99,8,1.2,74.29,None,Maintenance Delay,725,645,1946,Thomas Williams III
+2022-12-10,M004,Machine_M004,Swing,481,88,0,0.95,84.16,Tooling Issue,Setup Delay,569,481,1633,Angel Wright
+2025-04-28,M005,Machine_M005,Night,316,89,6,4.16,73.11,Tooling Issue,Power Issue,427,316,1448,Jodi Robinson
+2022-09-02,M005,Machine_M005,Day,701,13,12,1.67,83.14,Material Shortage,Setup Delay,760,701,1904,Darrell Fox
+2023-04-17,M005,Machine_M005,Night,410,95,19,3.54,60.98,Operator Error,Power Issue,486,410,1115,Carrie Jones
+2023-07-20,M001,Machine_M001,Swing,362,4,12,4.03,65.21,Operator Error,Setup Delay,417,362,1111,Nicholas Johnston
+2022-10-20,M002,Machine_M002,Swing,149,27,4,1.96,72.4,Tooling Issue,Power Issue,237,149,1580,Mark Mercer
+2024-02-05,M002,Machine_M002,Day,663,97,32,2.59,91.11,Material Shortage,Maintenance Delay,778,663,1777,John Brandt
+2023-11-15,M003,Machine_M003,Night,747,104,11,4.1,93.45,Operator Error,Power Issue,857,747,1100,Traci Ewing
+2024-12-23,M001,Machine_M001,Day,287,29,5,3.9,80.77,Operator Error,Maintenance Delay,367,287,1443,Tasha Stewart
+2022-10-30,M001,Machine_M001,Night,998,22,32,0.62,70.91,None,None,1108,998,1284,Riley Woodard
+2025-01-26,M003,Machine_M003,Day,464,61,3,3.99,70.9,Material Shortage,Setup Delay,529,464,1227,Lynn Thomas
+2024-03-13,M005,Machine_M005,Swing,844,46,22,1.54,89.8,None,Maintenance Delay,958,844,1308,Angel Stephens
+2024-01-25,M003,Machine_M003,Night,728,28,28,4.66,67.81,Material Shortage,None,855,728,1924,Mr. Zachary Herman
+2023-07-23,M001,Machine_M001,Day,653,34,18,4.62,94.03,None,Power Issue,706,653,1721,Justin Wright
+2025-02-16,M002,Machine_M002,Night,947,49,38,4.47,83.94,Operator Error,None,1040,947,1990,Alison Gonzalez
+2024-08-16,M005,Machine_M005,Swing,881,72,40,3.22,88.46,Operator Error,Maintenance Delay,999,881,1001,Carl Newton
+2024-10-25,M005,Machine_M005,Night,288,94,1,2.41,64.68,Operator Error,Power Issue,350,288,1904,Larry Harper
+2024-10-16,M003,Machine_M003,Night,601,87,27,3.43,83.12,Operator Error,None,674,601,1215,Kimberly Norton
+2023-10-15,M001,Machine_M001,Day,786,108,30,3.16,61.09,Operator Error,None,868,786,1662,Kayla Clark
+2023-11-24,M005,Machine_M005,Day,679,65,2,3.3,70.08,Tooling Issue,Power Issue,756,679,1332,Nathan Logan
+2024-11-21,M003,Machine_M003,Night,380,56,14,4.07,79.63,None,Power Issue,498,380,1395,William Brady
+2024-12-12,M004,Machine_M004,Day,830,46,27,3.12,85.22,Operator Error,Setup Delay,947,830,1636,Michelle Baker
+2022-08-06,M005,Machine_M005,Swing,806,2,3,4.7,89.73,Tooling Issue,Power Issue,928,806,1072,Christopher Griffin
+2024-12-31,M004,Machine_M004,Day,830,40,39,0.86,79.07,None,Setup Delay,907,830,1165,Mitchell Rhodes
+2025-04-16,M001,Machine_M001,Night,570,109,5,4.81,86.54,Material Shortage,Maintenance Delay,682,570,1804,Christopher Schaefer
+2023-02-04,M002,Machine_M002,Day,146,0,4,2.62,75.03,Material Shortage,Setup Delay,248,146,1653,Thomas Gray
+2023-01-25,M001,Machine_M001,Night,301,45,10,4.77,88.0,None,Setup Delay,392,301,1470,Kimberly Herrera
+2025-02-23,M003,Machine_M003,Night,150,49,2,0.63,78.46,None,Power Issue,227,150,1706,James Wilson
+2023-03-22,M005,Machine_M005,Day,849,116,40,3.32,62.72,Operator Error,None,941,849,1801,Richard Spencer
+2024-02-25,M005,Machine_M005,Day,631,62,27,3.85,92.97,None,Power Issue,747,631,1521,Jeffrey Strickland
+2024-07-28,M001,Machine_M001,Night,509,15,12,2.41,69.47,Material Shortage,Setup Delay,579,509,1817,Miguel Glenn
+2024-10-30,M003,Machine_M003,Swing,431,47,19,1.02,77.28,None,Power Issue,579,431,1453,Robert Ayala
+2024-07-18,M001,Machine_M001,Night,110,83,2,1.07,62.0,Material Shortage,Power Issue,237,110,1187,Sean Hodges
+2025-04-01,M005,Machine_M005,Day,577,91,16,1.61,80.56,Material Shortage,Setup Delay,666,577,1805,Jesus Lane
+2024-06-05,M004,Machine_M004,Swing,883,113,11,4.21,72.61,Tooling Issue,Power Issue,1007,883,1145,Steve Lambert
+2023-02-07,M004,Machine_M004,Night,880,19,43,4.02,62.8,Material Shortage,None,956,880,1806,David Snyder
+2024-12-15,M004,Machine_M004,Swing,623,6,11,4.55,74.69,None,None,755,623,1252,John Rodriguez
+2023-11-27,M004,Machine_M004,Swing,583,98,8,4.65,90.27,Operator Error,Power Issue,672,583,1264,Robert Watson
+2022-10-20,M004,Machine_M004,Day,846,76,25,3.53,83.1,Operator Error,Setup Delay,925,846,1935,Michael Bullock
+2023-06-25,M003,Machine_M003,Day,467,63,1,3.53,75.52,Material Shortage,Power Issue,567,467,1713,Michael Webb
+2022-11-05,M004,Machine_M004,Day,779,4,8,1.73,81.88,None,Maintenance Delay,845,779,1309,Mrs. Patricia White
+2024-09-28,M002,Machine_M002,Swing,590,117,22,3.84,74.08,Tooling Issue,None,733,590,1066,Robert Jackson
+2025-03-31,M002,Machine_M002,Night,696,99,10,0.89,82.02,None,Setup Delay,770,696,1982,Donald Richardson
+2024-09-05,M002,Machine_M002,Night,271,67,0,4.15,92.66,Operator Error,Setup Delay,331,271,1250,Ryan Ortega
+2023-07-08,M002,Machine_M002,Day,127,13,4,4.32,65.64,Operator Error,Maintenance Delay,233,127,1458,Nicole Roth
+2024-08-14,M005,Machine_M005,Swing,255,119,6,2.04,76.38,None,Power Issue,308,255,1171,Anthony Petty
+2022-10-21,M002,Machine_M002,Day,642,111,15,2.8,82.83,Tooling Issue,Setup Delay,723,642,1927,Jill Koch
+2023-02-05,M003,Machine_M003,Night,335,75,15,2.17,61.11,None,Maintenance Delay,396,335,1522,Timothy Morris
+2024-08-26,M005,Machine_M005,Swing,307,0,10,4.52,83.24,Material Shortage,Setup Delay,445,307,1513,Joseph Deleon
+2024-03-18,M005,Machine_M005,Day,621,58,4,3.54,84.91,None,None,767,621,1653,Sarah Jones
+2025-02-21,M002,Machine_M002,Swing,297,50,3,3.38,73.69,Material Shortage,Setup Delay,369,297,1300,Maria Garcia
+2024-07-17,M001,Machine_M001,Day,996,82,47,1.99,69.02,Material Shortage,Power Issue,1064,996,1106,Timothy Carter
+2022-10-17,M002,Machine_M002,Swing,685,95,7,1.16,64.63,Tooling Issue,Power Issue,743,685,1437,Mary Buck
+2022-05-14,M004,Machine_M004,Day,112,109,2,2.89,65.22,None,Setup Delay,242,112,1148,Michael Welch
+2024-07-16,M004,Machine_M004,Night,976,60,31,3.61,63.65,Tooling Issue,None,1118,976,1942,Angelica Young
+2023-03-21,M004,Machine_M004,Day,177,5,3,1.29,85.14,Tooling Issue,Setup Delay,235,177,1825,Samuel Williams
+2024-12-31,M002,Machine_M002,Day,449,114,7,1.7,61.73,Tooling Issue,Setup Delay,538,449,1854,Julia Bailey
+2025-04-26,M003,Machine_M003,Day,138,4,5,1.79,78.7,Operator Error,Setup Delay,202,138,1741,Gregory Sanchez
+2024-07-07,M002,Machine_M002,Day,383,87,8,1.84,88.13,Tooling Issue,None,532,383,1516,Angel Brady
+2024-11-03,M002,Machine_M002,Night,974,19,34,2.89,79.02,None,Power Issue,1102,974,1198,Brittany Sims
+2023-08-21,M001,Machine_M001,Day,309,61,11,1.32,78.95,Operator Error,Maintenance Delay,387,309,1103,Shelby Brown
+2023-04-27,M002,Machine_M002,Day,400,45,17,2.7,90.97,Tooling Issue,Setup Delay,506,400,1159,John Miller
+2023-08-16,M001,Machine_M001,Day,944,91,38,2.08,63.98,Material Shortage,Maintenance Delay,1076,944,1306,Richard Adams
+2024-11-02,M001,Machine_M001,Day,176,49,7,2.96,64.79,Material Shortage,Power Issue,275,176,1803,Lance Brown
+2024-03-31,M002,Machine_M002,Day,965,1,40,3.42,67.6,Material Shortage,Setup Delay,1088,965,1818,Christine Sanders
+2022-08-23,M005,Machine_M005,Night,909,113,26,2.84,78.16,None,Power Issue,979,909,1049,David Brooks
+2024-12-03,M001,Machine_M001,Night,766,25,16,3.59,68.78,Operator Error,None,840,766,1024,Daniel Boone
+2023-11-14,M003,Machine_M003,Night,777,38,27,4.06,85.19,Operator Error,Maintenance Delay,921,777,1926,Eric Price
+2023-05-12,M001,Machine_M001,Swing,680,41,0,4.25,92.46,Operator Error,Maintenance Delay,767,680,1698,Peter Brandt
+2025-03-02,M004,Machine_M004,Swing,653,63,1,4.28,76.33,Operator Error,Maintenance Delay,759,653,1235,Megan Maynard
+2023-10-13,M005,Machine_M005,Swing,852,4,39,2.42,77.09,None,Power Issue,962,852,1004,Renee Foley
+2023-08-07,M001,Machine_M001,Night,316,113,10,2.0,92.71,Material Shortage,None,399,316,1435,Amy Ortiz MD
+2024-07-06,M001,Machine_M001,Day,580,100,21,2.78,79.02,Material Shortage,Setup Delay,720,580,1500,Kevin Wood
+2023-10-23,M005,Machine_M005,Night,254,116,2,3.57,73.56,None,Power Issue,387,254,1361,Andrew Lopez
+2022-08-16,M005,Machine_M005,Swing,983,12,18,2.06,81.82,None,None,1081,983,1686,Anthony Green
+2023-05-13,M005,Machine_M005,Day,950,24,34,2.03,77.71,None,Setup Delay,1023,950,1227,Morgan Newman
+2023-02-24,M001,Machine_M001,Swing,995,102,28,0.63,74.58,Tooling Issue,Setup Delay,1045,995,1723,Robert Wood
+2024-02-05,M002,Machine_M002,Day,709,25,23,4.54,62.66,Tooling Issue,None,763,709,1271,Cynthia Hughes
+2024-10-20,M004,Machine_M004,Day,110,51,2,1.5,86.54,None,None,220,110,1746,Brooke Robinson
+2024-04-26,M004,Machine_M004,Night,897,86,35,0.85,82.82,Operator Error,Power Issue,959,897,1009,Michael Shaw
+2024-05-20,M005,Machine_M005,Swing,447,112,1,1.48,89.92,Operator Error,Power Issue,499,447,1943,Daniel Arellano
+2023-05-07,M002,Machine_M002,Swing,380,70,10,3.43,63.72,Material Shortage,Maintenance Delay,499,380,1630,Whitney Singleton
+2024-01-04,M005,Machine_M005,Night,290,77,12,4.6,77.59,Material Shortage,Maintenance Delay,392,290,1793,Jessica Vargas
+2023-08-11,M003,Machine_M003,Night,151,68,1,1.93,83.46,Material Shortage,Power Issue,223,151,1190,Denise Williams
+2025-03-04,M003,Machine_M003,Swing,721,38,17,2.94,68.24,Material Shortage,Setup Delay,803,721,1413,Bryan Terry
+2022-11-24,M003,Machine_M003,Night,689,68,12,4.77,69.86,Material Shortage,Setup Delay,806,689,1550,Eric Vargas
+2023-12-31,M004,Machine_M004,Day,365,22,9,2.88,81.47,None,Setup Delay,448,365,1530,Miguel Marsh
+2024-10-29,M005,Machine_M005,Night,397,94,2,3.05,63.05,Tooling Issue,None,454,397,1569,Tonya Cobb
+2025-01-24,M004,Machine_M004,Swing,619,83,16,3.2,66.2,Material Shortage,Power Issue,680,619,1287,Abigail Floyd
+2023-11-06,M001,Machine_M001,Night,490,47,11,1.62,83.98,Material Shortage,Setup Delay,630,490,1157,Andrea Church
+2025-01-20,M005,Machine_M005,Swing,376,113,2,1.63,75.74,None,None,467,376,1887,Jennifer Spence
+2023-08-22,M003,Machine_M003,Night,170,107,2,3.1,73.04,Operator Error,Maintenance Delay,309,170,1086,Thomas Knight
+2024-01-30,M001,Machine_M001,Swing,280,84,2,4.94,91.87,Operator Error,Power Issue,423,280,1257,Angel Adams
+2024-07-04,M003,Machine_M003,Day,847,91,38,0.97,75.44,None,Maintenance Delay,973,847,1454,Cindy Singleton
+2023-02-14,M005,Machine_M005,Swing,503,97,25,2.58,76.75,Operator Error,None,647,503,1357,Laurie Craig
+2023-05-28,M002,Machine_M002,Swing,609,6,28,3.93,83.13,Material Shortage,Setup Delay,749,609,1052,Brandon Oliver
+2024-09-18,M005,Machine_M005,Night,106,27,1,1.98,61.58,Material Shortage,Power Issue,174,106,1190,Monica Johnson
+2023-07-02,M003,Machine_M003,Swing,790,35,9,3.45,71.65,Material Shortage,Power Issue,854,790,1588,Carly Lee
+2022-10-19,M002,Machine_M002,Day,747,57,6,1.58,81.26,Operator Error,Setup Delay,883,747,1206,Shawn Savage
+2023-05-30,M005,Machine_M005,Day,759,71,9,4.22,70.07,None,Setup Delay,884,759,1785,Jody Santiago
+2023-05-19,M003,Machine_M003,Day,377,39,11,2.78,77.03,Tooling Issue,Maintenance Delay,486,377,1569,Joshua Johnson
+2022-07-14,M004,Machine_M004,Day,477,46,7,4.36,79.81,Material Shortage,Power Issue,607,477,1427,Sharon Wells
+2025-03-24,M002,Machine_M002,Day,378,24,17,3.67,60.45,None,Power Issue,509,378,1090,Christopher Jones
+2022-11-22,M005,Machine_M005,Swing,425,112,16,2.8,75.77,Operator Error,Power Issue,520,425,1194,Lauren Morrison
+2022-06-12,M004,Machine_M004,Swing,961,50,6,2.72,61.74,None,Setup Delay,1014,961,1748,Shannon Poole
+2022-08-02,M005,Machine_M005,Swing,887,83,17,1.08,78.74,Tooling Issue,Maintenance Delay,959,887,1638,David Watson
+2024-01-01,M001,Machine_M001,Day,743,28,17,4.13,71.59,Material Shortage,Maintenance Delay,797,743,1680,William King
+2024-06-15,M001,Machine_M001,Day,198,44,0,3.19,71.66,Tooling Issue,Setup Delay,289,198,1028,Christopher Erickson
+2024-05-18,M001,Machine_M001,Day,913,113,26,1.71,93.33,Material Shortage,Maintenance Delay,964,913,1001,Christine Simmons
+2025-03-25,M001,Machine_M001,Day,612,118,16,4.31,69.97,Material Shortage,Maintenance Delay,697,612,1691,Monica Cummings
+2022-05-08,M005,Machine_M005,Day,723,47,3,2.5,79.83,Tooling Issue,Power Issue,793,723,1148,Madeline Price
+2022-09-01,M002,Machine_M002,Night,593,45,22,1.99,92.87,Operator Error,Setup Delay,670,593,1035,Jeffery Freeman
+2023-12-14,M005,Machine_M005,Night,165,29,0,4.45,91.99,Operator Error,Power Issue,271,165,1110,Tracey Daniel
+2022-08-28,M005,Machine_M005,Day,716,92,18,3.83,78.23,None,None,838,716,1355,Nicole Baldwin
+2025-04-15,M003,Machine_M003,Day,186,62,7,0.98,89.44,Operator Error,Power Issue,273,186,1166,Robert Stevens
+2022-07-24,M005,Machine_M005,Night,743,103,6,3.74,82.37,Tooling Issue,Setup Delay,843,743,1230,Kevin French
+2025-03-17,M004,Machine_M004,Day,529,104,21,1.76,64.39,Operator Error,Setup Delay,676,529,1420,Donna Baker
+2024-07-21,M003,Machine_M003,Day,950,114,15,3.62,75.91,Material Shortage,Setup Delay,1018,950,1663,Elizabeth Carter
+2024-05-07,M003,Machine_M003,Night,728,49,34,4.31,77.2,Operator Error,Setup Delay,851,728,1429,Warren Wilson
+2024-12-26,M002,Machine_M002,Day,244,18,0,3.23,77.12,Tooling Issue,Power Issue,328,244,1915,Alan Lozano
+2022-08-14,M005,Machine_M005,Day,975,100,16,1.29,70.29,Tooling Issue,Maintenance Delay,1114,975,1275,Steven Flowers
+2022-07-13,M001,Machine_M001,Night,728,65,21,3.73,92.88,Tooling Issue,Maintenance Delay,785,728,1985,Stephen Farrell
+2024-03-17,M001,Machine_M001,Night,113,99,2,1.17,88.2,Operator Error,Maintenance Delay,215,113,1518,Lori Cordova
+2024-11-12,M001,Machine_M001,Night,387,19,13,4.38,61.82,Tooling Issue,Setup Delay,529,387,1060,Steven Cunningham
+2024-06-01,M004,Machine_M004,Day,579,67,27,0.5,70.83,Operator Error,Setup Delay,659,579,1421,Jeffrey Edwards
+2022-07-15,M003,Machine_M003,Night,545,34,24,4.92,73.14,Material Shortage,Setup Delay,666,545,1825,Jeffrey Mendez
+2024-04-28,M004,Machine_M004,Night,543,41,1,0.92,61.63,Material Shortage,Maintenance Delay,628,543,1982,Alyssa Mejia
+2024-12-25,M001,Machine_M001,Day,857,31,1,1.26,66.98,Operator Error,Power Issue,940,857,1752,Benjamin Mckinney
+2022-09-27,M004,Machine_M004,Day,651,57,2,2.76,91.58,None,Maintenance Delay,724,651,1738,Maria Smith
+2024-07-07,M002,Machine_M002,Night,228,113,7,0.91,67.12,Tooling Issue,None,288,228,1425,Kathleen Myers
+2024-03-28,M002,Machine_M002,Night,869,36,25,0.92,66.09,Tooling Issue,Power Issue,921,869,1833,Brett Turner
+2023-09-24,M003,Machine_M003,Night,886,110,39,1.15,62.14,Operator Error,None,1007,886,1891,Austin Morgan
+2023-08-02,M005,Machine_M005,Day,926,12,16,3.57,79.27,None,Maintenance Delay,1029,926,1084,Paula Schmidt
+2022-12-08,M003,Machine_M003,Swing,600,41,7,4.72,85.78,Material Shortage,Setup Delay,677,600,1743,Tyler Williams
+2022-10-06,M005,Machine_M005,Night,366,99,17,3.54,86.27,Operator Error,Setup Delay,471,366,1666,Cynthia Wilson
+2023-05-25,M004,Machine_M004,Night,548,68,3,0.91,63.45,Tooling Issue,Setup Delay,659,548,1812,Dr. Katherine Miller DDS
+2025-02-17,M002,Machine_M002,Night,755,112,25,2.1,63.01,Material Shortage,Power Issue,822,755,1067,Tonya Patton
+2024-11-14,M005,Machine_M005,Night,954,116,23,4.2,84.7,Material Shortage,Maintenance Delay,1014,954,1819,David Santos
+2022-05-03,M001,Machine_M001,Night,757,88,12,1.5,94.46,Operator Error,None,901,757,1547,Jordan Sharp
+2023-08-17,M001,Machine_M001,Day,477,38,9,2.61,88.51,Material Shortage,Power Issue,548,477,1560,Megan Gonzalez
+2024-01-03,M004,Machine_M004,Swing,270,53,4,3.19,82.03,Operator Error,None,388,270,1855,Michael Barnett
+2024-10-07,M002,Machine_M002,Night,878,62,6,2.76,74.0,Operator Error,Setup Delay,958,878,1856,Kimberly Pratt
+2024-06-16,M005,Machine_M005,Day,228,43,5,4.1,63.1,Operator Error,Setup Delay,280,228,1477,Tiffany Kramer
+2022-06-04,M002,Machine_M002,Swing,966,105,8,2.28,71.93,Operator Error,None,1047,966,1353,Ricky Joseph
+2022-09-05,M004,Machine_M004,Night,189,72,0,4.0,67.32,Material Shortage,Maintenance Delay,245,189,1137,Christopher Medina
+2023-04-21,M003,Machine_M003,Night,983,19,5,2.84,85.17,None,Power Issue,1066,983,1950,Thomas Garcia
+2024-12-20,M001,Machine_M001,Night,598,101,28,3.14,60.99,None,Power Issue,695,598,1629,Brian Brown
+2022-07-24,M001,Machine_M001,Night,788,0,34,3.86,76.34,Tooling Issue,Power Issue,898,788,1006,Christina Roman
+2024-09-21,M001,Machine_M001,Night,840,118,29,1.56,90.37,Material Shortage,Maintenance Delay,926,840,1247,Stephanie Hamilton
+2023-05-22,M005,Machine_M005,Day,564,71,22,0.78,84.92,Tooling Issue,Power Issue,682,564,1480,Briana Sexton
+2022-09-09,M004,Machine_M004,Swing,517,24,25,4.42,93.36,None,Power Issue,587,517,1420,Carrie Lin
+2024-07-04,M003,Machine_M003,Night,984,83,0,0.94,72.87,None,Maintenance Delay,1087,984,1477,Diana Hernandez
+2025-04-13,M005,Machine_M005,Night,961,16,20,2.39,90.28,Operator Error,Maintenance Delay,1041,961,1021,Breanna Mullins
+2023-06-14,M003,Machine_M003,Night,824,31,20,0.76,80.15,Material Shortage,None,966,824,1223,Christopher Adams
+2024-12-09,M001,Machine_M001,Night,307,34,10,4.71,73.47,None,Maintenance Delay,360,307,1207,Kimberly Lopez
+2025-02-04,M002,Machine_M002,Night,162,95,6,1.16,79.67,Operator Error,Power Issue,245,162,1883,Noah Gibson
+2023-05-03,M003,Machine_M003,Night,199,58,7,4.4,90.31,Operator Error,Maintenance Delay,286,199,1990,Lauren Ritter
+2022-11-20,M004,Machine_M004,Swing,694,25,9,4.65,75.32,None,Setup Delay,793,694,1281,Cheryl Rogers
+2024-11-17,M002,Machine_M002,Day,505,114,10,1.43,73.56,Material Shortage,Maintenance Delay,648,505,1573,Natalie Barr
+2022-09-19,M003,Machine_M003,Swing,766,82,21,3.44,71.56,Tooling Issue,Setup Delay,902,766,1105,Jennifer Williamson
+2023-02-13,M002,Machine_M002,Day,865,101,41,2.87,80.98,Material Shortage,Setup Delay,944,865,1306,Kevin Sanchez
+2022-12-15,M004,Machine_M004,Night,351,55,13,2.29,73.05,Tooling Issue,Maintenance Delay,467,351,1384,Timothy Wright
+2023-08-26,M003,Machine_M003,Swing,729,90,4,4.78,71.25,Material Shortage,Maintenance Delay,796,729,1633,Catherine Nunez
+2023-02-19,M005,Machine_M005,Day,661,78,3,2.95,82.23,None,Power Issue,793,661,1814,Charles Wilson
+2022-05-02,M004,Machine_M004,Night,978,119,45,2.15,78.21,Operator Error,None,1061,978,1237,Corey White
+2022-09-22,M005,Machine_M005,Swing,912,25,27,4.38,69.17,Material Shortage,Power Issue,1012,912,1966,Amy Smith
+2023-01-13,M004,Machine_M004,Swing,701,33,24,3.87,92.28,Tooling Issue,None,793,701,1380,Jeffrey Jenkins
+2024-06-09,M002,Machine_M002,Night,365,24,7,1.82,83.93,Material Shortage,Power Issue,415,365,1286,Stephen Cohen
+2025-03-28,M002,Machine_M002,Day,990,39,38,4.14,61.68,Tooling Issue,Maintenance Delay,1127,990,1563,Vincent Gonzales
+2024-07-01,M001,Machine_M001,Day,883,65,6,1.91,81.99,Material Shortage,None,934,883,1676,Kent Burns
+2024-02-08,M002,Machine_M002,Day,975,78,34,2.36,74.4,None,Setup Delay,1064,975,1348,Jeffrey Farmer
+2024-09-17,M001,Machine_M001,Swing,464,93,18,3.34,93.63,Tooling Issue,None,546,464,1213,Cynthia Wright
+2024-07-12,M004,Machine_M004,Day,906,66,29,1.4,92.82,Material Shortage,Maintenance Delay,986,906,1628,Nicholas Payne
+2024-12-11,M004,Machine_M004,Swing,492,46,5,0.89,60.73,Tooling Issue,None,589,492,1320,Pamela Brown
+2023-01-16,M004,Machine_M004,Day,360,67,5,2.72,84.17,Material Shortage,Maintenance Delay,457,360,1159,Jessica Lindsey
+2024-07-29,M001,Machine_M001,Night,211,72,0,2.62,70.18,Tooling Issue,Setup Delay,281,211,1317,Kelly Haley
+2023-11-28,M005,Machine_M005,Day,962,73,19,0.94,66.46,None,Power Issue,1072,962,1521,Cory Roy
+2024-07-05,M001,Machine_M001,Night,279,19,9,0.87,77.32,Operator Error,Setup Delay,358,279,1574,Deborah Ochoa
+2022-07-18,M004,Machine_M004,Night,814,74,32,2.94,93.64,None,Power Issue,935,814,1002,Carlos Kennedy
+2025-02-14,M005,Machine_M005,Night,888,84,9,4.06,67.4,Material Shortage,None,1009,888,1217,Janice Lynch
+2024-02-18,M003,Machine_M003,Night,447,90,6,3.39,77.37,Operator Error,None,585,447,1986,Megan Perez
+2023-08-04,M005,Machine_M005,Day,844,59,30,3.85,69.28,Operator Error,Setup Delay,961,844,1651,Melissa Meyer
+2024-01-05,M003,Machine_M003,Night,751,54,0,1.48,87.53,Tooling Issue,None,893,751,1078,Melissa Alvarez
+2023-03-16,M002,Machine_M002,Day,802,96,23,0.86,91.07,Tooling Issue,Power Issue,888,802,1764,Jennifer Lopez
+2023-03-11,M001,Machine_M001,Swing,870,94,39,1.32,72.41,None,Maintenance Delay,1011,870,1762,Charles Terry
+2025-03-08,M002,Machine_M002,Night,348,110,2,0.93,94.38,Operator Error,Maintenance Delay,468,348,1843,Diana Hunter
+2024-11-14,M004,Machine_M004,Day,746,59,24,2.99,62.93,Tooling Issue,None,833,746,1808,Aaron Jones
+2023-10-26,M002,Machine_M002,Day,214,53,4,0.55,94.41,Tooling Issue,Setup Delay,272,214,1431,Angela Green
+2025-02-03,M002,Machine_M002,Day,676,12,26,3.71,86.82,Material Shortage,Maintenance Delay,809,676,1479,Krista Oliver
+2024-11-20,M003,Machine_M003,Night,976,88,27,3.07,85.73,None,Power Issue,1053,976,1697,David Wells
+2025-04-19,M002,Machine_M002,Night,346,65,10,0.8,76.77,Tooling Issue,None,400,346,1144,Jason Clark
+2023-08-23,M001,Machine_M001,Swing,198,114,8,1.85,82.16,None,None,308,198,1646,Lauren Moss
+2023-09-05,M005,Machine_M005,Day,398,11,12,4.04,69.49,Tooling Issue,Maintenance Delay,491,398,1672,Brooke Harris
+2023-09-10,M004,Machine_M004,Night,888,70,17,4.81,87.85,Operator Error,None,1011,888,1717,John Jones
+2023-07-24,M003,Machine_M003,Day,637,116,13,1.9,78.95,Material Shortage,Power Issue,753,637,1270,Anne Joyce
+2022-08-12,M002,Machine_M002,Swing,945,79,17,4.86,70.27,Material Shortage,Setup Delay,1077,945,1211,Natalie Alvarado
+2023-03-30,M005,Machine_M005,Swing,718,118,22,4.59,83.39,Operator Error,Maintenance Delay,812,718,1320,Kari Diaz
+2023-10-15,M004,Machine_M004,Swing,988,113,0,2.13,78.17,Operator Error,None,1114,988,1152,Mary Lopez
+2024-04-23,M004,Machine_M004,Night,222,12,8,3.43,84.24,None,Setup Delay,316,222,1702,Mr. Craig Barrett MD
+2024-01-20,M001,Machine_M001,Day,636,99,4,3.02,67.58,Operator Error,Maintenance Delay,776,636,1569,Lisa Jones
+2023-07-03,M004,Machine_M004,Night,851,76,26,4.09,73.01,Material Shortage,None,948,851,1164,Catherine Potter
+2022-12-08,M001,Machine_M001,Day,890,49,12,2.52,86.89,Material Shortage,Setup Delay,981,890,1436,Ashley Cook MD
+2024-01-07,M003,Machine_M003,Swing,394,26,19,2.86,89.23,Material Shortage,Power Issue,467,394,1719,Lynn Peck
+2022-05-01,M004,Machine_M004,Day,617,51,27,2.3,90.72,Operator Error,Setup Delay,700,617,1217,Breanna Scott
+2023-11-26,M004,Machine_M004,Night,254,75,3,1.57,91.18,Operator Error,Power Issue,316,254,1590,Thomas Mueller
+2023-11-06,M001,Machine_M001,Night,478,51,3,2.18,65.19,None,Power Issue,602,478,1256,Tamara Leonard
+2024-05-17,M005,Machine_M005,Swing,322,50,10,4.32,79.49,Tooling Issue,Power Issue,437,322,1492,Mrs. Danielle Reid
+2024-03-02,M003,Machine_M003,Day,740,102,6,1.37,77.95,Tooling Issue,Power Issue,838,740,1304,Molly Williams
+2024-09-07,M004,Machine_M004,Night,374,32,5,1.9,76.93,Operator Error,Power Issue,457,374,1931,Mary Weeks
+2024-09-15,M003,Machine_M003,Night,106,70,0,2.8,66.09,Operator Error,Power Issue,245,106,1787,Terry Gutierrez
+2022-07-22,M001,Machine_M001,Night,284,11,1,0.67,80.77,None,Maintenance Delay,355,284,1534,Kara Clarke
+2022-11-09,M004,Machine_M004,Swing,729,33,14,3.5,91.83,Operator Error,Setup Delay,808,729,1839,Laura Lewis
+2023-03-21,M002,Machine_M002,Night,388,3,13,4.22,74.88,Operator Error,None,451,388,1369,Tammy Diaz
+2024-07-29,M003,Machine_M003,Day,300,70,3,1.83,61.87,Material Shortage,Setup Delay,390,300,1761,Michael Richardson
+2022-11-10,M005,Machine_M005,Day,204,17,6,4.65,87.18,Operator Error,Maintenance Delay,314,204,1030,Kyle Jimenez
+2024-03-26,M005,Machine_M005,Day,412,86,3,1.77,74.03,None,Power Issue,504,412,1452,Haley Hunter
+2024-12-21,M003,Machine_M003,Swing,872,15,33,2.18,64.38,Operator Error,Setup Delay,926,872,1596,Dennis Norris
+2024-10-06,M001,Machine_M001,Day,686,104,5,4.28,92.67,None,None,826,686,1005,Francisco Harris
+2025-04-26,M001,Machine_M001,Night,289,103,12,2.19,93.68,Material Shortage,None,341,289,1691,Michelle Franklin
+2024-12-07,M001,Machine_M001,Night,295,46,10,1.45,60.77,None,None,345,295,1642,Kathryn Clarke
+2023-03-05,M003,Machine_M003,Day,744,66,36,3.3,84.65,Tooling Issue,Power Issue,876,744,1764,Brianna Huynh
+2024-10-31,M003,Machine_M003,Swing,248,32,10,4.34,65.01,Operator Error,Maintenance Delay,367,248,1858,Toni Townsend
+2023-10-29,M001,Machine_M001,Day,207,80,0,4.03,80.73,None,Setup Delay,328,207,1097,John Brown
+2024-09-26,M001,Machine_M001,Swing,696,56,5,3.14,94.42,Operator Error,None,828,696,1621,Gregory Frye
+2023-06-15,M004,Machine_M004,Day,883,61,6,3.91,74.93,Operator Error,Setup Delay,1010,883,1259,Jennifer Gonzalez
+2024-10-05,M001,Machine_M001,Swing,686,8,23,2.45,86.08,None,Maintenance Delay,808,686,1097,Mary Randall
+2024-10-02,M005,Machine_M005,Day,610,65,8,2.81,90.08,Tooling Issue,Maintenance Delay,706,610,1899,Christopher Matthews
+2022-12-15,M005,Machine_M005,Day,793,35,34,1.59,78.1,Operator Error,None,903,793,1615,James Jenkins
+2024-11-10,M001,Machine_M001,Night,568,89,10,1.25,64.15,None,Maintenance Delay,661,568,1330,Kendra Moreno
+2022-09-25,M004,Machine_M004,Night,355,54,1,2.33,81.11,None,Power Issue,421,355,1499,James Robinson
+2023-08-14,M005,Machine_M005,Day,751,50,15,2.99,81.91,Operator Error,Setup Delay,876,751,1437,Gregory Kane
+2023-01-26,M002,Machine_M002,Night,649,75,20,2.09,72.07,None,Maintenance Delay,706,649,1161,Emily Peters
+2022-06-28,M005,Machine_M005,Day,126,67,2,0.54,79.65,Operator Error,Maintenance Delay,250,126,1468,Beverly Ward DDS
+2023-06-30,M001,Machine_M001,Swing,237,52,9,4.91,71.83,Operator Error,Maintenance Delay,308,237,1969,Tiffany Fernandez
+2022-06-13,M002,Machine_M002,Day,163,71,0,3.17,67.51,Operator Error,Maintenance Delay,216,163,1181,Michael Floyd
+2022-08-24,M005,Machine_M005,Swing,869,46,5,2.9,89.32,Tooling Issue,Power Issue,974,869,1732,Peter Martinez
+2024-06-08,M005,Machine_M005,Night,595,46,11,2.0,90.82,Material Shortage,Power Issue,653,595,1169,Ricky Jackson
+2024-11-25,M001,Machine_M001,Swing,472,1,2,0.51,90.47,Operator Error,Power Issue,601,472,1534,Diane Walsh
+2024-02-13,M004,Machine_M004,Day,388,53,1,2.42,90.2,None,Power Issue,500,388,1187,Erin Patel
+2024-01-21,M004,Machine_M004,Swing,973,9,31,1.41,66.99,Tooling Issue,None,1060,973,1813,Latoya Allison
+2023-12-04,M004,Machine_M004,Night,972,64,37,3.69,89.63,Tooling Issue,None,1075,972,1136,Jeremy Giles
+2024-05-23,M005,Machine_M005,Day,676,108,23,4.27,67.48,None,Power Issue,770,676,1475,Stephanie Campbell
+2024-03-25,M004,Machine_M004,Day,492,3,7,2.73,80.97,Material Shortage,None,602,492,1420,Jade Reid
+2023-05-13,M002,Machine_M002,Night,888,91,39,3.92,75.97,None,Maintenance Delay,974,888,1351,Christopher Ford PhD
+2025-03-04,M002,Machine_M002,Swing,878,27,36,3.82,94.25,Operator Error,Setup Delay,1008,878,1133,Michael Sanchez
+2022-05-07,M004,Machine_M004,Swing,130,5,6,2.8,91.95,None,Maintenance Delay,182,130,1272,Nicholas Schultz
+2022-10-13,M004,Machine_M004,Swing,751,51,15,1.32,73.95,Tooling Issue,Power Issue,838,751,1865,Linda Tran
+2024-09-17,M001,Machine_M001,Swing,896,81,38,4.11,94.83,Operator Error,Maintenance Delay,981,896,1468,Andrea Alvarez
+2023-07-05,M004,Machine_M004,Day,826,44,1,3.12,79.05,None,Setup Delay,947,826,1047,Dillon Howe
+2023-04-09,M003,Machine_M003,Night,936,66,37,3.38,90.1,None,None,1048,936,1401,Andrea Garrett
+2024-11-16,M005,Machine_M005,Day,359,100,1,1.53,90.34,Material Shortage,Maintenance Delay,482,359,1257,Ruth Allen
+2023-03-25,M005,Machine_M005,Swing,991,35,1,3.77,67.04,Operator Error,Setup Delay,1137,991,1459,Eric Hunt
+2023-04-25,M002,Machine_M002,Swing,801,64,4,4.58,67.0,None,None,918,801,1890,James Davidson
+2022-12-06,M005,Machine_M005,Night,865,50,15,4.06,67.12,Material Shortage,Power Issue,1000,865,1829,Brent Dorsey
+2024-03-09,M005,Machine_M005,Night,354,17,11,3.89,62.89,Material Shortage,None,494,354,1400,Stephanie Moore
+2024-03-31,M003,Machine_M003,Night,361,108,8,3.92,90.99,None,Setup Delay,426,361,1287,Cheryl Calhoun
+2022-10-27,M005,Machine_M005,Night,992,16,37,1.12,80.01,Material Shortage,Setup Delay,1062,992,1355,Mr. Michael Smith
+2024-05-06,M005,Machine_M005,Swing,455,30,5,1.05,92.5,None,Maintenance Delay,561,455,1354,Lucas Mcconnell
+2022-10-28,M001,Machine_M001,Day,163,13,3,0.61,81.15,Tooling Issue,None,218,163,1353,Sarah Davis
+2023-08-18,M005,Machine_M005,Day,977,76,21,4.2,85.47,Material Shortage,None,1092,977,1760,Rachel Mcbride
+2025-03-01,M005,Machine_M005,Swing,430,108,17,0.93,62.38,Operator Error,Power Issue,570,430,1128,Nicole Meza
+2023-06-21,M001,Machine_M001,Swing,907,14,9,3.56,88.1,Tooling Issue,Maintenance Delay,999,907,1594,Dr. Travis Parker
+2023-07-25,M003,Machine_M003,Night,806,64,21,0.8,69.44,Material Shortage,Setup Delay,910,806,1075,Gary Williams
+2022-05-16,M001,Machine_M001,Swing,275,93,9,1.5,79.24,None,Power Issue,361,275,1385,Justin Nguyen
+2025-04-03,M001,Machine_M001,Swing,652,83,18,3.62,71.03,None,Maintenance Delay,764,652,1004,Richard Watts
+2022-10-27,M004,Machine_M004,Swing,999,91,20,0.56,79.36,None,Maintenance Delay,1086,999,1752,Catherine Mills
+2022-07-21,M005,Machine_M005,Night,906,116,12,3.42,84.16,Operator Error,Setup Delay,1037,906,1402,Paul Miranda
+2025-01-21,M002,Machine_M002,Swing,154,70,0,1.47,81.52,Operator Error,Maintenance Delay,287,154,1068,Charlotte Poole
+2024-02-17,M004,Machine_M004,Swing,208,43,8,1.88,90.64,Material Shortage,None,308,208,1079,Lori Chapman
+2024-04-10,M003,Machine_M003,Swing,816,43,4,1.55,64.08,Operator Error,None,945,816,1934,Gloria Beck
+2023-11-12,M003,Machine_M003,Swing,641,114,13,4.88,66.85,Tooling Issue,Power Issue,707,641,1075,Cheyenne Perez
+2023-02-21,M002,Machine_M002,Day,556,26,0,0.59,89.72,Tooling Issue,Power Issue,664,556,1797,Matthew Morris
+2022-06-13,M005,Machine_M005,Swing,559,65,2,3.61,64.09,Tooling Issue,Maintenance Delay,700,559,1217,Kristin Schmidt
+2023-10-21,M001,Machine_M001,Night,821,114,16,1.83,79.05,Tooling Issue,Power Issue,915,821,1448,Samantha Jensen
+2024-09-28,M004,Machine_M004,Day,291,76,8,4.78,76.45,Material Shortage,Setup Delay,358,291,1989,Steven Charles
+2023-09-05,M005,Machine_M005,Night,912,89,16,1.9,91.14,None,Setup Delay,1030,912,1595,Carrie Allen
+2022-10-17,M001,Machine_M001,Night,235,46,1,2.54,63.55,None,Power Issue,308,235,1746,Steven White
+2023-05-22,M001,Machine_M001,Night,442,98,1,2.97,65.32,Material Shortage,Maintenance Delay,566,442,1868,Fred Williams
+2024-02-06,M001,Machine_M001,Night,905,113,38,0.95,63.8,None,Power Issue,1004,905,1598,Mary Davis
+2024-10-08,M005,Machine_M005,Day,649,1,5,3.87,71.47,Material Shortage,None,782,649,1497,Megan Moore
+2024-05-07,M003,Machine_M003,Night,744,111,35,2.73,90.26,None,None,837,744,1079,Caroline Sanford
+2023-03-28,M005,Machine_M005,Day,352,66,4,1.25,88.33,Tooling Issue,Power Issue,466,352,1693,Frederick Lopez
+2025-03-14,M005,Machine_M005,Night,326,0,8,0.53,72.14,Material Shortage,Setup Delay,470,326,1281,Matthew Miller
+2023-06-17,M005,Machine_M005,Day,319,63,15,3.47,83.06,Material Shortage,Power Issue,398,319,1215,Steven Contreras
+2023-12-19,M004,Machine_M004,Day,484,23,0,1.36,89.56,Tooling Issue,Setup Delay,608,484,1366,Jeffrey Todd
+2023-08-09,M002,Machine_M002,Swing,131,92,2,2.59,78.62,None,Setup Delay,217,131,1073,Jamie Brown
+2023-11-15,M005,Machine_M005,Day,873,34,25,2.33,83.39,Material Shortage,Maintenance Delay,1009,873,1086,Pamela Knight
+2023-02-07,M003,Machine_M003,Swing,353,71,13,3.92,74.24,Material Shortage,Setup Delay,430,353,1281,Hannah Wilcox
+2023-11-11,M003,Machine_M003,Swing,114,95,5,2.57,76.11,None,Power Issue,234,114,1678,Pamela Murphy
+2024-09-27,M004,Machine_M004,Swing,414,101,14,3.81,80.55,Operator Error,Maintenance Delay,489,414,1988,Kim Oliver
+2023-05-30,M003,Machine_M003,Day,573,22,11,2.51,89.52,None,None,657,573,1371,Jessica Jones
+2024-03-25,M005,Machine_M005,Day,846,16,28,2.7,65.93,Operator Error,Setup Delay,924,846,1386,Mary Mcclure
+2022-10-24,M001,Machine_M001,Day,191,12,1,3.42,75.84,Operator Error,Power Issue,289,191,1056,Stephen Ward
+2024-05-25,M004,Machine_M004,Day,261,24,5,1.13,72.52,Operator Error,Maintenance Delay,368,261,1452,Kevin Anderson
+2022-06-14,M002,Machine_M002,Night,789,79,22,4.6,94.07,None,Maintenance Delay,900,789,1382,Kenneth Taylor
+2024-07-06,M005,Machine_M005,Day,665,12,1,4.84,84.24,Material Shortage,Maintenance Delay,791,665,1519,Carly Riley
+2022-07-04,M002,Machine_M002,Swing,999,20,10,2.05,92.26,Tooling Issue,Maintenance Delay,1145,999,1160,Vickie Fischer
+2023-11-30,M005,Machine_M005,Night,835,86,12,0.71,93.89,Operator Error,None,908,835,1286,Christian Mckinney
+2023-05-06,M004,Machine_M004,Day,775,30,30,1.08,71.47,Tooling Issue,Setup Delay,858,775,1078,Elizabeth Edwards
+2025-04-22,M003,Machine_M003,Swing,301,84,12,4.01,71.02,Tooling Issue,Maintenance Delay,445,301,1466,Jose Larson
+2023-01-19,M005,Machine_M005,Day,897,8,27,1.23,92.99,Operator Error,None,1000,897,1911,Michael Tucker
+2023-08-18,M001,Machine_M001,Night,175,14,4,4.44,90.72,Material Shortage,None,234,175,1221,Danielle Lamb
+2022-06-25,M004,Machine_M004,Night,711,11,24,3.16,78.73,Tooling Issue,Setup Delay,816,711,1143,Richard Wyatt
+2024-12-10,M003,Machine_M003,Day,956,98,20,4.48,72.78,Material Shortage,Setup Delay,1056,956,1498,Regina Garza
+2025-01-27,M005,Machine_M005,Day,263,52,7,5.0,64.39,Material Shortage,Setup Delay,343,263,1581,Melissa Thompson
+2024-08-06,M005,Machine_M005,Night,192,104,7,4.13,82.99,Tooling Issue,Setup Delay,337,192,1706,Hunter Henry
+2023-01-18,M003,Machine_M003,Day,352,56,2,1.92,73.89,None,None,445,352,1316,Billy Gutierrez
+2022-07-05,M001,Machine_M001,Day,165,33,1,1.03,91.78,Tooling Issue,None,314,165,1624,Dr. Brian Brooks
+2025-02-03,M002,Machine_M002,Day,899,0,2,2.82,91.12,Material Shortage,Power Issue,995,899,1483,Nicholas Brown
+2024-04-06,M002,Machine_M002,Day,918,104,3,1.87,93.85,Tooling Issue,Power Issue,1038,918,1940,Curtis Valdez
+2023-03-15,M004,Machine_M004,Day,898,56,21,3.24,70.33,None,None,974,898,1109,Megan Walter
+2024-03-15,M002,Machine_M002,Swing,129,53,0,1.44,73.5,Operator Error,Power Issue,213,129,1077,Brian May
+2023-09-11,M002,Machine_M002,Day,597,84,13,1.69,71.46,Tooling Issue,Power Issue,717,597,1551,Anthony Hanson
+2025-02-17,M001,Machine_M001,Swing,189,46,4,4.62,68.8,None,Power Issue,332,189,1781,Dana Lambert
+2025-01-20,M002,Machine_M002,Night,653,48,19,0.54,70.25,Material Shortage,None,792,653,1567,David Williams
+2022-07-02,M004,Machine_M004,Swing,611,74,14,4.27,83.26,Tooling Issue,Setup Delay,725,611,1835,Heather Burgess
+2022-07-07,M002,Machine_M002,Day,551,88,12,4.54,86.11,Operator Error,Power Issue,662,551,1782,Peter Wood DDS
+2024-04-22,M002,Machine_M002,Swing,526,36,11,2.56,71.02,Tooling Issue,Power Issue,670,526,1891,Kayla Nichols
+2024-08-06,M001,Machine_M001,Night,395,17,10,2.15,63.3,Tooling Issue,Power Issue,449,395,1640,Christina Ramirez
+2024-11-22,M003,Machine_M003,Swing,106,101,4,1.2,74.07,Material Shortage,Maintenance Delay,160,106,1133,Elizabeth Miles
+2023-02-27,M001,Machine_M001,Day,579,32,26,3.94,89.31,Tooling Issue,Power Issue,657,579,1804,John Moore
+2023-07-15,M002,Machine_M002,Swing,714,85,3,1.69,72.88,Tooling Issue,Power Issue,782,714,1552,Matthew Morgan
+2023-11-25,M004,Machine_M004,Night,755,39,23,3.91,60.49,None,None,870,755,1363,Nicole Walker
+2025-02-08,M004,Machine_M004,Swing,168,94,3,2.31,64.99,None,None,287,168,1513,Dominique Wilson
+2024-06-14,M002,Machine_M002,Swing,959,90,19,4.85,83.67,None,Maintenance Delay,1105,959,1965,Jacqueline Cook
+2023-01-14,M005,Machine_M005,Night,519,50,13,2.25,74.98,Operator Error,Maintenance Delay,664,519,1268,Victor Smith
+2023-09-23,M004,Machine_M004,Night,277,64,6,1.58,69.38,Operator Error,Maintenance Delay,373,277,1212,Robin Boyd
+2024-01-11,M003,Machine_M003,Day,943,108,39,2.08,82.97,Operator Error,Power Issue,1062,943,1457,Thomas Bell
+2024-03-04,M004,Machine_M004,Night,141,43,6,0.83,81.26,None,None,233,141,1971,Nathaniel Leach
+2022-06-12,M003,Machine_M003,Swing,346,32,8,2.6,92.65,Material Shortage,Setup Delay,456,346,1863,Kim Hernandez
+2024-06-02,M005,Machine_M005,Night,163,24,3,3.94,69.79,Tooling Issue,Setup Delay,305,163,1995,Jeff Davis
+2022-10-24,M002,Machine_M002,Day,241,4,10,1.4,78.04,None,None,293,241,1981,Nicole Anderson
+2024-08-28,M002,Machine_M002,Night,425,78,17,4.86,93.67,Material Shortage,Setup Delay,543,425,1043,Connor Haynes
+2023-11-25,M005,Machine_M005,Night,618,24,6,1.31,79.28,Material Shortage,Setup Delay,758,618,1851,Melissa Romero
+2024-01-16,M002,Machine_M002,Day,573,32,18,3.66,76.72,Operator Error,Setup Delay,669,573,1966,Joseph Frazier
+2022-12-15,M003,Machine_M003,Day,207,22,3,0.83,94.15,Operator Error,Power Issue,306,207,1339,Kim Escobar
+2023-09-03,M001,Machine_M001,Day,238,12,8,3.04,87.07,Tooling Issue,Power Issue,330,238,1601,Melissa Williams
+2023-09-09,M001,Machine_M001,Night,129,80,5,0.94,70.36,None,Maintenance Delay,237,129,1897,Nancy Kennedy
+2022-05-23,M003,Machine_M003,Day,912,95,33,4.78,60.83,Operator Error,Setup Delay,1011,912,1283,Ann Porter
+2023-06-20,M005,Machine_M005,Day,264,107,8,2.97,84.24,None,Maintenance Delay,335,264,1109,Taylor Stephenson
+2023-10-03,M003,Machine_M003,Day,721,40,2,2.52,94.12,Tooling Issue,Maintenance Delay,842,721,1398,Kevin Crawford
+2025-04-30,M002,Machine_M002,Day,705,58,26,3.38,73.01,Tooling Issue,Maintenance Delay,827,705,1106,Danielle Hoffman
+2023-02-07,M004,Machine_M004,Swing,334,110,5,3.23,90.87,None,Maintenance Delay,474,334,1741,Sandra Jordan
+2024-01-11,M003,Machine_M003,Day,563,55,4,3.15,68.87,Material Shortage,Power Issue,652,563,1909,Wesley Adams
+2024-05-20,M002,Machine_M002,Night,523,45,13,3.13,85.51,None,None,638,523,1127,Robert Hutchinson
+2023-03-03,M004,Machine_M004,Night,253,103,11,3.66,84.76,Tooling Issue,Setup Delay,343,253,1830,Patrick Miller
+2023-01-18,M001,Machine_M001,Day,304,52,0,2.49,77.09,Material Shortage,Power Issue,393,304,1982,Melissa Mathis
+2024-12-23,M003,Machine_M003,Swing,464,7,15,4.99,62.28,Material Shortage,None,599,464,1015,Jeffrey Wells
+2023-08-09,M001,Machine_M001,Swing,614,90,16,4.71,67.62,None,Setup Delay,692,614,1087,Robert Johnson
+2024-03-29,M004,Machine_M004,Swing,802,64,32,3.71,74.23,Material Shortage,Maintenance Delay,866,802,1924,Samantha Huang
+2022-06-02,M001,Machine_M001,Swing,439,1,9,3.98,88.6,Tooling Issue,Power Issue,530,439,1628,Anthony White
+2024-08-13,M001,Machine_M001,Night,498,2,19,2.55,64.87,None,None,579,498,1979,Michelle Silva
+2022-08-18,M003,Machine_M003,Swing,714,16,31,2.94,79.78,Tooling Issue,Power Issue,846,714,1280,Bobby James
+2025-04-15,M004,Machine_M004,Swing,539,65,23,3.33,76.46,Tooling Issue,Maintenance Delay,660,539,1960,Amanda Smith
+2025-02-18,M004,Machine_M004,Day,969,84,29,1.42,60.31,None,Maintenance Delay,1067,969,1472,Julian Guerra
+2024-10-18,M002,Machine_M002,Day,898,28,22,2.53,70.02,None,Power Issue,991,898,1685,Jordan Young
+2024-11-10,M002,Machine_M002,Day,614,105,27,3.49,65.44,Operator Error,None,677,614,1818,Justin Peters
+2023-06-08,M004,Machine_M004,Night,134,103,2,1.27,70.67,Material Shortage,Power Issue,267,134,1642,Sonya Harrison
+2022-07-17,M002,Machine_M002,Swing,925,3,38,1.3,65.21,Material Shortage,Maintenance Delay,1041,925,1498,Jessica Thompson
+2022-05-06,M005,Machine_M005,Day,667,74,3,3.44,62.5,Operator Error,Setup Delay,753,667,1106,Sherry Blake
+2023-12-13,M005,Machine_M005,Day,945,50,18,3.11,69.47,Tooling Issue,Maintenance Delay,1071,945,1475,Anna Rice
+2025-01-29,M001,Machine_M001,Day,156,36,2,4.44,86.69,None,Maintenance Delay,283,156,1969,Henry Phillips
+2023-12-10,M005,Machine_M005,Night,533,108,13,0.56,80.99,Operator Error,Maintenance Delay,676,533,1929,Matthew Rogers
+2022-10-31,M003,Machine_M003,Day,486,74,15,2.12,69.67,None,None,588,486,1293,David Brewer
+2024-03-10,M002,Machine_M002,Swing,538,71,17,3.04,94.52,Operator Error,Setup Delay,674,538,1368,Hector Smith
+2025-03-07,M001,Machine_M001,Day,894,114,10,4.9,77.41,Material Shortage,Power Issue,967,894,1005,James Adams
+2024-01-08,M003,Machine_M003,Night,583,91,10,2.44,63.5,Tooling Issue,None,695,583,1910,Jimmy Wilson
+2022-06-17,M001,Machine_M001,Night,276,63,3,1.99,79.75,None,None,368,276,1120,Lori Bryant
+2022-12-25,M005,Machine_M005,Day,692,116,19,3.58,83.42,Material Shortage,Setup Delay,814,692,1926,Marvin Sandoval
+2023-03-28,M004,Machine_M004,Swing,607,94,13,3.74,69.35,Operator Error,Power Issue,683,607,1671,Christy Ferguson
+2022-08-20,M002,Machine_M002,Day,247,56,3,3.96,92.23,Operator Error,None,390,247,1560,Courtney Holt
+2024-04-20,M004,Machine_M004,Swing,481,81,18,3.91,67.76,Operator Error,Setup Delay,547,481,1451,Debbie Sims
+2024-11-09,M001,Machine_M001,Night,856,41,20,3.86,80.0,Material Shortage,Setup Delay,982,856,1743,Denise Jones
+2022-10-14,M001,Machine_M001,Day,230,11,10,4.16,89.99,Tooling Issue,Setup Delay,286,230,1191,Amber Butler
+2024-01-31,M003,Machine_M003,Swing,750,108,29,3.8,69.36,Operator Error,None,886,750,1497,Jessica Hernandez
+2024-06-20,M002,Machine_M002,Day,143,102,6,2.07,79.11,None,Maintenance Delay,251,143,1866,Clinton Riddle
+2022-10-28,M002,Machine_M002,Night,526,95,17,4.85,77.74,Operator Error,Power Issue,618,526,1254,Gloria Nelson
+2022-11-09,M001,Machine_M001,Day,242,27,0,2.86,90.6,Operator Error,Power Issue,315,242,1252,Eric Buck
+2022-12-23,M005,Machine_M005,Day,347,109,5,2.64,78.07,Operator Error,Power Issue,409,347,1946,Yolanda Soto
+2023-11-12,M002,Machine_M002,Night,583,72,27,2.93,78.5,Tooling Issue,None,688,583,1411,Robin Carrillo
+2024-04-11,M004,Machine_M004,Swing,261,55,3,4.78,74.07,None,None,341,261,1638,Jennifer Miller
+2022-06-02,M003,Machine_M003,Day,707,12,17,2.31,62.03,Material Shortage,Maintenance Delay,763,707,1511,James Harper
+2025-03-08,M004,Machine_M004,Day,130,2,1,2.25,87.29,Tooling Issue,Power Issue,183,130,1526,Nancy Martin
+2022-06-05,M005,Machine_M005,Night,909,112,29,1.98,86.17,Tooling Issue,None,975,909,1539,Max Johnson
+2025-02-05,M005,Machine_M005,Night,639,47,12,1.49,86.09,Operator Error,Power Issue,714,639,1501,Erin Rodgers
+2025-02-26,M004,Machine_M004,Swing,838,108,36,1.93,86.67,Operator Error,Maintenance Delay,919,838,1641,Paul Garner
+2024-07-31,M001,Machine_M001,Night,148,15,6,4.8,71.91,None,Power Issue,249,148,1837,Zachary Moody
+2024-06-19,M005,Machine_M005,Night,515,98,12,1.5,84.55,Tooling Issue,None,567,515,1711,Beth Lopez
+2022-10-19,M001,Machine_M001,Day,905,49,37,2.44,76.04,Operator Error,Maintenance Delay,1014,905,1732,Christopher Jennings PhD
+2024-12-17,M001,Machine_M001,Day,825,54,11,2.32,75.16,None,Maintenance Delay,919,825,1118,Andrew Ortiz
+2022-10-16,M001,Machine_M001,Day,445,119,4,3.8,89.65,Tooling Issue,Maintenance Delay,560,445,1911,Edward Hood
+2024-06-14,M005,Machine_M005,Day,565,47,7,1.71,69.47,Material Shortage,Maintenance Delay,666,565,1112,Daniel Hayden
+2022-10-30,M005,Machine_M005,Day,565,78,0,1.68,67.58,Operator Error,Power Issue,635,565,1325,Lydia Curtis
+2023-01-05,M002,Machine_M002,Night,230,69,10,2.2,77.3,Material Shortage,Setup Delay,348,230,1332,Kelsey Freeman
+2023-01-28,M005,Machine_M005,Night,272,116,5,2.74,69.36,Tooling Issue,Maintenance Delay,333,272,1269,William Sullivan
+2025-04-11,M004,Machine_M004,Swing,586,45,16,2.63,93.54,Operator Error,Maintenance Delay,665,586,1922,Jennifer Mcguire
+2024-08-01,M003,Machine_M003,Swing,858,66,42,4.81,77.94,Material Shortage,Maintenance Delay,993,858,1315,Lindsey Aguirre
+2023-10-19,M001,Machine_M001,Swing,474,101,23,2.25,71.81,Operator Error,None,544,474,1814,Stephen Woodard
+2022-09-09,M004,Machine_M004,Swing,114,113,0,1.14,69.51,Material Shortage,Maintenance Delay,181,114,1394,Theresa Gibson
+2024-11-29,M004,Machine_M004,Swing,579,111,22,1.62,91.39,Tooling Issue,Power Issue,706,579,1762,Patrick Perry
+2023-10-03,M005,Machine_M005,Swing,817,32,22,4.37,77.29,Material Shortage,Maintenance Delay,928,817,1383,Brian West
+2022-12-18,M003,Machine_M003,Day,959,57,47,4.78,69.44,Material Shortage,Power Issue,1027,959,1511,Jessica Keller
+2023-06-05,M003,Machine_M003,Day,814,79,18,1.96,80.86,Operator Error,Power Issue,951,814,1556,Luis Bailey
+2022-07-11,M004,Machine_M004,Night,276,39,9,3.47,70.88,Operator Error,Maintenance Delay,334,276,1566,Amanda Dixon
+2024-09-27,M005,Machine_M005,Night,390,69,1,4.57,84.25,Tooling Issue,Power Issue,468,390,1760,Emily Allen
+2024-05-01,M002,Machine_M002,Day,429,75,9,4.55,61.2,Material Shortage,Maintenance Delay,573,429,1882,Raymond Webb
+2024-11-08,M004,Machine_M004,Day,439,46,19,3.46,69.76,Material Shortage,Setup Delay,584,439,1514,Robert Daniels
+2024-12-21,M001,Machine_M001,Swing,207,15,0,4.1,67.24,None,Maintenance Delay,336,207,1024,Miguel Holmes Jr.
+2022-08-03,M005,Machine_M005,Night,607,5,29,0.74,71.07,Material Shortage,None,684,607,1850,Richard Reed
+2022-05-23,M002,Machine_M002,Night,343,19,5,0.52,74.39,Tooling Issue,Setup Delay,430,343,1398,Jessica Fisher
+2024-07-29,M003,Machine_M003,Day,791,51,12,1.56,76.27,Material Shortage,Maintenance Delay,891,791,1330,Christian Turner
+2023-07-24,M004,Machine_M004,Swing,384,34,8,4.87,86.92,Material Shortage,Maintenance Delay,470,384,1888,Larry Ochoa
+2023-06-10,M003,Machine_M003,Swing,693,100,5,2.55,80.31,None,Setup Delay,821,693,1360,Joshua Burke
+2022-10-23,M001,Machine_M001,Day,325,26,12,1.08,92.21,Material Shortage,Setup Delay,472,325,1790,Jacqueline Washington
+2023-04-02,M005,Machine_M005,Day,907,60,44,1.5,76.43,Operator Error,Setup Delay,998,907,1514,Edward Jones
+2022-06-11,M003,Machine_M003,Day,756,45,12,2.99,82.96,None,None,857,756,1488,Charles Hughes
+2022-05-11,M004,Machine_M004,Day,751,110,8,4.39,88.97,Material Shortage,Maintenance Delay,852,751,1075,Dustin Taylor
+2024-12-26,M005,Machine_M005,Swing,564,112,10,0.85,77.62,Operator Error,Power Issue,635,564,1022,Rachel Gray
+2023-10-08,M001,Machine_M001,Night,666,86,18,2.24,69.03,Tooling Issue,None,727,666,1812,Chelsea Campbell
+2022-10-09,M003,Machine_M003,Night,709,57,24,3.29,82.31,Operator Error,None,816,709,1683,Elizabeth Sanders
+2024-05-20,M001,Machine_M001,Night,515,76,25,3.35,94.69,None,Setup Delay,591,515,1007,Louis Dunn
+2023-08-10,M001,Machine_M001,Night,185,72,6,3.4,84.82,Material Shortage,None,287,185,1815,Natalie Jones
+2022-10-21,M005,Machine_M005,Night,692,83,10,1.99,86.55,Operator Error,Setup Delay,751,692,1638,Gerald Jackson
+2022-06-28,M002,Machine_M002,Day,926,15,27,0.77,70.39,None,Setup Delay,1069,926,1149,Andrew Valdez
+2023-01-11,M003,Machine_M003,Night,719,64,22,0.51,83.81,Material Shortage,Setup Delay,784,719,1595,Sherri Ford
+2022-11-03,M003,Machine_M003,Night,270,34,3,2.66,60.13,None,Power Issue,330,270,1440,Nichole Munoz
+2023-02-05,M005,Machine_M005,Night,230,34,3,4.74,76.21,None,Power Issue,361,230,1723,Jordan Gardner
+2023-11-18,M005,Machine_M005,Night,979,84,27,2.97,63.38,Tooling Issue,Setup Delay,1122,979,1012,Vanessa Fields
+2024-10-14,M005,Machine_M005,Day,414,114,1,2.62,67.46,Tooling Issue,None,482,414,1508,Kathy Everett
+2024-09-03,M002,Machine_M002,Night,508,95,21,1.82,92.7,Material Shortage,None,572,508,1515,James Diaz
+2023-03-11,M001,Machine_M001,Day,970,60,22,2.65,87.12,Operator Error,Power Issue,1062,970,1258,Angela Hicks
+2025-01-06,M003,Machine_M003,Night,697,38,25,2.99,89.49,Operator Error,None,826,697,1061,Lisa Velasquez
+2025-02-15,M002,Machine_M002,Day,413,26,14,2.12,88.18,Tooling Issue,Maintenance Delay,559,413,1709,David Martin DDS
+2024-11-22,M003,Machine_M003,Swing,259,48,9,2.92,91.23,None,Setup Delay,372,259,1999,Crystal Gross
+2022-10-14,M003,Machine_M003,Night,126,77,4,3.85,94.53,Material Shortage,None,250,126,1270,Carol Hartman
+2024-11-01,M001,Machine_M001,Swing,248,66,9,4.43,60.62,Operator Error,Maintenance Delay,340,248,1960,Katherine Cardenas
+2023-06-29,M003,Machine_M003,Night,825,116,33,3.47,75.22,Tooling Issue,Power Issue,903,825,1055,Jeff Johnson
+2022-10-20,M005,Machine_M005,Night,861,77,9,2.45,83.88,Tooling Issue,Power Issue,938,861,1575,Charles Evans
+2025-02-06,M004,Machine_M004,Swing,784,82,24,2.61,63.6,Material Shortage,Power Issue,893,784,1466,Julie Chan
+2022-09-15,M004,Machine_M004,Swing,923,35,28,1.01,73.37,Tooling Issue,None,1014,923,1674,Anita Johnson
+2022-06-06,M001,Machine_M001,Night,486,107,4,0.7,74.78,Tooling Issue,None,628,486,1312,Angela Jimenez
+2023-09-30,M001,Machine_M001,Night,288,73,11,2.76,66.12,Material Shortage,Maintenance Delay,404,288,1798,Thomas Irwin
+2024-04-28,M003,Machine_M003,Day,734,94,32,1.45,68.54,Material Shortage,None,826,734,1178,John Camacho
+2024-12-23,M004,Machine_M004,Day,462,11,11,2.17,84.58,Tooling Issue,Power Issue,521,462,1665,Andrew King
+2023-12-15,M001,Machine_M001,Swing,251,7,2,1.52,91.78,Operator Error,Setup Delay,322,251,1375,Ashley Jordan
+2022-06-28,M004,Machine_M004,Day,690,43,12,1.05,75.59,Material Shortage,Power Issue,777,690,1602,Katelyn Chaney
+2024-01-14,M005,Machine_M005,Day,459,102,21,0.8,85.41,Tooling Issue,Setup Delay,540,459,1829,Seth Hernandez
+2024-07-18,M003,Machine_M003,Swing,865,68,4,3.82,94.64,Material Shortage,Maintenance Delay,962,865,1844,Christopher Quinn
+2023-01-05,M002,Machine_M002,Day,292,76,5,4.18,77.06,Tooling Issue,Power Issue,390,292,1101,Patricia Thompson
+2025-02-17,M001,Machine_M001,Swing,544,69,0,2.29,60.38,Material Shortage,None,659,544,1664,Bryan Smith
+2024-01-23,M001,Machine_M001,Day,378,70,0,1.48,79.52,Material Shortage,Maintenance Delay,446,378,1440,Brittany Johnson
+2023-12-19,M002,Machine_M002,Swing,557,33,0,2.63,93.48,Material Shortage,None,647,557,1463,Paul Martinez
+2022-05-08,M001,Machine_M001,Day,736,45,1,4.93,71.21,None,Setup Delay,819,736,1837,Barbara Phillips
+2024-04-28,M004,Machine_M004,Swing,153,52,6,0.55,88.24,Material Shortage,Power Issue,218,153,1575,Stephanie Dunlap
+2023-08-14,M003,Machine_M003,Night,982,100,1,0.65,81.72,None,Power Issue,1034,982,1616,Adam Owens
+2022-10-14,M002,Machine_M002,Night,345,6,16,2.18,93.88,Material Shortage,None,485,345,1778,Michael Moore
+2023-06-29,M002,Machine_M002,Night,986,35,20,3.73,84.27,Tooling Issue,None,1073,986,1296,Lisa Smith
+2023-05-31,M004,Machine_M004,Swing,651,82,5,1.78,76.77,None,None,727,651,1081,Adam Mccoy PhD
+2024-12-10,M001,Machine_M001,Night,614,118,19,4.07,87.14,None,Setup Delay,665,614,1676,Cindy Martinez
+2023-05-15,M005,Machine_M005,Day,459,64,5,1.29,60.52,None,Power Issue,607,459,1861,Elizabeth Franco
+2025-04-18,M005,Machine_M005,Swing,278,96,10,1.83,70.92,Tooling Issue,None,372,278,1230,Latasha Farley
+2025-04-29,M005,Machine_M005,Swing,260,11,12,4.27,84.44,Tooling Issue,Setup Delay,318,260,1877,Tamara Carrillo
+2024-03-15,M002,Machine_M002,Swing,821,14,9,2.48,86.45,Tooling Issue,None,922,821,1051,Steve Wood
+2024-11-11,M005,Machine_M005,Day,281,23,2,4.04,63.04,Operator Error,Setup Delay,417,281,1141,Jordan Palmer
+2025-04-26,M005,Machine_M005,Day,983,3,36,2.2,65.36,Tooling Issue,None,1128,983,1873,Jason King
+2023-04-09,M005,Machine_M005,Night,770,43,36,2.28,75.1,Tooling Issue,Power Issue,824,770,1761,Carl Boyd
+2022-12-06,M004,Machine_M004,Swing,247,79,2,3.05,61.76,Operator Error,Maintenance Delay,308,247,1635,Anne Powers
+2024-06-23,M003,Machine_M003,Swing,979,9,3,2.82,70.34,None,None,1102,979,1156,Joseph Glenn
+2022-07-12,M002,Machine_M002,Night,375,54,9,0.73,89.93,None,Setup Delay,466,375,1594,Tiffany Jones
+2022-10-18,M003,Machine_M003,Swing,345,53,7,2.72,73.62,Tooling Issue,Setup Delay,469,345,1981,Lisa Nguyen
+2023-11-18,M001,Machine_M001,Swing,172,68,2,3.56,65.62,Tooling Issue,Setup Delay,265,172,1589,Maria Johnson
+2024-11-23,M002,Machine_M002,Day,213,46,10,2.79,86.08,Material Shortage,Maintenance Delay,297,213,1926,Sean Hale
+2024-03-19,M005,Machine_M005,Night,862,28,6,2.1,60.4,None,None,962,862,1697,Jeremy Duke
+2025-01-27,M004,Machine_M004,Day,738,53,5,3.61,66.08,Tooling Issue,Power Issue,809,738,1075,Jennifer Smith
+2024-12-03,M003,Machine_M003,Night,614,69,9,3.39,79.96,None,Setup Delay,760,614,1063,Laura Meyers
+2025-03-21,M004,Machine_M004,Swing,765,36,38,4.84,75.1,Material Shortage,Setup Delay,828,765,1043,Casey Thompson
+2022-09-21,M001,Machine_M001,Swing,327,67,10,2.32,61.31,Tooling Issue,None,467,327,1133,Jason Price
+2024-06-17,M004,Machine_M004,Day,290,87,8,3.22,74.97,Operator Error,Maintenance Delay,433,290,1179,Jennifer Guerrero
+2023-06-15,M001,Machine_M001,Swing,789,86,7,3.44,79.48,Operator Error,Power Issue,901,789,1345,Phillip Miranda
+2024-12-23,M001,Machine_M001,Swing,619,19,16,2.91,83.56,Material Shortage,Maintenance Delay,697,619,1609,Fernando Lawson
+2024-04-15,M002,Machine_M002,Night,749,78,8,4.94,89.99,Tooling Issue,Power Issue,817,749,1637,Kimberly Terry
+2024-10-13,M003,Machine_M003,Day,803,95,9,3.19,87.78,Tooling Issue,Maintenance Delay,947,803,1506,Bradley Gray
+2024-02-09,M001,Machine_M001,Swing,498,114,3,2.4,79.02,None,Maintenance Delay,604,498,1571,Miranda Gonzales
+2023-01-07,M001,Machine_M001,Swing,529,20,16,4.38,60.42,Tooling Issue,Power Issue,611,529,1244,Megan Santana
+2023-01-16,M002,Machine_M002,Swing,527,20,18,0.71,64.5,Operator Error,Setup Delay,601,527,1888,Alexis Dominguez
+2023-08-03,M005,Machine_M005,Night,206,99,4,1.74,65.88,Material Shortage,Setup Delay,297,206,1665,Christopher Duncan
+2024-03-13,M005,Machine_M005,Night,425,103,17,2.48,80.86,Material Shortage,Setup Delay,573,425,1637,Joseph Campbell
+2023-08-12,M001,Machine_M001,Night,277,19,13,3.88,81.67,Material Shortage,Setup Delay,386,277,1278,Gerald Stewart
+2023-09-27,M004,Machine_M004,Day,769,117,36,0.94,93.21,Tooling Issue,Power Issue,914,769,1834,Sonya Washington
+2024-04-06,M002,Machine_M002,Swing,461,79,5,3.88,80.4,Operator Error,Maintenance Delay,601,461,1709,Alejandro Jackson
+2023-12-22,M003,Machine_M003,Night,102,31,2,3.03,80.06,None,Maintenance Delay,226,102,1050,Johnny Pineda
+2024-02-14,M002,Machine_M002,Swing,762,4,6,2.81,68.31,Tooling Issue,Maintenance Delay,847,762,1945,Erin Bishop
+2025-03-11,M001,Machine_M001,Night,883,46,38,1.27,86.07,Material Shortage,Setup Delay,982,883,1668,Luke Morales
+2024-08-25,M001,Machine_M001,Day,499,95,3,3.81,75.77,Tooling Issue,None,587,499,1419,Dorothy Park
+2023-07-21,M002,Machine_M002,Day,419,116,17,4.44,62.3,Tooling Issue,Maintenance Delay,545,419,1494,Darrell Garrett
+2025-04-16,M001,Machine_M001,Night,858,96,10,3.12,66.65,Material Shortage,Setup Delay,1002,858,1401,Deborah Brewer
+2023-08-21,M001,Machine_M001,Swing,329,8,13,1.62,65.96,Material Shortage,None,435,329,1147,Christine Williams
+2024-08-05,M004,Machine_M004,Swing,233,71,7,1.46,74.91,Material Shortage,None,292,233,1451,Jaime Carter
+2024-01-03,M003,Machine_M003,Day,985,88,33,4.14,61.12,Material Shortage,Power Issue,1132,985,1398,Ryan Gonzalez
+2024-07-18,M002,Machine_M002,Swing,906,80,38,1.66,89.17,Operator Error,Setup Delay,1006,906,1256,Lonnie Mejia
+2023-06-23,M004,Machine_M004,Day,743,28,14,4.08,81.02,Tooling Issue,None,889,743,1249,James White
+2023-06-16,M003,Machine_M003,Night,967,77,36,4.51,77.26,None,Setup Delay,1019,967,1546,Norma Smith
+2022-11-18,M001,Machine_M001,Night,328,95,5,4.28,83.16,Operator Error,Power Issue,442,328,1503,Cynthia Walker
+2024-08-04,M003,Machine_M003,Swing,649,91,22,2.74,74.31,Operator Error,Setup Delay,771,649,1607,Joseph Parsons
+2024-04-28,M004,Machine_M004,Night,809,26,32,2.07,65.06,Operator Error,Setup Delay,892,809,1824,Brandon Fernandez
+2025-04-05,M002,Machine_M002,Day,276,88,2,1.34,93.27,None,Setup Delay,330,276,1328,Michaela Allen
+2023-07-25,M003,Machine_M003,Day,390,96,17,1.36,87.45,Material Shortage,None,476,390,1715,Isaac Wang
+2023-09-29,M003,Machine_M003,Day,157,4,2,2.69,71.85,Tooling Issue,Power Issue,221,157,1776,Joseph Wells
+2025-01-22,M001,Machine_M001,Swing,438,33,15,1.98,71.11,Tooling Issue,None,570,438,1524,Catherine Pollard
+2023-03-29,M004,Machine_M004,Night,282,25,14,1.73,79.03,Operator Error,Maintenance Delay,348,282,1210,Tanya Stokes
+2023-01-30,M001,Machine_M001,Night,928,27,5,3.27,86.86,Tooling Issue,None,1043,928,1639,Sara Jennings
+2023-12-11,M005,Machine_M005,Day,952,75,39,3.13,70.81,None,Power Issue,1016,952,1508,David Jordan
+2022-08-04,M004,Machine_M004,Swing,523,110,20,2.46,66.52,None,Setup Delay,668,523,1378,Cameron Young
+2023-09-05,M005,Machine_M005,Swing,959,67,38,3.98,70.73,Operator Error,Setup Delay,1070,959,1517,Andrew Mendoza
+2022-05-22,M003,Machine_M003,Night,253,47,8,4.06,64.34,Tooling Issue,Maintenance Delay,334,253,1530,Danielle Hawkins
+2025-04-25,M002,Machine_M002,Night,342,68,9,3.9,81.53,None,Maintenance Delay,478,342,1004,Joshua Craig
+2022-12-13,M003,Machine_M003,Swing,849,93,9,0.51,70.31,Tooling Issue,Power Issue,960,849,1257,Sue Cunningham MD
+2023-07-03,M002,Machine_M002,Swing,973,30,26,2.49,70.29,Tooling Issue,Maintenance Delay,1088,973,1833,Michael Johnson
+2023-01-30,M004,Machine_M004,Night,688,49,1,0.67,75.2,None,None,821,688,1988,Ian Martinez
+2024-06-08,M004,Machine_M004,Swing,576,30,9,2.36,70.8,None,None,713,576,1247,Margaret Nguyen
+2024-12-22,M004,Machine_M004,Swing,757,89,34,0.84,89.63,Operator Error,Power Issue,875,757,1222,Travis Horne
+2023-06-08,M002,Machine_M002,Night,993,5,33,3.5,83.0,Material Shortage,Maintenance Delay,1076,993,1431,Angela Gonzalez
+2024-03-24,M002,Machine_M002,Day,444,34,6,1.05,85.86,None,None,541,444,1070,Jill Fisher
+2024-03-05,M003,Machine_M003,Swing,612,69,13,4.76,65.51,None,Maintenance Delay,683,612,1423,Patrick Hartman
+2024-11-27,M001,Machine_M001,Night,879,67,22,4.38,68.09,Material Shortage,Power Issue,1004,879,1935,Kenneth Gomez
+2022-06-05,M004,Machine_M004,Day,904,14,15,4.74,68.2,Tooling Issue,Maintenance Delay,969,904,1008,Morgan Martin
+2024-08-02,M004,Machine_M004,Night,952,31,4,0.79,71.67,Tooling Issue,Maintenance Delay,1059,952,1603,Danielle Trevino
+2025-04-20,M004,Machine_M004,Day,543,83,4,1.9,75.88,Tooling Issue,Power Issue,595,543,1572,Carla Gordon
+2023-03-13,M001,Machine_M001,Day,812,37,20,2.01,69.16,Material Shortage,Maintenance Delay,886,812,1592,Jennifer Robinson
+2023-02-23,M002,Machine_M002,Day,868,63,19,0.8,64.05,Tooling Issue,Maintenance Delay,1002,868,1562,Gregory Martinez
+2025-01-10,M004,Machine_M004,Day,849,44,7,2.63,94.28,Material Shortage,None,965,849,1596,Jill Sanders
+2023-11-22,M002,Machine_M002,Day,164,13,6,2.48,80.84,Operator Error,Setup Delay,230,164,1601,Andrea Holmes
+2022-05-19,M004,Machine_M004,Swing,668,97,18,1.45,88.24,None,Setup Delay,757,668,1557,Bill Jones
+2025-03-20,M001,Machine_M001,Night,634,91,30,2.78,84.25,Tooling Issue,Setup Delay,776,634,1189,Donna Rogers
+2024-04-12,M002,Machine_M002,Swing,596,48,19,4.46,81.97,Operator Error,Maintenance Delay,655,596,1640,Debra Thompson MD
+2024-03-06,M004,Machine_M004,Night,789,21,21,3.35,66.31,None,Maintenance Delay,840,789,1090,Stacy Garrett
+2025-03-06,M003,Machine_M003,Swing,208,107,8,4.44,86.14,Tooling Issue,Maintenance Delay,320,208,1039,Clinton Adams
+2024-04-20,M005,Machine_M005,Night,542,42,21,4.43,61.41,None,Maintenance Delay,593,542,1448,Mark Contreras
+2024-12-30,M005,Machine_M005,Swing,623,47,30,1.39,60.75,Tooling Issue,Setup Delay,740,623,1997,Erin Riley
+2024-12-04,M004,Machine_M004,Swing,412,73,9,4.1,73.91,Tooling Issue,Maintenance Delay,485,412,1650,Lisa Johnson
+2023-10-24,M002,Machine_M002,Swing,778,65,29,3.98,73.95,Material Shortage,Power Issue,888,778,1981,Sarah Villegas
+2024-03-27,M005,Machine_M005,Swing,695,118,17,1.86,81.51,None,None,788,695,1869,James Wright MD
+2024-03-31,M001,Machine_M001,Swing,174,94,6,4.27,70.18,Tooling Issue,Setup Delay,267,174,1330,Nicholas Dunn
+2024-07-01,M001,Machine_M001,Day,571,56,26,3.85,75.71,Tooling Issue,Power Issue,696,571,1936,Adam White
+2024-06-18,M005,Machine_M005,Swing,400,72,8,3.01,91.55,Operator Error,Maintenance Delay,523,400,1184,Matthew Patterson
+2023-11-03,M004,Machine_M004,Day,330,105,15,0.73,92.37,Material Shortage,Setup Delay,418,330,1345,Gregory Hernandez
+2022-06-18,M005,Machine_M005,Swing,564,67,0,4.68,66.26,Material Shortage,Maintenance Delay,646,564,1476,Tony Freeman
+2022-05-12,M001,Machine_M001,Swing,303,11,0,1.05,63.8,None,Maintenance Delay,412,303,1685,John Moore
+2022-07-25,M004,Machine_M004,Day,825,105,13,4.03,92.74,Operator Error,Setup Delay,899,825,1164,Kimberly Hill
+2023-02-02,M005,Machine_M005,Night,723,34,11,4.13,83.69,Operator Error,None,796,723,1547,Sharon Miller
+2022-10-09,M001,Machine_M001,Night,963,97,22,1.14,77.68,Tooling Issue,Maintenance Delay,1035,963,1684,Adrian Abbott
+2023-10-20,M002,Machine_M002,Day,772,63,0,0.99,89.24,Tooling Issue,Maintenance Delay,874,772,1575,Stephen Roy
+2022-07-11,M004,Machine_M004,Night,126,96,3,3.9,76.71,Operator Error,Power Issue,210,126,1585,Mr. Joshua Zamora
+2025-04-20,M005,Machine_M005,Swing,328,66,12,2.78,62.3,Tooling Issue,Setup Delay,446,328,1276,Ronald Mayo
+2023-11-19,M002,Machine_M002,Night,405,23,3,3.55,74.79,Operator Error,Power Issue,468,405,1937,Charles Flores
+2023-07-08,M002,Machine_M002,Swing,981,18,20,2.47,83.75,None,Setup Delay,1054,981,1402,Brian Mora
+2022-11-08,M004,Machine_M004,Night,287,108,13,4.53,75.68,Tooling Issue,Power Issue,425,287,1068,Kaitlyn White
+2023-01-14,M003,Machine_M003,Day,406,111,0,3.01,80.22,None,Maintenance Delay,466,406,1457,Alexander Stewart
+2022-08-30,M002,Machine_M002,Night,826,94,0,3.75,65.42,Operator Error,Maintenance Delay,920,826,1700,Donald Wilson
+2023-04-18,M003,Machine_M003,Swing,762,107,18,2.73,87.64,Operator Error,Maintenance Delay,895,762,1090,Matthew Roberson
+2024-10-24,M004,Machine_M004,Day,582,39,23,1.06,63.91,Tooling Issue,None,730,582,1649,Anthony Schmidt
+2023-08-12,M002,Machine_M002,Night,917,69,38,4.42,78.34,Operator Error,Maintenance Delay,1053,917,1158,Kimberly Dickerson
+2024-11-15,M001,Machine_M001,Day,974,58,39,2.17,89.1,Material Shortage,Maintenance Delay,1112,974,1035,Eric Garcia
+2024-01-03,M002,Machine_M002,Swing,224,74,4,1.02,93.95,Material Shortage,Setup Delay,319,224,1332,Amanda Hopkins
+2025-03-20,M002,Machine_M002,Day,445,21,20,2.15,81.42,Operator Error,Setup Delay,575,445,1668,Jennifer Goodwin
+2024-07-06,M002,Machine_M002,Night,837,26,24,0.85,84.98,Operator Error,Setup Delay,955,837,1238,Kari Thomas
+2025-04-19,M002,Machine_M002,Night,678,10,28,3.08,73.56,Material Shortage,None,789,678,1094,Tiffany Oneill
+2024-10-28,M002,Machine_M002,Night,300,98,6,2.59,68.16,None,Setup Delay,353,300,1337,Gloria Ramirez
+2024-03-19,M004,Machine_M004,Night,292,65,14,1.52,79.92,Operator Error,None,398,292,1752,Carolyn Bailey
+2023-11-03,M005,Machine_M005,Day,554,3,6,0.59,69.62,Operator Error,Power Issue,689,554,1648,Jennifer May
+2023-09-18,M001,Machine_M001,Swing,951,18,43,2.95,81.97,None,Power Issue,1025,951,1949,Elizabeth Mills MD
+2023-01-05,M005,Machine_M005,Night,655,116,11,4.05,62.19,Tooling Issue,Setup Delay,769,655,1618,Joel Garza
+2022-10-02,M003,Machine_M003,Night,648,75,16,1.26,86.0,Material Shortage,Power Issue,700,648,1398,Trevor Jackson
+2024-06-20,M005,Machine_M005,Day,348,55,2,2.93,63.22,Tooling Issue,Setup Delay,477,348,1813,Catherine Ross
+2024-04-22,M001,Machine_M001,Day,321,57,15,3.77,93.28,Tooling Issue,Power Issue,404,321,1311,Shannon Pena
+2024-09-02,M005,Machine_M005,Day,335,119,5,1.5,60.76,None,Maintenance Delay,408,335,1502,Monica Santiago
+2022-08-09,M005,Machine_M005,Swing,769,84,9,3.93,73.31,None,Setup Delay,845,769,1152,Benjamin Keller
+2023-12-01,M002,Machine_M002,Swing,587,90,2,1.14,71.38,Material Shortage,Maintenance Delay,700,587,1843,Micheal Byrd
+2024-01-22,M004,Machine_M004,Swing,320,95,9,1.27,60.55,Operator Error,None,439,320,1483,Benjamin Smith
+2022-07-23,M004,Machine_M004,Day,616,70,0,1.9,64.6,Tooling Issue,Power Issue,684,616,1458,Dr. Tamara Irwin
+2022-10-08,M001,Machine_M001,Swing,363,52,17,3.99,83.88,Tooling Issue,Setup Delay,474,363,1025,Laura Harris
+2023-05-30,M005,Machine_M005,Night,880,105,18,2.41,71.92,Operator Error,Power Issue,937,880,1536,Doris Davis MD
+2022-10-28,M001,Machine_M001,Swing,826,22,18,4.76,69.17,Tooling Issue,None,880,826,1294,Deborah Cox MD
+2024-10-05,M003,Machine_M003,Swing,577,103,0,4.0,71.02,Operator Error,None,717,577,1088,Michael Hill
+2024-06-12,M002,Machine_M002,Day,886,74,3,1.07,70.18,None,None,1012,886,1971,Brandi Barton
+2022-12-06,M004,Machine_M004,Night,849,106,6,1.24,83.84,None,Power Issue,985,849,1583,Gloria Barber
+2022-09-02,M005,Machine_M005,Night,173,109,6,1.43,92.51,Operator Error,Maintenance Delay,259,173,1961,John Ross

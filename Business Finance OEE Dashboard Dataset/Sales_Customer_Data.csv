@@ -1,0 +1,1001 @@
+Date,Region,Product_ID,Product_Name,Units_Sold,Revenue,Forecasted_Sales,Actual_Sales,Customer_ID,Customer_Name,Order_ID,Order_Status,Sales_Team_Member,Conversion_Status,Retention_Rate
+2023-02-01,North,P005,Widget_E,1642,92867.43,95838.8,92867.43,C38114,"Brady, Stewart and Chambers",ORD31948,Completed,Mark Bishop,Won,94.39
+2024-08-01,North,P001,Widget_A,2715,174282.05,177713.86,174282.05,C90817,"Henry, Cook and Moore",ORD52967,Completed,Jamie Riddle,Won,90.98
+2022-11-01,North,P005,Widget_E,9620,878957.76,839366.41,878957.76,C70266,"Smith, Serrano and Collins",ORD74117,Completed,Michael Lindsey,Lost,75.77
+2023-01-01,West,P005,Widget_E,2711,238064.14,247507.45,238064.14,C42747,Taylor-Turner,ORD44480,Completed,Melissa Williams,Won,73.89
+2025-03-01,North,P003,Widget_C,6919,346926.19,337093.12,346926.19,C20872,Farmer-Thompson,ORD43442,Completed,Robert Smith,Lead,87.76
+2025-04-01,North,P002,Widget_B,5119,325829.99,322376.5,325829.99,C69837,"Harris, Johnson and Durham",ORD51791,Completed,John Romero,Lead,75.44
+2024-11-01,South,P002,Widget_B,7818,395418.83,402549.42,395418.83,C62185,"Hanna, Jordan and Sanford",ORD68602,Completed,Daniel Cook,Lost,83.6
+2024-06-01,South,P002,Widget_B,9272,673897.38,678932.03,673897.38,C55814,Jennings Group,ORD08507,Completed,Brendan Carey,Lost,84.54
+2024-05-01,North,P002,Widget_B,1719,160939.8,166442.0,160939.8,C79775,Brock-Pollard,ORD19186,Completed,Mr. Benjamin Murillo,Won,76.64
+2022-07-01,West,P003,Widget_C,6672,453164.2,442643.85,453164.2,C88557,Stone-Dixon,ORD73501,Completed,Mr. Devon Elliott,Won,79.59
+2023-08-01,West,P001,Widget_A,3326,306435.74,305616.72,306435.74,C41696,Kim Inc,ORD95569,Completed,Thomas Parker,Won,77.59
+2023-01-01,South,P004,Widget_D,5805,308018.22,316016.79,308018.22,C25175,"Lynn, Frost and Wilson",ORD14007,Cancelled,Brendan Bass DVM,Lead,91.02
+2024-09-01,South,P001,Widget_A,5451,297779.57,297780.93,297779.57,C38733,Ibarra-Smith,ORD46381,Completed,Aaron Parker,Won,91.34
+2025-02-01,North,P001,Widget_A,9379,520988.95,514591.69,520988.95,C64024,"Avery, Watson and Ball",ORD75951,Cancelled,Steven Moore,Won,72.66
+2023-08-01,North,P004,Widget_D,3234,257640.17,260623.99,257640.17,C11911,"Keller, Pitts and Bennett",ORD75100,Cancelled,Jacob Osborne,Lost,93.61
+2025-04-01,North,P004,Widget_D,1666,134392.87,128699.78,134392.87,C11564,"Hanson, Washington and Stevens",ORD38557,Completed,Lisa Reyes,Lead,71.07
+2024-12-01,North,P003,Widget_C,4451,430159.34,408865.81,430159.34,C62908,Fletcher-Hunt,ORD49023,Completed,Christopher Cooley,Won,91.58
+2024-08-01,South,P001,Widget_A,7291,653867.42,684637.1,653867.42,C38493,"May, Daugherty and Wiley",ORD87270,Completed,Matthew Gordon,Won,93.7
+2023-03-01,North,P001,Widget_A,7446,506470.08,518785.66,506470.08,C17063,Hicks Group,ORD33415,Completed,Becky White,Won,76.7
+2023-01-01,South,P005,Widget_E,8008,666628.93,648584.79,666628.93,C62127,Smith-Day,ORD18040,Completed,Jessica Frye,Won,79.75
+2023-12-01,West,P004,Widget_D,1730,94738.12,96069.01,94738.12,C50216,Miller Inc,ORD10515,Completed,Whitney Rogers,Won,92.69
+2023-02-01,North,P004,Widget_D,1744,158921.71,155774.27,158921.71,C30266,"Charles, Santos and Moody",ORD29850,Completed,Andrea Nixon,Won,79.95
+2023-05-01,South,P003,Widget_C,2818,249113.59,242175.07,249113.59,C73513,"Leonard, Villanueva and Lane",ORD95744,Completed,Anthony Jefferson,Lost,94.16
+2023-07-01,West,P003,Widget_C,8244,789120.29,821732.25,789120.29,C46837,Olson-Estrada,ORD37108,Completed,Nicole Rogers,Won,86.39
+2025-01-01,South,P001,Widget_A,5281,265063.16,258710.88,265063.16,C27254,Martin-Lawson,ORD98118,Completed,Eric Smith,Won,92.75
+2024-12-01,North,P003,Widget_C,2491,131335.39,136060.27,131335.39,C49190,Greene and Sons,ORD93004,Completed,Shannon Parker,Lost,86.64
+2022-05-01,South,P001,Widget_A,7500,430649.02,439591.18,430649.02,C24787,Brown-Williams,ORD09936,Cancelled,Elizabeth Ross,Won,87.47
+2023-11-01,South,P005,Widget_E,7402,435910.89,431799.7,435910.89,C63945,Anderson Group,ORD81057,Completed,William Gonzalez,Lost,75.69
+2024-10-01,South,P005,Widget_E,1897,122538.15,125803.43,122538.15,C64937,Harvey PLC,ORD46286,Completed,Hannah Castro,Won,78.31
+2023-08-01,West,P001,Widget_A,8186,807791.0,800685.42,807791.0,C76027,"Little, Nelson and Brown",ORD86668,Completed,Amanda Snyder,Won,82.46
+2025-03-01,North,P001,Widget_A,3224,211344.91,212724.73,211344.91,C12173,"Estes, Wong and Johnston",ORD20896,Completed,Laura Barry,Won,75.48
+2024-01-01,West,P002,Widget_B,7271,376783.18,386508.94,376783.18,C58066,Wilson Ltd,ORD89585,Completed,Brandon Williams,Won,92.77
+2023-11-01,West,P003,Widget_C,9693,772096.87,798901.54,772096.87,C27937,"Graham, Miller and Robinson",ORD42683,Completed,Leslie Mathis,Lead,89.97
+2025-02-01,South,P001,Widget_A,4640,283176.01,294927.05,283176.01,C76761,"Silva, Walls and Osborn",ORD93625,Completed,Ashley Lamb,Won,77.35
+2023-06-01,North,P003,Widget_C,6453,635794.19,651171.93,635794.19,C54474,"Riley, Lopez and Wu",ORD02625,Completed,Donna Gibson,Won,80.79
+2025-02-01,South,P003,Widget_C,4654,294707.02,283722.92,294707.02,C85133,Martin-Mcmahon,ORD54440,Cancelled,Barbara Smith,Won,82.02
+2024-04-01,West,P003,Widget_C,4799,369682.28,387094.09,369682.28,C69896,Adams-Wilkinson,ORD20596,Completed,David Davidson,Won,89.18
+2022-11-01,West,P004,Widget_D,2575,230176.56,235288.35,230176.56,C56520,Lopez LLC,ORD16894,Completed,Christine Thompson,Won,84.83
+2023-12-01,North,P003,Widget_C,2089,136368.44,134422.65,136368.44,C35184,Miller Group,ORD65933,Completed,Nathan Smith,Won,71.68
+2024-03-01,South,P003,Widget_C,6640,351519.33,365340.57,351519.33,C80073,Duke-Meyer,ORD46929,Completed,Joshua Wilson,Won,94.45
+2023-11-01,West,P004,Widget_D,4410,275588.3,284745.5,275588.3,C06820,"Smith, Hurst and Larson",ORD83290,Completed,Mary Hansen,Lost,76.69
+2023-05-01,North,P001,Widget_A,1568,87945.73,90865.18,87945.73,C72927,Cabrera-Avila,ORD80899,Completed,James Martinez,Won,83.03
+2024-02-01,South,P004,Widget_D,9317,534391.68,508419.02,534391.68,C23078,Ramos Group,ORD46975,Completed,Bryan Roach,Won,88.1
+2022-05-01,North,P005,Widget_E,6580,570572.97,567771.96,570572.97,C72523,Molina-Nash,ORD49359,Completed,David Wolf,Lost,79.17
+2022-09-01,South,P005,Widget_E,7137,475880.9,490331.58,475880.9,C41141,Herrera-Chavez,ORD10486,Completed,Heather Green,Lost,93.06
+2022-07-01,South,P003,Widget_C,9915,685631.93,706324.37,685631.93,C23044,Cain PLC,ORD92919,Completed,Daniel Mcdowell,Lost,74.87
+2024-01-01,North,P003,Widget_C,5010,277650.15,264664.68,277650.15,C94142,Ray-Johnson,ORD89302,Completed,Daniel Bridges,Won,78.11
+2023-03-01,South,P003,Widget_C,3883,219982.08,211359.03,219982.08,C77068,Fields LLC,ORD05844,Completed,Paul Lee,Won,72.72
+2023-06-01,West,P002,Widget_B,2951,283706.47,274203.7,283706.47,C82372,Moore-Jordan,ORD79867,Completed,Angel Fields,Won,76.06
+2024-04-01,North,P003,Widget_C,7188,702775.53,726072.87,702775.53,C21005,Hogan PLC,ORD64835,Completed,James Ford,Won,77.07
+2024-08-01,West,P002,Widget_B,4676,380523.37,370372.36,380523.37,C11221,Woodward Inc,ORD56947,Completed,Linda Serrano,Won,84.53
+2023-09-01,West,P004,Widget_D,4494,317588.88,306947.33,317588.88,C06059,Barry-Meyers,ORD10052,Completed,Christopher Martinez,Won,86.44
+2024-07-01,North,P002,Widget_B,7702,478876.64,458403.58,478876.64,C37488,"Thornton, Martin and Newton",ORD02109,Completed,Luis Lopez,Lead,88.02
+2022-05-01,West,P003,Widget_C,9353,643572.19,667043.22,643572.19,C28330,Leon and Sons,ORD21186,Completed,Dawn Harris,Won,80.4
+2022-09-01,South,P003,Widget_C,1724,149905.85,155803.75,149905.85,C69467,Lopez-Flowers,ORD32789,Completed,Daniel Lawson,Won,84.24
+2022-07-01,North,P003,Widget_C,3873,225089.25,222725.81,225089.25,C79253,Miranda Ltd,ORD20303,Completed,Danny Reed,Won,75.93
+2024-05-01,West,P002,Widget_B,7670,471897.84,465271.31,471897.84,C57095,Bennett-Hubbard,ORD86971,Cancelled,Hannah Reeves,Won,74.24
+2022-06-01,North,P003,Widget_C,5103,305019.71,296829.57,305019.71,C34830,Mcconnell PLC,ORD02866,Cancelled,Nancy Willis,Won,79.94
+2023-05-01,West,P003,Widget_C,6105,487497.16,490316.85,487497.16,C74729,Perkins Group,ORD25391,Completed,Tammy Smith,Won,79.97
+2024-10-01,West,P001,Widget_A,4783,436222.8,449988.98,436222.8,C73324,King-Russo,ORD14941,Cancelled,Michael Flores,Lost,94.67
+2022-05-01,North,P005,Widget_E,4563,429331.14,415573.01,429331.14,C75669,Morgan Ltd,ORD85469,Completed,Michael Adams,Lead,78.12
+2023-11-01,South,P003,Widget_C,3791,375415.57,381105.31,375415.57,C79192,Jenkins-Kennedy,ORD58321,Completed,John Clark,Lost,86.28
+2022-08-01,North,P001,Widget_A,5821,426686.9,435402.15,426686.9,C33448,Delacruz-Phillips,ORD99637,Completed,Tara Cruz,Won,72.92
+2023-05-01,South,P004,Widget_D,7101,367023.32,357234.34,367023.32,C73309,Garcia LLC,ORD12076,Completed,Cindy Hayes,Won,87.97
+2025-01-01,North,P002,Widget_B,5052,389886.48,407057.8,389886.48,C45626,Hernandez Ltd,ORD23882,Completed,Hannah Clark,Won,70.54
+2022-05-01,North,P002,Widget_B,2376,195190.34,190491.16,195190.34,C53144,"Miller, Dennis and Williams",ORD00132,Completed,Jeremy Potts,Lead,82.58
+2024-11-01,North,P001,Widget_A,7426,664517.27,667311.85,664517.27,C35820,Rivers-Chavez,ORD70422,Completed,Jennifer Benson,Won,81.7
+2023-03-01,West,P003,Widget_C,9947,878430.5,884122.04,878430.5,C17736,Parker LLC,ORD69335,Completed,Charles Santiago,Lost,91.65
+2024-08-01,North,P002,Widget_B,9231,677318.14,679042.27,677318.14,C71456,Dickerson PLC,ORD42191,Completed,Olivia Martinez,Lost,71.23
+2024-10-01,North,P001,Widget_A,9325,737380.87,721154.62,737380.87,C57811,Lewis-Conrad,ORD21281,Completed,Linda Kline,Won,75.01
+2024-12-01,South,P003,Widget_C,3716,348418.05,339990.94,348418.05,C03711,"Andrade, Park and Martinez",ORD18034,Completed,Pamela Hansen,Won,77.93
+2023-04-01,North,P002,Widget_B,9307,751764.83,758272.08,751764.83,C64292,Wolfe Ltd,ORD31920,Completed,Tina Leach,Won,92.08
+2024-06-01,West,P004,Widget_D,6751,552838.37,536029.35,552838.37,C81960,Moreno Group,ORD74301,Cancelled,Aaron Cole,Won,82.5
+2022-08-01,West,P004,Widget_D,7358,500546.79,480582.79,500546.79,C71634,Hill LLC,ORD76067,Completed,Andrew Diaz,Won,91.14
+2023-05-01,North,P003,Widget_C,1758,93758.24,92423.44,93758.24,C17724,Jacobs Ltd,ORD41275,Completed,Natalie Hernandez,Won,80.69
+2022-06-01,West,P004,Widget_D,8742,760709.82,798290.19,760709.82,C85271,"Mann, Taylor and Clark",ORD84950,Cancelled,Patricia Hale,Won,94.2
+2022-12-01,West,P002,Widget_B,1099,73294.86,70919.15,73294.86,C29062,Scott Group,ORD52167,Cancelled,Ryan Hebert,Won,91.82
+2023-05-01,North,P005,Widget_E,4243,415520.43,430230.01,415520.43,C07856,Ruiz-Mcgee,ORD42203,Completed,Angelica Gilbert,Lost,84.21
+2023-06-01,South,P005,Widget_E,8740,858035.04,863933.92,858035.04,C70337,Cruz Ltd,ORD55667,Completed,Brian Snyder,Lost,87.7
+2023-05-01,North,P003,Widget_C,9104,642193.64,651897.1,642193.64,C36552,Adams-Gardner,ORD03395,Completed,Beth Dominguez,Won,71.35
+2025-02-01,West,P001,Widget_A,7119,556837.07,539637.99,556837.07,C74450,Dennis-Barker,ORD45482,Completed,Chad Hansen,Won,84.29
+2024-02-01,West,P004,Widget_D,4798,437631.69,428946.9,437631.69,C60102,Bennett PLC,ORD90460,Completed,Emily Young,Won,87.13
+2024-10-01,West,P003,Widget_C,6297,551859.07,546286.61,551859.07,C19860,Leach-White,ORD71168,Completed,Christine Gates,Won,91.04
+2023-12-01,North,P005,Widget_E,1051,103050.65,98503.95,103050.65,C79964,"Baldwin, Mcgrath and Moses",ORD56397,Completed,Barbara Shields,Won,81.99
+2025-01-01,West,P004,Widget_D,6420,418353.44,424789.13,418353.44,C84809,"Moon, Schwartz and Salinas",ORD36825,Cancelled,Carol Booker,Won,84.55
+2022-11-01,West,P004,Widget_D,2932,157392.63,152299.28,157392.63,C82182,Johnston Ltd,ORD85492,Completed,Thomas Herman,Won,89.64
+2023-02-01,North,P002,Widget_B,9130,456543.59,466073.79,456543.59,C12532,Hall Inc,ORD08848,Completed,Shawn Calhoun,Won,87.17
+2024-02-01,North,P003,Widget_C,2472,241636.15,234173.76,241636.15,C61493,Williams-Rodriguez,ORD60038,Completed,Jeffrey Brooks,Lead,81.77
+2023-07-01,North,P001,Widget_A,1449,83552.14,85933.72,83552.14,C92426,Hayes LLC,ORD17615,Completed,Richard Harris,Lead,91.25
+2025-04-01,West,P001,Widget_A,7825,685544.37,652978.49,685544.37,C97972,"Wheeler, Ramirez and Ellis",ORD67754,Completed,Corey Irwin,Won,72.88
+2024-04-01,West,P002,Widget_B,6184,323608.95,334163.92,323608.95,C36140,Williams-Ramsey,ORD66738,Completed,Ann Cardenas,Won,94.51
+2023-04-01,West,P001,Widget_A,2788,264472.06,253886.98,264472.06,C77772,Cruz LLC,ORD30016,Cancelled,Valerie Shaffer,Lost,71.14
+2025-02-01,West,P001,Widget_A,3285,297580.14,289882.8,297580.14,C75477,"Lewis, Campbell and Edwards",ORD47297,Completed,Kerri Davis,Won,75.94
+2022-11-01,South,P002,Widget_B,3160,296461.53,310649.64,296461.53,C15389,Johnston-Mcclure,ORD64921,Completed,Julie Martinez,Lost,83.5
+2023-10-01,North,P002,Widget_B,5115,466360.66,479307.71,466360.66,C06144,Smith Group,ORD08213,Completed,Kenneth Moran,Won,71.57
+2025-05-01,West,P004,Widget_D,9669,575511.13,566268.66,575511.13,C45806,Mejia-Martin,ORD73410,Completed,Marilyn Bates,Lost,93.42
+2023-08-01,South,P002,Widget_B,9826,572283.73,571113.65,572283.73,C78302,"Cole, Stafford and Andrews",ORD34800,Completed,Dennis Jones,Won,85.37
+2024-08-01,North,P001,Widget_A,9940,562223.72,563159.35,562223.72,C85986,Mendez LLC,ORD89359,Completed,Alexandra Haynes,Won,74.44
+2022-11-01,North,P005,Widget_E,6518,547919.18,540822.01,547919.18,C52519,Carey-Woods,ORD58765,Completed,William Mckenzie,Won,91.2
+2023-04-01,West,P004,Widget_D,1701,140602.8,146838.27,140602.8,C23948,Mcclain PLC,ORD77106,Completed,Christopher Daniels,Won,78.68
+2023-06-01,West,P005,Widget_E,3238,284080.92,277066.32,284080.92,C09305,Garrett Group,ORD22681,Completed,Laura Stevenson,Won,92.92
+2025-04-01,West,P003,Widget_C,6716,632051.73,626981.21,632051.73,C43901,White LLC,ORD79374,Completed,Paul Gonzalez,Lost,78.79
+2025-02-01,South,P002,Widget_B,5356,321415.94,311312.61,321415.94,C75944,"Garcia, Castillo and Sims",ORD51792,Completed,Monica Williams,Won,78.9
+2024-01-01,North,P002,Widget_B,7911,416730.96,401106.32,416730.96,C10869,"Gomez, Todd and Foley",ORD22653,Completed,Shelly Harper,Won,80.6
+2023-02-01,South,P001,Widget_A,3396,316356.31,325628.78,316356.31,C92450,"Ramsey, Chase and Ford",ORD18709,Completed,Shawn Baker,Won,74.78
+2023-12-01,West,P003,Widget_C,6698,516499.48,534645.21,516499.48,C56702,Whitney Inc,ORD28217,Completed,Richard Bryant,Lead,75.53
+2024-07-01,West,P003,Widget_C,7312,606349.33,607793.73,606349.33,C99911,Schultz-Logan,ORD75349,Completed,Bradley Alexander,Won,80.16
+2024-05-01,West,P004,Widget_D,7411,523020.19,505260.01,523020.19,C11146,"Allen, Summers and Reed",ORD78294,Completed,Robert Sanford,Won,80.73
+2022-10-01,South,P003,Widget_C,4755,395896.37,406306.88,395896.37,C72732,"Bowen, Mendoza and Pace",ORD20710,Completed,Ricky Spence,Lost,85.58
+2025-05-01,North,P004,Widget_D,7481,571804.92,563123.52,571804.92,C52797,"Jordan, Carr and Wilson",ORD13834,Completed,Destiny Carr,Lead,90.58
+2024-09-01,North,P003,Widget_C,2363,132004.96,128128.0,132004.96,C21688,Chen-Ryan,ORD60390,Completed,Steven Russell,Won,83.53
+2025-01-01,South,P002,Widget_B,2981,280845.14,286194.65,280845.14,C50394,Ford-Taylor,ORD26375,Completed,Michael Elliott,Won,80.48
+2023-06-01,South,P005,Widget_E,9543,516924.2,502811.41,516924.2,C77637,Joseph PLC,ORD55687,Completed,Hannah Hicks,Won,70.21
+2025-02-01,North,P003,Widget_C,3176,198639.26,202469.06,198639.26,C09925,Harris-Kelley,ORD19051,Completed,Mrs. Sabrina Wright MD,Won,81.56
+2024-02-01,South,P003,Widget_C,9106,606862.8,586399.35,606862.8,C19107,Murillo Ltd,ORD45598,Completed,Tammy Thomas,Lead,78.46
+2023-01-01,North,P003,Widget_C,9201,668535.57,671214.73,668535.57,C78840,Murray Inc,ORD42652,Completed,Javier Durham,Lost,72.68
+2022-07-01,South,P005,Widget_E,9677,723022.83,702247.3,723022.83,C36722,"Bates, Lane and Clark",ORD25422,Completed,Danielle Smith,Won,73.43
+2025-01-01,North,P001,Widget_A,7449,660937.27,641243.46,660937.27,C65140,"Carpenter, Campbell and Miller",ORD18808,Completed,Christopher Howard,Lost,84.14
+2022-09-01,West,P003,Widget_C,8053,431512.16,420939.44,431512.16,C50232,Davis-Lane,ORD43154,Completed,Christina Perkins,Lost,81.96
+2023-10-01,North,P004,Widget_D,4000,309026.15,309395.04,309026.15,C60040,Harrison LLC,ORD79394,Completed,Monica Allen,Won,85.79
+2025-01-01,South,P002,Widget_B,4247,343731.15,330057.03,343731.15,C81205,Rodriguez-Delgado,ORD33765,Completed,Mallory Garcia,Won,91.41
+2024-09-01,South,P004,Widget_D,8070,805626.86,832399.14,805626.86,C94742,Garcia Group,ORD43045,Completed,Dr. Ryan Green,Lost,91.82
+2024-05-01,West,P005,Widget_E,5697,300239.37,291717.64,300239.37,C69679,Woods-Evans,ORD54884,Completed,Kimberly Garcia,Won,83.94
+2023-03-01,North,P005,Widget_E,1167,62445.61,65345.71,62445.61,C75711,Combs Ltd,ORD32533,Completed,Brittany Sandoval,Lead,80.25
+2024-01-01,North,P005,Widget_E,7582,450169.3,434457.31,450169.3,C74104,Gonzales PLC,ORD32042,Completed,Morgan Blair,Won,90.83
+2022-06-01,West,P001,Widget_A,8005,734640.12,769037.8,734640.12,C13849,Johnson-Fowler,ORD05465,Completed,Jeffrey Larson,Lead,82.62
+2024-01-01,West,P004,Widget_D,7252,440802.27,437292.69,440802.27,C95257,Bell Inc,ORD74685,Completed,Thomas Ramsey,Won,72.84
+2024-09-01,West,P002,Widget_B,7565,381505.03,367886.11,381505.03,C00667,Russell Group,ORD65587,Completed,Ralph Weeks,Lost,77.46
+2025-01-01,North,P001,Widget_A,6319,566681.31,544876.55,566681.31,C18590,Sullivan PLC,ORD17466,Cancelled,Joshua Webb,Lost,73.72
+2024-05-01,North,P003,Widget_C,5404,538958.64,512104.8,538958.64,C53375,"Davis, Jackson and Mccoy",ORD40882,Completed,Danielle Lynch,Won,72.54
+2022-06-01,North,P005,Widget_E,2186,167284.12,172973.21,167284.12,C16109,Whitehead Inc,ORD83890,Cancelled,Ronald Garza,Won,89.5
+2024-04-01,North,P002,Widget_B,5510,474392.89,486855.26,474392.89,C34436,Beltran Group,ORD35546,Completed,Mr. Bryan Little,Lead,83.99
+2024-03-01,South,P005,Widget_E,1951,134679.12,132503.87,134679.12,C16770,"Elliott, Robinson and Martinez",ORD18127,Cancelled,Jacob Smith,Won,88.24
+2024-06-01,North,P005,Widget_E,7161,711787.06,704082.41,711787.06,C22622,Gilbert-Smith,ORD00607,Completed,Stacy Holt,Won,93.75
+2024-09-01,South,P004,Widget_D,2271,149604.35,144908.25,149604.35,C81765,"Hernandez, Glenn and Lopez",ORD70785,Completed,Ryan Neal,Lead,92.96
+2025-03-01,North,P002,Widget_B,4583,322974.87,327423.02,322974.87,C71189,Saunders-Davila,ORD26711,Completed,Christina Murray,Won,79.6
+2023-07-01,South,P005,Widget_E,3606,261396.35,256405.87,261396.35,C76905,Cannon and Sons,ORD62340,Completed,Nicole Rodriguez,Won,70.28
+2024-11-01,North,P003,Widget_C,9615,818701.38,832204.44,818701.38,C85049,Irwin PLC,ORD95582,Cancelled,Paul Parker,Lost,93.92
+2022-06-01,North,P003,Widget_C,2833,176659.05,180317.85,176659.05,C49024,Chen-Dodson,ORD58201,Completed,Dustin Barrera,Won,85.17
+2022-06-01,West,P002,Widget_B,2373,214114.92,215549.86,214114.92,C73856,"Beltran, Bailey and Lewis",ORD38177,Completed,Richard Dunlap,Won,89.44
+2023-08-01,North,P001,Widget_A,2954,273304.41,272482.33,273304.41,C24508,"Huang, Rubio and Anderson",ORD30877,Completed,Christopher Kirby,Won,72.85
+2022-11-01,South,P002,Widget_B,1956,136747.86,141939.45,136747.86,C46855,"Parker, Johnston and Miller",ORD00541,Completed,Jonathan Shelton,Lead,78.43
+2022-11-01,South,P003,Widget_C,4274,323614.02,326980.18,323614.02,C19769,Harrell-Hatfield,ORD68192,Completed,Jason Fox,Won,88.65
+2025-05-01,North,P003,Widget_C,6608,445194.41,440767.36,445194.41,C30824,"Rodriguez, Spencer and Gray",ORD91555,Cancelled,Carl Howard,Lead,75.39
+2024-03-01,North,P003,Widget_C,8112,793879.6,798870.04,793879.6,C97626,"Garcia, Roberts and Frank",ORD11366,Completed,Tanya Marks,Won,72.03
+2025-03-01,South,P004,Widget_D,5159,439393.29,458643.14,439393.29,C39987,"Bauer, Jenkins and Adams",ORD63830,Completed,Richard Collins,Lead,84.09
+2023-06-01,South,P002,Widget_B,2590,133707.78,132027.61,133707.78,C31941,"Cameron, Deleon and Johnson",ORD81202,Completed,Dylan Young,Lost,85.15
+2025-05-01,North,P003,Widget_C,2026,169790.69,165696.23,169790.69,C60816,"Russell, Lowe and Wheeler",ORD66542,Completed,Michele Gordon,Lost,82.19
+2025-03-01,West,P004,Widget_D,1362,105888.59,107206.49,105888.59,C69299,Proctor-Smith,ORD53036,Completed,Matthew Lopez,Lead,88.59
+2024-05-01,South,P005,Widget_E,7514,458799.87,473161.28,458799.87,C19610,Moody-Lamb,ORD85993,Completed,Dennis Hobbs,Won,75.95
+2022-12-01,South,P002,Widget_B,6711,556243.36,571795.34,556243.36,C00731,Jones-Hinton,ORD34631,Completed,Michael Smith,Won,80.51
+2023-02-01,West,P005,Widget_E,4986,261886.06,259740.79,261886.06,C72950,"Watkins, Mitchell and Romero",ORD69617,Completed,Ryan Ruiz,Lost,79.5
+2024-06-01,West,P004,Widget_D,5867,508048.66,492969.01,508048.66,C61462,Camacho-Williamson,ORD27977,Completed,Erica White,Lost,79.32
+2022-09-01,South,P005,Widget_E,2135,134902.55,139043.08,134902.55,C13183,Miller-Pham,ORD05209,Completed,Lynn Jones,Won,92.91
+2024-11-01,West,P003,Widget_C,2102,200512.96,202076.12,200512.96,C81329,Silva Ltd,ORD24519,Completed,Megan Robinson,Won,80.87
+2025-01-01,South,P004,Widget_D,6615,340430.85,326917.68,340430.85,C71084,Howell and Sons,ORD90378,Completed,Kelly Petty,Won,73.02
+2023-06-01,West,P001,Widget_A,9953,644063.81,615136.84,644063.81,C80809,"Baker, Shah and Thornton",ORD40056,Completed,Kelly Bradford,Won,83.2
+2023-10-01,North,P005,Widget_E,6952,569804.58,565692.93,569804.58,C74010,"Young, Hopkins and Hampton",ORD40260,Completed,Robert Heath,Won,93.27
+2022-07-01,West,P004,Widget_D,2748,271387.79,280862.73,271387.79,C31998,Farrell and Sons,ORD03660,Cancelled,Logan Roberts,Won,90.75
+2023-11-01,North,P002,Widget_B,8784,866476.9,824759.6,866476.9,C65313,King Group,ORD66452,Completed,Brenda Olsen,Lost,75.01
+2022-07-01,West,P001,Widget_A,3890,313555.69,309875.97,313555.69,C38821,"Armstrong, Vega and Miller",ORD39259,Completed,Kent Jenkins,Lost,84.19
+2022-12-01,South,P003,Widget_C,4997,387651.17,373672.56,387651.17,C58519,"Ochoa, Love and Morrow",ORD57676,Completed,Debra Arnold,Won,77.52
+2024-10-01,North,P004,Widget_D,6690,501249.26,491963.58,501249.26,C06834,Mckay-Vasquez,ORD14111,Completed,Sara Bell,Won,91.58
+2024-04-01,North,P001,Widget_A,2015,169185.91,173790.06,169185.91,C44394,"Olson, Thomas and Walker",ORD97542,Completed,Erica Suarez,Won,70.14
+2024-03-01,South,P004,Widget_D,2193,166616.36,159827.82,166616.36,C04301,Friedman-Allen,ORD07254,Completed,Joseph Barrera,Lost,88.11
+2023-10-01,North,P005,Widget_E,7340,508151.02,520116.2,508151.02,C54918,Mills-Webster,ORD37642,Completed,Heather Jones,Won,92.8
+2024-06-01,South,P004,Widget_D,6386,476276.93,462699.06,476276.93,C29886,"Castillo, Maddox and Wright",ORD05862,Completed,Taylor Marsh,Won,94.37
+2024-09-01,South,P001,Widget_A,3338,186882.75,177831.02,186882.75,C79321,"Avila, Suarez and Walter",ORD48065,Completed,Tammy Watkins,Lost,75.33
+2022-05-01,West,P005,Widget_E,2977,200984.02,195928.05,200984.02,C64708,"Daniels, Jackson and Hernandez",ORD22165,Completed,Joel Bryant,Won,77.87
+2025-05-01,North,P004,Widget_D,9721,683972.18,657534.99,683972.18,C01390,Cole Ltd,ORD82458,Completed,Tony Porter,Lost,71.89
+2024-04-01,North,P004,Widget_D,5459,376870.93,378528.14,376870.93,C60026,Stokes-Carey,ORD43790,Completed,Teresa Garcia,Won,90.04
+2023-08-01,North,P003,Widget_C,9716,963537.13,963186.06,963537.13,C67845,Garcia Group,ORD18327,Completed,James Stark,Lead,76.99
+2025-02-01,West,P005,Widget_E,6087,604091.75,599185.65,604091.75,C06600,Cannon Group,ORD87602,Completed,John Williams,Won,71.17
+2023-02-01,North,P001,Widget_A,7573,426404.15,428477.04,426404.15,C08501,Martinez-Figueroa,ORD10510,Completed,Matthew Kerr,Won,94.13
+2023-12-01,South,P005,Widget_E,1530,130881.04,133734.98,130881.04,C12031,Beck-Harris,ORD70304,Completed,Manuel Ruiz,Won,94.9
+2024-12-01,South,P002,Widget_B,3393,213597.54,207072.37,213597.54,C29355,"Stout, Nunez and Galloway",ORD06568,Completed,James Rios,Won,94.4
+2024-05-01,South,P002,Widget_B,7324,478736.3,502367.6,478736.3,C96390,Glover and Sons,ORD03469,Cancelled,Craig Foster,Won,75.49
+2023-10-01,West,P005,Widget_E,6777,622449.65,637720.48,622449.65,C91606,Fox-Williams,ORD08425,Completed,Jenna Thompson,Lead,82.81
+2023-08-01,South,P002,Widget_B,8711,604819.2,603023.82,604819.2,C84258,"Mack, Jackson and Osborn",ORD49565,Completed,Ashley Ramos,Won,74.1
+2024-02-01,West,P001,Widget_A,4634,400141.49,389842.97,400141.49,C43957,"Saunders, Caldwell and Wallace",ORD13122,Completed,Mark Dyer,Won,86.79
+2024-11-01,South,P004,Widget_D,4387,248904.84,250170.45,248904.84,C40458,"Romero, Castro and David",ORD10562,Completed,Peter Briggs,Won,86.0
+2025-04-01,North,P005,Widget_E,5175,473335.69,496691.76,473335.69,C66777,Bennett-Fernandez,ORD21493,Completed,Mackenzie Ross,Lead,85.77
+2022-11-01,West,P002,Widget_B,4606,285227.7,293873.69,285227.7,C31468,"Martinez, Wright and Weiss",ORD82187,Completed,Jennifer Cooper,Won,82.54
+2024-11-01,South,P004,Widget_D,8740,633868.24,662217.79,633868.24,C87853,"Blake, Buchanan and Crawford",ORD09845,Completed,Shannon Nelson,Lost,78.03
+2023-04-01,West,P005,Widget_E,4764,350518.05,367595.49,350518.05,C76138,Fox-Russell,ORD19821,Completed,David Benson,Lost,81.03
+2023-05-01,North,P002,Widget_B,3221,172159.69,167347.94,172159.69,C44113,Bradley-Welch,ORD20654,Completed,Jeremy Fernandez,Lost,71.71
+2024-08-01,West,P003,Widget_C,4737,400828.56,397211.07,400828.56,C76157,"Collins, Reynolds and Stewart",ORD19018,Completed,Barbara Freeman,Won,73.01
+2024-12-01,South,P001,Widget_A,9428,704190.3,675870.82,704190.3,C40719,Chavez Ltd,ORD94562,Completed,Tami Henry,Won,83.13
+2024-12-01,West,P001,Widget_A,6967,691820.98,686156.33,691820.98,C55215,Hale PLC,ORD33554,Completed,Amy Little,Won,90.56
+2023-04-01,North,P003,Widget_C,9192,721303.25,700456.97,721303.25,C85500,Rogers-Hodges,ORD83791,Completed,Danielle Torres,Won,87.94
+2025-04-01,North,P002,Widget_B,6878,370469.62,362473.74,370469.62,C96634,"Vega, Montgomery and Richardson",ORD46469,Completed,Barbara Miller,Won,90.48
+2024-06-01,West,P005,Widget_E,3090,209605.86,211142.18,209605.86,C72271,Fox-Walton,ORD50089,Completed,John Shaw,Won,84.5
+2025-02-01,West,P002,Widget_B,6625,418524.42,400159.05,418524.42,C05623,"Fox, Powell and Leon",ORD25297,Completed,Isabel Jordan,Won,77.16
+2023-07-01,West,P004,Widget_D,7961,480511.09,470385.08,480511.09,C77582,Sanchez and Sons,ORD29023,Cancelled,Tiffany Coleman,Lost,88.22
+2022-11-01,North,P004,Widget_D,4243,260749.31,266353.86,260749.31,C16394,"Lucero, Thompson and Davis",ORD79239,Cancelled,Stephanie Warner,Won,87.28
+2024-06-01,North,P003,Widget_C,3579,316634.04,318525.56,316634.04,C53922,Martinez PLC,ORD56788,Completed,Edward Hayes,Won,75.3
+2025-04-01,North,P003,Widget_C,1042,56508.37,57612.21,56508.37,C28039,Miller-Brooks,ORD35205,Cancelled,Tammy Dougherty,Lost,76.23
+2022-11-01,West,P004,Widget_D,6116,530753.49,534984.84,530753.49,C90836,"Byrd, Smith and Moyer",ORD08173,Completed,Nicole Grant,Lost,81.9
+2025-04-01,West,P002,Widget_B,6562,475211.32,498275.38,475211.32,C43593,Malone-Smith,ORD52527,Completed,Mr. Kevin Faulkner,Won,80.5
+2023-04-01,South,P001,Widget_A,3109,208563.44,209244.4,208563.44,C28812,Bennett-Anderson,ORD28873,Completed,Robert Lamb,Won,73.17
+2023-03-01,South,P002,Widget_B,3610,204149.72,214340.03,204149.72,C14350,Lawson-Holden,ORD56083,Completed,Ryan Sweeney,Lead,80.23
+2023-04-01,North,P004,Widget_D,2340,131513.56,134401.68,131513.56,C64260,"Freeman, Tran and Hurst",ORD14073,Cancelled,Alan Salas,Won,94.67
+2022-05-01,West,P001,Widget_A,1908,113176.68,118388.99,113176.68,C24802,Weaver-Martinez,ORD26223,Completed,Hannah Gray DVM,Won,88.28
+2023-11-01,South,P004,Widget_D,4657,311152.81,320341.58,311152.81,C90003,Bryant Group,ORD99408,Completed,John Thomas,Lost,89.72
+2022-06-01,South,P005,Widget_E,6241,601062.45,619968.65,601062.45,C44579,Phillips-Moses,ORD62922,Completed,Sarah Perry,Won,74.36
+2022-09-01,South,P001,Widget_A,8295,729309.24,754256.02,729309.24,C37452,Romero PLC,ORD95622,Completed,Mrs. Christine Nixon MD,Won,83.21
+2023-07-01,West,P005,Widget_E,6278,626841.45,657868.28,626841.45,C62996,Page-Medina,ORD29679,Completed,Victoria Garza,Lost,89.68
+2024-11-01,South,P001,Widget_A,8079,469557.44,481947.3,469557.44,C86360,Chang-Thomas,ORD96311,Completed,James Butler,Won,89.38
+2024-10-01,South,P004,Widget_D,2454,131787.53,131642.09,131787.53,C02991,Johnson and Sons,ORD33450,Completed,Steven Rivera,Lost,85.83
+2023-06-01,North,P003,Widget_C,2216,145118.29,147916.56,145118.29,C78370,Fowler-Mendoza,ORD73105,Completed,Adam Poole,Won,94.43
+2023-11-01,North,P003,Widget_C,9686,802565.41,785569.13,802565.41,C26609,"Dixon, Wilson and Acosta",ORD06427,Completed,Beth Martinez,Won,78.05
+2025-05-01,West,P005,Widget_E,1953,124142.12,123074.38,124142.12,C31086,Jenkins PLC,ORD60573,Completed,Michael Turner,Lead,79.82
+2022-06-01,North,P005,Widget_E,3425,292031.07,278063.92,292031.07,C31317,Moreno Inc,ORD70887,Completed,Scott Clark,Lead,76.24
+2023-02-01,North,P002,Widget_B,7038,617843.56,639885.07,617843.56,C84579,"Hanson, Leonard and Tucker",ORD53357,Completed,Brenda Smith,Lost,79.14
+2024-11-01,West,P001,Widget_A,8509,451433.75,459057.73,451433.75,C35565,"Gonzalez, Wilson and Turner",ORD00422,Completed,Linda Rosales,Won,83.23
+2024-11-01,West,P002,Widget_B,1178,85438.56,82962.05,85438.56,C88850,Nunez Group,ORD08411,Completed,Mrs. Penny Griffith,Won,75.56
+2024-06-01,West,P001,Widget_A,8225,820158.84,797538.18,820158.84,C77763,Smith Inc,ORD78153,Completed,Angel Hood,Won,79.44
+2024-07-01,South,P004,Widget_D,4473,384754.86,367152.51,384754.86,C11159,Holder Ltd,ORD77776,Completed,Melody Browning,Won,72.89
+2023-06-01,West,P001,Widget_A,3704,364534.81,380760.64,364534.81,C73686,Jacobson Ltd,ORD01277,Completed,Carrie Peterson,Won,86.26
+2024-05-01,North,P001,Widget_A,5833,515204.12,499374.89,515204.12,C98644,"Collins, Hubbard and Elliott",ORD28704,Completed,Katherine Barnes,Won,84.38
+2024-06-01,West,P003,Widget_C,6420,434477.3,445450.1,434477.3,C54893,"Williams, Howell and Colon",ORD79892,Completed,Amy Brady,Won,81.44
+2025-01-01,South,P001,Widget_A,9919,921338.81,926960.56,921338.81,C45816,"Kelley, Harris and Gutierrez",ORD98484,Completed,Tony Smith,Won,70.35
+2022-11-01,North,P004,Widget_D,2270,147301.69,146533.17,147301.69,C10950,Taylor-Ellison,ORD15037,Completed,Cameron Beck,Won,80.61
+2022-11-01,South,P003,Widget_C,8894,526936.31,513772.39,526936.31,C08750,"Bruce, Pearson and Young",ORD67024,Completed,Rachael Silva,Won,74.95
+2024-02-01,South,P002,Widget_B,5375,531075.98,544125.96,531075.98,C53617,Chandler-Mahoney,ORD03670,Completed,Marcus Osborn,Lost,83.2
+2022-07-01,South,P003,Widget_C,3268,287583.96,294266.62,287583.96,C53682,Butler-Perez,ORD78386,Completed,Michelle Cooper,Won,72.65
+2023-04-01,West,P002,Widget_B,7565,705920.56,716490.5,705920.56,C91663,Sanchez Group,ORD78163,Completed,Christopher Tate,Won,85.04
+2025-04-01,North,P003,Widget_C,3359,327765.53,336827.02,327765.53,C33888,Valdez LLC,ORD40694,Completed,Barbara Lewis,Lost,90.21
+2023-08-01,West,P004,Widget_D,5352,345800.06,359798.26,345800.06,C82263,Cook-Thomas,ORD84309,Completed,Randy Irwin,Lost,89.96
+2022-10-01,West,P005,Widget_E,7461,650324.97,654025.32,650324.97,C76940,"Carpenter, Johnson and Harmon",ORD60054,Cancelled,Jimmy Fowler,Won,74.6
+2025-04-01,South,P001,Widget_A,8370,494407.81,471787.59,494407.81,C75802,Morse Ltd,ORD18359,Completed,Krystal Webster,Won,75.35
+2022-09-01,North,P004,Widget_D,1106,89169.26,91967.96,89169.26,C23390,Mullins-Roberts,ORD85491,Completed,Kristy Camacho,Won,77.55
+2024-10-01,South,P005,Widget_E,3244,253265.49,260539.51,253265.49,C01072,Hodges PLC,ORD32461,Completed,Cheryl Cohen,Lead,91.02
+2024-09-01,West,P003,Widget_C,8846,529422.86,516068.8,529422.86,C43600,Moyer-Cohen,ORD34415,Completed,Shawn Newman,Lost,89.11
+2022-12-01,North,P004,Widget_D,6149,472746.73,464017.33,472746.73,C81842,Francis PLC,ORD20236,Completed,Kimberly Brown,Lost,75.27
+2024-05-01,South,P004,Widget_D,2963,283895.53,273147.63,283895.53,C08419,Rivers-Chapman,ORD02472,Completed,Timothy Gillespie,Won,70.23
+2022-07-01,South,P004,Widget_D,3437,337848.78,348659.03,337848.78,C11745,"Deleon, King and Malone",ORD32410,Completed,Raymond Griffin,Lead,94.26
+2025-05-01,West,P005,Widget_E,7232,477013.0,463682.15,477013.0,C80883,Rodriguez Inc,ORD22481,Completed,Christopher Delacruz,Won,76.3
+2022-10-01,North,P001,Widget_A,4437,283392.6,295543.06,283392.6,C13774,Reynolds and Sons,ORD85021,Completed,Karen Anderson,Won,92.68
+2023-05-01,South,P001,Widget_A,1908,180080.07,173276.42,180080.07,C12663,"Griffin, Adams and Hill",ORD24444,Completed,Kimberly Mcmillan,Lead,90.65
+2025-05-01,West,P005,Widget_E,1258,101515.83,103752.33,101515.83,C65010,"Pitts, Nicholson and Yoder",ORD26158,Completed,Ricky Evans,Lost,71.32
+2022-11-01,North,P001,Widget_A,2024,170866.27,162430.06,170866.27,C19414,"Johnson, Thompson and Rose",ORD67454,Completed,Kelli Marshall,Lost,94.19
+2023-11-01,West,P001,Widget_A,1075,62165.57,64636.14,62165.57,C35965,"Price, Logan and Washington",ORD55349,Completed,Alice Anderson,Lead,92.58
+2023-08-01,West,P005,Widget_E,3488,244511.87,241894.26,244511.87,C72695,Conley-Butler,ORD12628,Completed,Mr. George Perez,Won,80.45
+2022-07-01,South,P004,Widget_D,7436,688441.13,668438.52,688441.13,C43541,Clark PLC,ORD36009,Completed,Chris Ramirez,Won,73.82
+2023-12-01,North,P004,Widget_D,1494,82540.51,80564.09,82540.51,C55720,Bray Group,ORD15982,Completed,Brenda Dixon,Lead,90.47
+2024-05-01,West,P005,Widget_E,9160,603629.95,606645.39,603629.95,C15942,Holt and Sons,ORD42562,Completed,Steven Santiago,Lead,81.92
+2022-11-01,South,P004,Widget_D,8763,713957.3,709493.32,713957.3,C47315,Miller LLC,ORD65899,Completed,Willie Jenkins DDS,Won,80.38
+2023-03-01,North,P003,Widget_C,5027,468455.3,453894.03,468455.3,C37264,"Adams, Davis and Norton",ORD22922,Completed,Jacob Rhodes,Won,79.83
+2024-06-01,South,P003,Widget_C,2175,214517.91,212868.04,214517.91,C36048,"Brown, Gregory and Stuart",ORD85154,Completed,Joshua Allen,Won,83.29
+2022-12-01,North,P001,Widget_A,4966,423732.05,428579.81,423732.05,C07503,Perez-Bray,ORD77615,Completed,Matthew Wilson,Won,89.61
+2023-04-01,North,P004,Widget_D,1274,71241.94,68170.24,71241.94,C30394,Smith-Acosta,ORD45916,Completed,Darren Zhang,Won,89.45
+2023-09-01,North,P001,Widget_A,5654,398572.97,396168.96,398572.97,C49943,Smith-Park,ORD47161,Completed,Derek Morales,Won,72.22
+2023-01-01,West,P001,Widget_A,9308,718876.1,723469.04,718876.1,C79758,Aguirre-Garcia,ORD66975,Completed,Natalie Taylor,Won,72.44
+2023-07-01,South,P002,Widget_B,9039,757814.32,770593.63,757814.32,C87461,Silva-Pratt,ORD64904,Completed,Susan Williams,Won,79.04
+2023-07-01,South,P005,Widget_E,9010,517833.44,505746.57,517833.44,C32005,White Inc,ORD14919,Completed,William Moore,Won,78.18
+2024-06-01,West,P002,Widget_B,1116,77984.18,81791.31,77984.18,C95288,Smith-Owen,ORD30882,Completed,John Warner,Lost,88.78
+2022-11-01,South,P005,Widget_E,4035,382927.09,382356.52,382927.09,C84118,Barrett-Mcneil,ORD65107,Completed,Jacob Myers,Won,74.29
+2022-11-01,South,P005,Widget_E,5009,340129.3,340527.1,340129.3,C47012,Hunter-Jones,ORD57550,Cancelled,Ashley Alvarez,Won,93.64
+2024-07-01,South,P001,Widget_A,1015,96037.8,97764.62,96037.8,C57430,"Thornton, Flores and Watts",ORD94321,Completed,Robert Pena,Won,94.47
+2022-09-01,South,P002,Widget_B,3929,267108.2,269207.29,267108.2,C29035,Delacruz Inc,ORD79683,Completed,Julia Frye,Won,92.83
+2023-07-01,South,P002,Widget_B,3562,200173.82,198672.36,200173.82,C32589,Bush-Smith,ORD50003,Completed,Adam Scott,Lost,94.27
+2024-12-01,West,P002,Widget_B,4457,303003.83,313424.19,303003.83,C96864,Williamson PLC,ORD11836,Completed,John Patel,Won,72.74
+2023-02-01,South,P003,Widget_C,7223,474359.41,457810.91,474359.41,C02586,Sampson Ltd,ORD03914,Completed,Garrett Thompson,Lost,75.03
+2022-06-01,West,P001,Widget_A,2629,150837.88,152454.3,150837.88,C11098,Harris Inc,ORD30787,Completed,Chloe Hall,Won,88.62
+2025-03-01,West,P004,Widget_D,4438,443454.62,437334.44,443454.62,C18849,Oconnell-Lee,ORD83385,Completed,Daniel Parks,Won,91.03
+2024-01-01,South,P001,Widget_A,7632,469924.05,486198.76,469924.05,C06970,King LLC,ORD99884,Completed,Haley Banks,Won,72.75
+2023-06-01,South,P001,Widget_A,4985,427014.84,421353.51,427014.84,C20512,Blanchard Ltd,ORD88613,Completed,Miss Sheila Petersen,Lost,83.97
+2024-11-01,West,P005,Widget_E,4609,362091.42,348003.38,362091.42,C12611,Wheeler Group,ORD51913,Completed,Rachel Barker,Won,88.8
+2022-10-01,North,P005,Widget_E,5234,505427.83,522739.02,505427.83,C14986,Cruz-Sanchez,ORD06850,Completed,Ricardo Hickman,Won,79.01
+2023-07-01,South,P005,Widget_E,7442,415970.3,423899.15,415970.3,C26528,"Moore, Henderson and Griffin",ORD40480,Completed,Samantha Lee,Won,93.29
+2022-11-01,North,P001,Widget_A,9278,631423.53,606102.02,631423.53,C09421,"Sims, Morales and Williamson",ORD75358,Completed,Charlotte Hughes,Won,80.26
+2025-02-01,North,P004,Widget_D,9869,903294.36,908195.83,903294.36,C07441,Ward-Ryan,ORD74176,Completed,Joe Dixon,Won,80.43
+2022-06-01,South,P002,Widget_B,6067,316354.78,325610.05,316354.78,C80700,Mcfarland PLC,ORD37421,Completed,Craig Hodge,Won,75.72
+2024-07-01,West,P004,Widget_D,1773,161316.53,153446.93,161316.53,C55797,"Erickson, Gonzalez and Gonzales",ORD39953,Completed,Deanna Gonzalez,Won,87.27
+2022-10-01,North,P001,Widget_A,9001,846645.02,855322.62,846645.02,C94406,Smith-Daniel,ORD52497,Completed,Jasmin Haney,Lost,84.53
+2025-02-01,South,P004,Widget_D,4722,333343.15,322948.23,333343.15,C54231,"Bonilla, Evans and Cantrell",ORD60365,Cancelled,Christine Gonzales,Lost,77.29
+2023-04-01,North,P004,Widget_D,5004,415221.72,415351.54,415221.72,C42515,Smith-Blevins,ORD61998,Completed,Daniel Parsons,Won,74.3
+2024-02-01,North,P005,Widget_E,8851,507889.97,482553.91,507889.97,C64297,"Williams, Molina and Davis",ORD05486,Completed,Brian Smith,Won,73.96
+2024-04-01,South,P004,Widget_D,6557,633773.51,626868.1,633773.51,C35982,Lopez-Guerrero,ORD01328,Cancelled,Kenneth Vargas,Lost,85.92
+2024-12-01,West,P001,Widget_A,2083,193445.18,197572.57,193445.18,C87243,Jones PLC,ORD22006,Completed,Gregory Adams,Lead,78.19
+2025-02-01,South,P003,Widget_C,9611,920547.82,910419.14,920547.82,C45801,Curry and Sons,ORD07241,Completed,Jordan White,Won,89.9
+2023-09-01,South,P002,Widget_B,2353,174595.76,174986.17,174595.76,C78384,Hamilton PLC,ORD69662,Completed,Dylan Gray,Won,78.04
+2022-08-01,West,P005,Widget_E,2802,238169.69,238308.36,238169.69,C66027,"Matthews, Thompson and Bowman",ORD50339,Cancelled,Nicole Taylor,Won,84.26
+2023-05-01,West,P003,Widget_C,6892,555554.1,570431.03,555554.1,C53249,Taylor Ltd,ORD79443,Completed,John Thornton,Won,90.64
+2023-04-01,West,P004,Widget_D,4323,288486.16,290615.08,288486.16,C66361,"Miller, Smith and Hunter",ORD09233,Completed,Joshua Jones,Lead,75.04
+2022-11-01,North,P004,Widget_D,3378,293814.81,280891.84,293814.81,C91483,"Blake, Gibson and Cox",ORD09729,Completed,Brenda Bowen,Won,76.76
+2025-03-01,West,P004,Widget_D,6263,354763.21,347271.25,354763.21,C41032,"Camacho, Johnson and Lucas",ORD33544,Completed,Michael Singh,Won,81.83
+2022-10-01,South,P001,Widget_A,6290,519203.31,531018.26,519203.31,C10631,Gilbert-Ramsey,ORD40540,Completed,Steven Weber,Won,71.9
+2023-06-01,South,P003,Widget_C,6565,366545.5,352459.44,366545.5,C29460,Navarro-Santos,ORD09492,Completed,Keith Bridges,Lost,77.86
+2022-10-01,South,P004,Widget_D,7265,473854.13,477715.41,473854.13,C86216,Estrada-Davidson,ORD60633,Completed,Jennifer Turner,Won,88.83
+2024-09-01,North,P004,Widget_D,1482,131074.74,136808.72,131074.74,C15118,Galvan-Grimes,ORD60360,Completed,Catherine Benton,Lead,70.8
+2023-03-01,South,P002,Widget_B,5745,368230.35,381025.36,368230.35,C60869,Lewis PLC,ORD63926,Completed,Mark Dunn,Won,83.38
+2024-08-01,South,P004,Widget_D,7798,433550.59,416752.9,433550.59,C78710,"Parker, Strickland and Crawford",ORD25338,Completed,David Jarvis,Won,74.58
+2022-07-01,West,P005,Widget_E,9054,684292.27,705501.57,684292.27,C82321,Perkins Ltd,ORD40636,Cancelled,Marcus White,Lost,77.13
+2022-07-01,North,P001,Widget_A,2319,183541.69,176720.17,183541.69,C23098,Little-Patton,ORD74186,Completed,Anna Ford,Won,72.0
+2022-12-01,South,P001,Widget_A,6598,635259.61,639345.6,635259.61,C70781,Berry PLC,ORD20021,Completed,Jonathan Clark,Won,80.13
+2023-03-01,South,P005,Widget_E,9836,858569.86,869920.71,858569.86,C09328,Clark-Frederick,ORD53808,Completed,Margaret Berry,Won,71.8
+2025-04-01,West,P005,Widget_E,1224,102637.48,105491.27,102637.48,C92357,"Solis, Abbott and Lawson",ORD82946,Completed,Cynthia Duffy,Lead,73.3
+2023-09-01,North,P002,Widget_B,1664,85616.86,87921.8,85616.86,C09895,Weaver Group,ORD89200,Completed,Mrs. Gabrielle Kelly,Won,82.78
+2023-02-01,West,P004,Widget_D,9482,747708.56,744420.87,747708.56,C57881,Wood-Michael,ORD97621,Completed,Christina Dawson,Won,77.78
+2025-02-01,West,P003,Widget_C,7459,460894.05,465600.7,460894.05,C56106,Guzman-Oneill,ORD41295,Completed,Stacy Henson,Won,94.85
+2025-02-01,South,P003,Widget_C,5132,356043.5,368524.42,356043.5,C01349,Barron-Rodriguez,ORD38369,Completed,Mark Vang,Won,76.81
+2024-07-01,West,P003,Widget_C,6592,493381.75,497592.21,493381.75,C80654,"Dunn, Scott and Smith",ORD56877,Completed,Vincent Rice,Lead,87.96
+2022-09-01,North,P004,Widget_D,5198,396060.91,402476.63,396060.91,C86313,Ford and Sons,ORD32386,Completed,Michelle Norman,Won,81.74
+2023-05-01,North,P004,Widget_D,7217,689393.52,710357.21,689393.52,C86675,Kennedy-Cox,ORD78160,Completed,Karen Yoder,Won,80.72
+2024-04-01,West,P004,Widget_D,3534,302595.74,296557.67,302595.74,C67884,"Fox, Trevino and Brown",ORD67737,Completed,Lori Davis,Won,85.35
+2024-11-01,West,P002,Widget_B,8280,620066.81,618169.12,620066.81,C10457,"Ramos, Mathews and Garrett",ORD60334,Completed,Daniel Sanders,Lead,90.32
+2022-06-01,West,P005,Widget_E,3086,198472.57,207355.65,198472.57,C85000,Diaz and Sons,ORD80967,Completed,Nathan Alexander,Lost,70.92
+2024-03-01,West,P001,Widget_A,5620,416274.51,412537.39,416274.51,C98813,Lambert Group,ORD35281,Cancelled,Eddie Carlson,Won,72.62
+2024-10-01,North,P004,Widget_D,5109,510111.7,506611.82,510111.7,C34135,"Jones, Caldwell and Gomez",ORD37396,Completed,Christopher Brown,Won,78.71
+2022-08-01,West,P001,Widget_A,2427,238965.51,243532.26,238965.51,C41658,"Garrison, King and Holden",ORD98940,Completed,Daniel Hicks,Won,81.84
+2023-02-01,South,P001,Widget_A,8407,431659.41,432663.94,431659.41,C28925,"Ford, Padilla and Cannon",ORD08138,Completed,Amanda Gordon,Lost,77.95
+2024-04-01,North,P001,Widget_A,8401,648536.28,678027.18,648536.28,C25399,Elliott PLC,ORD60840,Completed,Brian Cole,Lead,88.17
+2022-09-01,West,P004,Widget_D,7163,599944.55,613775.12,599944.55,C12747,Hudson Ltd,ORD59839,Completed,Michael Wells,Won,82.72
+2022-05-01,South,P003,Widget_C,5726,394111.58,393468.99,394111.58,C95469,Vaughan-Roberts,ORD90422,Completed,Russell Quinn,Lost,83.0
+2023-02-01,West,P003,Widget_C,3842,213722.5,206682.36,213722.5,C57021,Pittman Inc,ORD04365,Cancelled,Julie Griffith,Won,70.64
+2023-01-01,North,P001,Widget_A,9634,623949.51,608231.76,623949.51,C13707,Montgomery-Pollard,ORD93970,Completed,Joshua George,Won,90.52
+2025-03-01,North,P002,Widget_B,7105,540314.08,556493.13,540314.08,C63708,Daniels LLC,ORD69458,Completed,David Gardner,Won,75.61
+2024-07-01,South,P003,Widget_C,9098,712889.4,719252.76,712889.4,C30067,Ferguson-Thompson,ORD39205,Completed,Donald Chavez,Won,71.07
+2024-12-01,North,P002,Widget_B,5403,393157.25,407485.69,393157.25,C86357,Johnson PLC,ORD78371,Completed,Anna Weiss,Lost,73.64
+2024-10-01,South,P004,Widget_D,8470,692419.66,685993.41,692419.66,C81720,"Thompson, Miller and Hamilton",ORD03385,Completed,Jonathan Jones,Won,92.97
+2023-02-01,West,P003,Widget_C,2579,148773.74,149087.26,148773.74,C18289,"Wallace, Bass and Patel",ORD30187,Completed,Larry White,Won,85.0
+2025-02-01,West,P001,Widget_A,4054,284037.33,283751.39,284037.33,C04820,Perez-Roach,ORD26847,Completed,Riley Martinez,Won,93.39
+2023-04-01,South,P001,Widget_A,6497,516798.0,506416.88,516798.0,C58822,Cook-Smith,ORD84731,Completed,Luis Nichols,Lead,78.29
+2022-09-01,North,P002,Widget_B,8058,449806.8,468382.6,449806.8,C13829,Peck-Hernandez,ORD99972,Completed,Rachel Fernandez,Won,78.58
+2025-04-01,South,P001,Widget_A,7432,564726.01,549218.09,564726.01,C47606,Copeland-Griffin,ORD19726,Completed,Brian Patel,Lost,83.65
+2023-11-01,North,P002,Widget_B,2879,246915.66,253726.19,246915.66,C07766,"Johnson, Simon and Riley",ORD67991,Completed,Russell Alvarado,Lost,87.25
+2023-02-01,West,P005,Widget_E,6942,392128.39,403660.82,392128.39,C29740,"Schmidt, Jefferson and Graham",ORD88574,Completed,Mrs. Alison Santiago,Won,87.68
+2025-05-01,South,P002,Widget_B,2699,141367.33,146572.55,141367.33,C97350,Garcia Inc,ORD04767,Completed,Jennifer Rowe,Won,82.08
+2024-08-01,North,P005,Widget_E,6662,659646.48,676444.31,659646.48,C74358,"Morrison, Oliver and Duke",ORD96342,Completed,Rebecca Morris,Lost,75.86
+2024-12-01,West,P004,Widget_D,1756,132490.14,129413.01,132490.14,C57028,"Lyons, Anderson and Boyd",ORD14263,Completed,Theodore Hicks,Won,77.96
+2024-03-01,South,P004,Widget_D,1691,165016.17,171911.32,165016.17,C94356,Johnson-Wall,ORD73471,Completed,Marcus English,Lead,90.43
+2022-08-01,West,P005,Widget_E,6086,378243.37,378049.62,378243.37,C41578,Esparza LLC,ORD41996,Completed,John Garcia,Lost,70.27
+2023-05-01,North,P001,Widget_A,9029,559965.13,536840.39,559965.13,C36270,Reid LLC,ORD06072,Completed,Taylor Mills,Won,76.08
+2024-02-01,West,P001,Widget_A,2232,191973.81,200952.59,191973.81,C49288,Ware-Johnson,ORD31687,Completed,Mark English,Won,76.67
+2023-07-01,North,P001,Widget_A,7024,393681.51,398643.67,393681.51,C89770,Castillo-Martin,ORD76961,Completed,Alexander Parsons,Lost,74.16
+2023-12-01,West,P003,Widget_C,9884,756429.93,791059.31,756429.93,C16774,Callahan-Bauer,ORD27594,Completed,Timothy Carrillo,Won,91.95
+2024-04-01,North,P005,Widget_E,2072,121653.9,117976.12,121653.9,C79929,Thomas-Brown,ORD96006,Completed,Steven Gomez,Lost,80.77
+2022-06-01,North,P004,Widget_D,2843,166019.63,168767.8,166019.63,C07084,Ali-Jenkins,ORD89870,Completed,Teresa Brown,Lead,78.06
+2024-07-01,South,P003,Widget_C,2466,169858.69,161715.57,169858.69,C51574,Mendoza Inc,ORD66277,Completed,Steven Davis,Won,70.46
+2025-03-01,North,P005,Widget_E,5640,341307.97,333534.0,341307.97,C42190,"Smith, Spencer and Williams",ORD41872,Cancelled,David Woods,Won,78.87
+2025-05-01,West,P005,Widget_E,5281,337266.84,341863.21,337266.84,C03789,Wright and Sons,ORD02076,Cancelled,Aaron West,Won,94.03
+2022-08-01,West,P001,Widget_A,6569,375893.38,384382.0,375893.38,C34179,Welch Ltd,ORD43627,Cancelled,Jacob Chapman,Won,92.9
+2024-07-01,West,P005,Widget_E,6389,360693.12,352125.62,360693.12,C28161,Wells-Perkins,ORD85794,Completed,Kelly Waters,Won,77.12
+2025-03-01,South,P002,Widget_B,1016,80007.89,80467.41,80007.89,C27536,"Stokes, Smith and Holmes",ORD37852,Cancelled,Amanda Decker,Won,74.51
+2023-08-01,West,P004,Widget_D,9170,678334.42,680103.09,678334.42,C68071,Humphrey-Clark,ORD48310,Completed,Jason Simpson,Won,89.14
+2023-05-01,South,P002,Widget_B,6601,606984.37,611041.14,606984.37,C85328,Rios Inc,ORD11208,Completed,Joseph Short,Lost,74.81
+2024-05-01,South,P001,Widget_A,8349,764072.19,770067.97,764072.19,C84392,"Lutz, Thompson and Smith",ORD56528,Completed,Rebecca Townsend,Lost,73.87
+2025-01-01,West,P003,Widget_C,3307,180850.71,183465.71,180850.71,C78648,Hale and Sons,ORD75254,Completed,Brooke Hines,Lead,81.23
+2023-08-01,North,P005,Widget_E,3222,274236.53,287862.86,274236.53,C19042,Friedman-Sanders,ORD57755,Completed,Dana Cannon,Lead,78.37
+2023-01-01,North,P001,Widget_A,4077,294651.84,284235.79,294651.84,C41058,"Brown, Johnson and Goodman",ORD23521,Completed,Samuel Rodriguez,Lost,73.43
+2023-08-01,South,P002,Widget_B,1225,82351.36,78407.89,82351.36,C98960,"Swanson, Frost and Beck",ORD18899,Completed,Kathryn Haley,Won,89.83
+2022-07-01,West,P001,Widget_A,9909,986239.52,997531.35,986239.52,C60256,"Greer, Brown and Higgins",ORD30738,Completed,Joel Hess,Won,73.56
+2023-05-01,West,P003,Widget_C,4505,258670.68,246133.3,258670.68,C41779,Thomas-Phillips,ORD99919,Cancelled,Sara Beasley,Won,89.96
+2022-10-01,South,P003,Widget_C,2018,176310.33,184623.38,176310.33,C99965,Medina Inc,ORD23356,Completed,Margaret Lee,Won,83.67
+2023-01-01,South,P005,Widget_E,3664,213913.45,208379.74,213913.45,C85295,"Perry, Bishop and Caldwell",ORD52290,Completed,Melinda Vazquez,Lost,89.89
+2024-04-01,West,P002,Widget_B,6938,663393.92,671605.28,663393.92,C55537,Gardner-Leonard,ORD32695,Completed,Crystal Browning,Won,83.98
+2022-09-01,North,P002,Widget_B,4250,411136.88,413834.82,411136.88,C21205,Richardson Inc,ORD47219,Completed,Eric Case,Won,76.85
+2024-10-01,South,P001,Widget_A,7551,686136.36,673093.01,686136.36,C50775,Phelps-Butler,ORD33788,Completed,Shannon Ritter,Won,81.08
+2023-04-01,North,P001,Widget_A,1939,116705.02,120714.71,116705.02,C74864,"Cooper, Reeves and Dixon",ORD63458,Completed,Jennifer Washington,Lead,70.6
+2025-04-01,West,P004,Widget_D,3849,325834.94,318860.15,325834.94,C14554,"Garcia, Lloyd and Evans",ORD91766,Cancelled,Elizabeth Wilson,Won,83.74
+2025-05-01,West,P004,Widget_D,3195,183803.1,182422.31,183803.1,C30077,Rivas-Mack,ORD08880,Completed,Robert Davidson,Won,88.7
+2023-02-01,South,P001,Widget_A,4680,413298.81,424626.74,413298.81,C03772,Gill Group,ORD16922,Completed,Michael Davis,Won,88.82
+2023-02-01,West,P002,Widget_B,3617,281168.88,268294.0,281168.88,C84845,Brooks-Robinson,ORD58081,Cancelled,James Johnson,Lead,94.34
+2023-08-01,West,P003,Widget_C,7938,570182.08,586956.26,570182.08,C67459,Bell PLC,ORD50223,Cancelled,Cynthia Jones,Won,78.62
+2022-09-01,North,P002,Widget_B,3141,279576.01,289587.17,279576.01,C72504,"Brown, Smith and Charles",ORD32366,Completed,Tyler Lucas,Lost,77.32
+2022-07-01,West,P003,Widget_C,6769,466513.1,464580.88,466513.1,C69671,Martinez Ltd,ORD20532,Completed,Lauren Wiggins,Lost,70.82
+2024-12-01,South,P002,Widget_B,1973,139882.04,133465.93,139882.04,C72933,Stevens Group,ORD62364,Completed,Michael Salas,Lead,89.44
+2023-03-01,North,P004,Widget_D,4734,287960.66,294302.79,287960.66,C80400,Shelton and Sons,ORD58215,Cancelled,Derek Martinez,Lost,90.26
+2022-12-01,North,P002,Widget_B,2516,213351.76,217205.32,213351.76,C46800,Sanchez LLC,ORD34040,Completed,Gloria Robertson,Won,87.41
+2023-07-01,South,P002,Widget_B,5147,300687.03,310990.28,300687.03,C40144,"Hernandez, Beard and Moore",ORD81625,Completed,Brandon Brooks,Won,72.9
+2023-06-01,South,P004,Widget_D,9393,861273.15,848269.38,861273.15,C83516,King-Johnson,ORD52216,Completed,Harry Phelps,Won,72.22
+2024-12-01,South,P005,Widget_E,9359,597528.62,600923.62,597528.62,C85567,Bowman-Woods,ORD44646,Completed,Cassidy Drake,Won,87.94
+2022-06-01,North,P004,Widget_D,4379,378436.2,389162.45,378436.2,C52391,"Vance, Howe and Cochran",ORD56441,Completed,Dr. Richard Richard,Won,75.45
+2024-01-01,West,P004,Widget_D,6280,393421.78,398495.3,393421.78,C83752,"Gomez, Vang and Rios",ORD39318,Completed,Diana Smith,Lost,93.52
+2023-01-01,North,P002,Widget_B,1967,141661.07,146123.12,141661.07,C50385,Austin Inc,ORD77242,Completed,John Mckee,Won,70.76
+2025-02-01,North,P001,Widget_A,9166,703873.4,671454.85,703873.4,C53842,"Clark, Sanchez and Taylor",ORD34943,Completed,Stephanie Rodriguez,Won,78.55
+2023-05-01,North,P004,Widget_D,8024,553737.95,548095.47,553737.95,C14669,"Davila, Smith and Carter",ORD82218,Completed,William Stout,Won,83.84
+2023-09-01,South,P002,Widget_B,4315,335157.5,346013.56,335157.5,C58968,Russo-Williams,ORD94274,Completed,Tammy Jones,Won,75.68
+2023-01-01,South,P001,Widget_A,5845,385896.04,367999.99,385896.04,C08092,"Finley, Weaver and Leon",ORD05627,Cancelled,Dorothy Dougherty,Lost,81.21
+2023-07-01,South,P002,Widget_B,9233,822252.23,788926.31,822252.23,C74425,Vega Inc,ORD50734,Completed,Joel Lawrence,Won,88.85
+2022-08-01,South,P002,Widget_B,5082,457028.82,438169.76,457028.82,C59777,Hall-Doyle,ORD28137,Completed,Lisa Castro,Won,74.24
+2025-01-01,West,P005,Widget_E,2701,143464.65,138654.0,143464.65,C68340,"Hayes, Gonzalez and Ball",ORD17265,Completed,Jacob Lee,Lead,82.55
+2025-03-01,North,P003,Widget_C,9079,663894.07,664117.05,663894.07,C78719,"Lopez, Ward and Davis",ORD80029,Completed,Heidi Ingram,Won,81.86
+2023-06-01,West,P002,Widget_B,3589,187063.97,191118.05,187063.97,C39039,"Murphy, Sanchez and Garza",ORD44851,Completed,Timothy Sharp,Lost,80.14
+2024-09-01,South,P001,Widget_A,2125,188117.19,190966.17,188117.19,C04812,Wells PLC,ORD86275,Completed,Brian Dixon,Won,90.47
+2023-02-01,South,P001,Widget_A,4739,292087.56,305968.0,292087.56,C53643,Schroeder-Moore,ORD87917,Completed,Shane Brooks,Lost,92.96
+2024-01-01,North,P002,Widget_B,2913,198902.48,189854.75,198902.48,C15685,Freeman-Hanson,ORD99898,Completed,Laura Hughes,Lost,70.94
+2024-09-01,North,P005,Widget_E,1763,155276.36,148765.19,155276.36,C27380,"Guerrero, Mcconnell and Fuller",ORD04423,Completed,Scott Wells,Won,84.49
+2023-10-01,South,P002,Widget_B,4322,359868.72,373801.8,359868.72,C22341,"Kim, Jordan and Foley",ORD45195,Completed,Craig Meadows,Won,78.23
+2022-09-01,North,P001,Widget_A,7433,670291.72,690928.34,670291.72,C53771,"Ferguson, Montoya and Edwards",ORD88522,Completed,Frederick Lopez,Won,94.13
+2024-01-01,North,P004,Widget_D,9331,711146.57,680039.95,711146.57,C95137,"Shaw, Hernandez and Griffin",ORD15549,Completed,Brittany Ortiz,Won,81.37
+2022-12-01,South,P005,Widget_E,7652,506177.31,524051.72,506177.31,C98465,Coleman-Mcdaniel,ORD88125,Completed,Matthew Warren,Won,75.93
+2023-11-01,North,P004,Widget_D,3385,292440.26,278367.96,292440.26,C42335,Vance-Leonard,ORD13947,Completed,Jay Strong,Won,85.45
+2024-10-01,North,P003,Widget_C,8391,717508.73,742212.12,717508.73,C97281,"Lee, Reyes and Dickerson",ORD35414,Completed,Kevin Mccall,Won,88.31
+2024-12-01,North,P003,Widget_C,2307,129245.69,124846.94,129245.69,C29992,"Torres, Gallegos and Lopez",ORD29416,Completed,Kaitlyn Owens,Lost,76.36
+2022-10-01,West,P004,Widget_D,8585,638720.72,616914.96,638720.72,C24883,Combs-Anderson,ORD77184,Completed,Bryan Page,Lead,73.64
+2023-08-01,South,P002,Widget_B,8871,551578.69,555284.81,551578.69,C18613,Williams-Poole,ORD77569,Completed,Grant Porter,Lost,81.34
+2024-03-01,South,P002,Widget_B,2163,207065.51,214435.05,207065.51,C75886,Price-Simmons,ORD36543,Completed,Shannon Ayala,Won,80.87
+2025-01-01,West,P003,Widget_C,2660,168085.07,174875.28,168085.07,C78989,Jones Inc,ORD45187,Completed,Sarah Davis,Lost,79.72
+2025-05-01,South,P004,Widget_D,3965,233902.31,244170.32,233902.31,C22766,Barnes Inc,ORD77740,Cancelled,Brandy Jacobs,Lost,79.57
+2022-10-01,South,P001,Widget_A,6448,367544.79,375965.18,367544.79,C51588,"Davidson, Wilson and Hernandez",ORD41442,Completed,Eric Snyder,Lead,80.56
+2023-01-01,West,P002,Widget_B,5009,268262.31,261228.05,268262.31,C75540,Jackson-Ward,ORD71135,Completed,David Cooper,Won,85.9
+2022-10-01,North,P003,Widget_C,8898,579805.39,588048.69,579805.39,C33677,"Velez, Thompson and Pierce",ORD84113,Completed,Amy Andrews,Won,89.07
+2022-09-01,North,P005,Widget_E,9353,760102.09,746020.99,760102.09,C50330,"Walsh, Mercado and Adams",ORD81090,Completed,Taylor Bender,Won,71.15
+2024-03-01,South,P004,Widget_D,1486,90805.97,93874.84,90805.97,C68729,"Silva, Mcintosh and Martinez",ORD88997,Completed,Keith Cole,Lost,89.37
+2022-09-01,South,P004,Widget_D,4460,240806.97,249058.99,240806.97,C26796,"Monroe, Lindsey and Calderon",ORD92222,Completed,Andrew Andrews,Won,94.46
+2025-03-01,South,P004,Widget_D,5546,519149.82,499536.76,519149.82,C89842,Brown Ltd,ORD73269,Cancelled,Mr. Charles Hernandez DDS,Won,70.62
+2023-07-01,South,P001,Widget_A,5663,337380.42,337894.05,337380.42,C05481,Simpson and Sons,ORD88677,Cancelled,Jennifer Harvey,Won,86.89
+2024-12-01,South,P003,Widget_C,9883,551506.46,556802.55,551506.46,C14794,Pham Ltd,ORD03351,Completed,Jennifer Kennedy,Won,77.96
+2023-01-01,South,P005,Widget_E,9246,701922.97,673336.14,701922.97,C50593,"Walker, Mckay and Tucker",ORD90495,Completed,Charles Jones,Lead,72.63
+2025-04-01,West,P001,Widget_A,3770,356635.51,360149.96,356635.51,C34480,Johnson and Sons,ORD22060,Completed,Gabrielle Bailey,Lost,79.89
+2024-02-01,South,P002,Widget_B,4579,383347.17,382262.65,383347.17,C24621,Smith Group,ORD22752,Completed,Brian Newman,Won,89.43
+2024-08-01,South,P003,Widget_C,3760,226745.66,218973.32,226745.66,C28822,Morris-Hicks,ORD06277,Completed,Kelly Wallace,Won,84.6
+2025-01-01,West,P004,Widget_D,4126,330278.15,329295.33,330278.15,C70668,Carter Group,ORD30942,Cancelled,Kyle Moreno,Won,79.98
+2023-01-01,South,P001,Widget_A,6573,488221.04,509722.55,488221.04,C00628,Drake-Lee,ORD66373,Completed,Ryan Johnson,Won,75.77
+2022-05-01,North,P001,Widget_A,8546,461034.21,442670.02,461034.21,C91973,Bishop-Palmer,ORD01703,Completed,Nicole Knight,Won,85.53
+2024-05-01,West,P003,Widget_C,6836,397147.84,404422.29,397147.84,C97607,House-Gilbert,ORD07372,Completed,Wanda Bell,Won,90.45
+2025-02-01,North,P005,Widget_E,1816,157552.4,160348.24,157552.4,C24158,"Ritter, Schmidt and Peters",ORD14724,Completed,Aimee Houston,Won,93.03
+2022-10-01,West,P005,Widget_E,3729,336174.95,326187.27,336174.95,C47664,"Taylor, Wilson and Sanchez",ORD17187,Completed,Cory Roach,Lost,89.39
+2023-07-01,South,P002,Widget_B,2786,229570.92,238163.11,229570.92,C61404,"Salazar, Smith and Munoz",ORD64790,Completed,James Oneill,Won,90.89
+2023-01-01,South,P005,Widget_E,6943,376124.53,375489.44,376124.53,C41998,"Davis, Valenzuela and Grant",ORD47220,Completed,Sarah Merritt,Won,90.69
+2024-10-01,West,P001,Widget_A,9421,522837.17,519343.28,522837.17,C00905,Perry-Silva,ORD46615,Completed,Alejandra Garcia,Won,90.38
+2024-12-01,West,P005,Widget_E,2423,232211.69,241331.27,232211.69,C95161,Brown LLC,ORD79618,Completed,Jennifer Mason,Won,81.48
+2023-05-01,West,P005,Widget_E,6042,587598.03,580848.31,587598.03,C20597,"Henderson, Tanner and Brown",ORD06112,Completed,Antonio Daugherty,Lost,90.58
+2024-03-01,South,P002,Widget_B,9478,833972.8,844258.54,833972.8,C42495,Sanders Group,ORD34680,Completed,Matthew Young,Won,90.65
+2023-09-01,South,P004,Widget_D,3631,361422.86,374355.69,361422.86,C39041,Hughes-Warner,ORD83207,Cancelled,Charles Washington,Won,72.16
+2022-09-01,West,P002,Widget_B,5312,453360.86,455613.53,453360.86,C60615,Robertson-Morgan,ORD14734,Cancelled,Julia Lee,Won,72.15
+2023-07-01,South,P001,Widget_A,9249,879405.85,886043.75,879405.85,C21254,Riley-Myers,ORD50417,Completed,Jennifer Wright,Lost,76.75
+2023-06-01,South,P005,Widget_E,6054,329452.71,335949.32,329452.71,C98614,Turner-Clark,ORD00338,Cancelled,Jonathan Roth,Won,76.14
+2024-01-01,North,P004,Widget_D,4975,476530.11,496343.29,476530.11,C44111,"Gomez, Miller and Mills",ORD57085,Completed,Teresa Thompson,Won,83.7
+2024-09-01,North,P004,Widget_D,8707,599336.37,627087.0,599336.37,C89475,"Gomez, Santana and Harvey",ORD97252,Completed,David Logan,Lost,77.45
+2023-09-01,South,P001,Widget_A,2408,175185.14,179297.64,175185.14,C72124,"Rogers, Little and Foley",ORD98624,Completed,Bruce James,Won,76.25
+2022-07-01,South,P001,Widget_A,2689,253928.36,243946.04,253928.36,C28970,Gomez-Roberts,ORD93159,Completed,Danielle Carlson,Won,72.08
+2025-03-01,South,P003,Widget_C,1913,102875.15,100901.44,102875.15,C63446,Torres-Rhodes,ORD94987,Completed,Michele Contreras,Won,76.84
+2023-08-01,North,P003,Widget_C,3609,318214.85,316977.28,318214.85,C25970,"Mason, Adams and Payne",ORD37134,Completed,Michael Flores,Won,87.84
+2024-09-01,West,P002,Widget_B,6621,599931.48,623158.63,599931.48,C17812,Richards PLC,ORD93509,Completed,Michelle Green,Won,82.66
+2023-07-01,North,P001,Widget_A,9805,677596.57,644684.6,677596.57,C85124,Clark-Todd,ORD23237,Completed,Gary Ward,Won,71.52
+2023-12-01,South,P002,Widget_B,7414,690936.41,656916.97,690936.41,C30639,"Davenport, Smith and Tucker",ORD55454,Completed,Joseph Walters,Won,84.5
+2023-08-01,South,P005,Widget_E,2433,160864.91,162774.24,160864.91,C03751,"Downs, Curtis and Mercado",ORD71043,Completed,Kim Gonzalez,Won,82.79
+2024-05-01,West,P004,Widget_D,9422,513838.15,504443.96,513838.15,C86667,"Herrera, Lane and Wagner",ORD27448,Cancelled,Scott Anderson,Won,79.48
+2024-05-01,North,P002,Widget_B,8534,697378.58,708097.65,697378.58,C19727,"Vance, Yu and Williamson",ORD31385,Completed,Benjamin Kelly,Lost,80.05
+2023-04-01,West,P005,Widget_E,3045,292178.49,290891.52,292178.49,C01868,Espinoza-Oconnor,ORD56782,Completed,Andrea Noble,Lost,89.83
+2023-07-01,South,P002,Widget_B,3160,286835.4,290848.41,286835.4,C07495,"Snow, Davis and Hamilton",ORD36776,Completed,Michael Wright,Won,94.24
+2024-06-01,South,P005,Widget_E,2047,156363.49,163088.94,156363.49,C99392,"Thompson, Bell and Walters",ORD49530,Completed,Andrea Shields,Lost,86.5
+2024-06-01,West,P005,Widget_E,2367,146070.41,151409.49,146070.41,C79628,Brown and Sons,ORD12969,Completed,Amy Anderson,Lost,77.04
+2022-08-01,North,P004,Widget_D,1262,82649.21,78723.44,82649.21,C82587,Bruce-Kelly,ORD55329,Completed,Debbie Clark,Won,91.91
+2023-07-01,North,P005,Widget_E,5995,441284.65,431630.21,441284.65,C37899,Bishop-Bray,ORD84497,Completed,Charles Beck,Lost,94.8
+2023-09-01,North,P001,Widget_A,2092,119870.7,120452.32,119870.7,C27385,Berry-Brennan,ORD57925,Completed,James Hill,Won,85.64
+2024-08-01,West,P003,Widget_C,8855,500202.06,514461.09,500202.06,C96430,"Foster, Rogers and Taylor",ORD10621,Completed,Mrs. Suzanne Sampson DVM,Won,81.75
+2022-07-01,North,P001,Widget_A,1261,64838.39,67652.55,64838.39,C44740,Parrish-Hernandez,ORD13336,Cancelled,Chase Atkinson,Won,81.94
+2023-05-01,West,P003,Widget_C,1601,123371.45,120088.9,123371.45,C93138,Sanders-Roman,ORD69521,Completed,James Evans,Lost,79.62
+2023-09-01,North,P004,Widget_D,7397,498835.37,502920.98,498835.37,C31684,"Brown, Harmon and Martin",ORD85731,Completed,Tiffany Smith,Won,71.34
+2022-11-01,South,P005,Widget_E,6935,351035.74,354127.07,351035.74,C37484,"Franklin, Lee and Perez",ORD82935,Completed,Jacqueline Stout,Won,88.45
+2024-04-01,North,P001,Widget_A,5689,486517.26,476111.95,486517.26,C43522,Rosario-Garrison,ORD86625,Completed,Jermaine Reed,Won,83.27
+2023-01-01,North,P002,Widget_B,2797,140650.56,147162.17,140650.56,C11860,Mann-Thompson,ORD59404,Cancelled,Thomas Thomas,Lost,75.72
+2023-04-01,South,P004,Widget_D,1243,86618.73,89840.2,86618.73,C25451,Brown-Frazier,ORD01015,Completed,James Scott,Lost,79.19
+2025-05-01,South,P001,Widget_A,1825,122853.79,127536.88,122853.79,C95932,"Roberts, Bond and Warren",ORD36813,Completed,Steven Mcdaniel,Lost,85.64
+2022-12-01,North,P004,Widget_D,2013,135194.98,136366.07,135194.98,C08377,"George, Dean and Miller",ORD58691,Completed,Nicholas Clark,Won,93.86
+2025-05-01,South,P002,Widget_B,6032,440368.73,442735.4,440368.73,C32263,"Nichols, Ibarra and Shepard",ORD65287,Completed,Tammy Bennett,Won,83.61
+2023-09-01,South,P003,Widget_C,3063,171188.3,168134.39,171188.3,C06101,Hall-Williams,ORD83541,Completed,Deanna Black,Won,78.06
+2024-10-01,West,P002,Widget_B,6247,570242.24,579173.06,570242.24,C12218,Bradshaw Group,ORD02296,Completed,Bobby Davila,Lost,74.6
+2024-04-01,West,P004,Widget_D,9121,496917.4,516906.71,496917.4,C57915,Cortez-Garrett,ORD34082,Completed,Cindy Clayton,Won,92.67
+2024-05-01,West,P005,Widget_E,1768,121215.41,118514.38,121215.41,C89533,"Walker, Torres and Chase",ORD54373,Completed,Candice Ortega,Lost,78.84
+2025-01-01,South,P004,Widget_D,2844,262992.0,263513.81,262992.0,C53904,Gonzalez-Sims,ORD19513,Completed,Susan Nguyen,Won,88.56
+2024-10-01,North,P004,Widget_D,4668,360837.92,348955.53,360837.92,C56362,Nolan Group,ORD58817,Completed,Christopher Vasquez,Won,70.31
+2023-07-01,South,P001,Widget_A,9316,701482.0,706513.13,701482.0,C70491,Anderson-Nichols,ORD24524,Completed,Aaron Carpenter,Won,93.35
+2025-03-01,West,P001,Widget_A,1989,191320.98,199209.98,191320.98,C75583,Davis LLC,ORD68889,Completed,Carrie Miller,Lead,81.69
+2023-05-01,West,P005,Widget_E,9174,572254.67,573532.37,572254.67,C24110,"Conley, Hill and Villa",ORD23000,Completed,Karen Chen,Won,84.77
+2024-01-01,South,P002,Widget_B,8178,783693.3,771861.65,783693.3,C09874,Allen and Sons,ORD21990,Completed,Brian Scott,Lost,82.9
+2024-03-01,South,P004,Widget_D,4476,331172.51,323416.49,331172.51,C22346,"Stewart, Kent and Burns",ORD77574,Completed,Ryan Hall,Won,85.65
+2023-07-01,North,P003,Widget_C,2560,198098.95,198998.72,198098.95,C66915,Pratt Inc,ORD32039,Completed,Robert Cole,Won,76.91
+2023-12-01,West,P003,Widget_C,8376,633144.57,651616.27,633144.57,C65554,"Fuentes, Moore and Lewis",ORD60097,Completed,Colleen Rangel,Lost,85.61
+2023-01-01,North,P002,Widget_B,6812,658307.96,665209.98,658307.96,C36104,"Cooper, Carter and Duran",ORD96063,Completed,John Miranda,Won,94.77
+2022-08-01,North,P005,Widget_E,7220,393366.02,380090.06,393366.02,C69481,"Murphy, Berry and Clay",ORD94531,Completed,Angela Bradford,Won,88.87
+2024-03-01,South,P002,Widget_B,7648,385830.4,394668.59,385830.4,C09406,Hayes-Flowers,ORD43222,Completed,Valerie Ortiz,Won,82.27
+2023-01-01,North,P003,Widget_C,8947,532335.39,509974.14,532335.39,C02213,"Stokes, Baker and Williams",ORD35395,Completed,Beth Fisher,Won,83.28
+2023-08-01,West,P003,Widget_C,1301,92055.1,92922.52,92055.1,C58837,Ramsey Group,ORD08664,Completed,Rhonda Peterson,Won,79.81
+2023-11-01,West,P004,Widget_D,1946,152233.59,148819.19,152233.59,C27856,Taylor PLC,ORD47267,Completed,Robert Gamble,Lost,91.63
+2024-10-01,West,P005,Widget_E,1517,150615.45,147609.45,150615.45,C57016,Cox-Moore,ORD20552,Completed,Elizabeth Smith,Won,81.16
+2022-05-01,South,P003,Widget_C,8472,736836.09,749437.97,736836.09,C25974,Robinson-Thomas,ORD25569,Completed,Sherry Bailey,Won,86.62
+2025-03-01,North,P002,Widget_B,6389,417918.95,404095.92,417918.95,C00805,Taylor PLC,ORD56098,Completed,Julie Middleton,Lost,71.05
+2023-12-01,North,P005,Widget_E,3128,161748.92,165843.31,161748.92,C22834,Gordon-Harvey,ORD07199,Completed,Connor Lyons,Lost,74.42
+2024-04-01,West,P005,Widget_E,4820,322359.77,313543.22,322359.77,C83745,White-Chavez,ORD25497,Completed,Shannon Goodman,Lead,74.11
+2022-10-01,West,P005,Widget_E,6848,558817.31,562721.73,558817.31,C50293,Pham Ltd,ORD25681,Completed,Donald Sanchez,Won,88.42
+2024-04-01,South,P001,Widget_A,5795,375688.17,365900.41,375688.17,C87606,"Johnson, Crane and Gross",ORD05723,Completed,Thomas Howell,Won,77.44
+2024-04-01,West,P003,Widget_C,2182,207980.07,211850.04,207980.07,C97764,"Bauer, Banks and Rogers",ORD74720,Completed,Nancy Stephenson,Won,94.06
+2023-02-01,West,P001,Widget_A,4517,415076.87,408302.01,415076.87,C35640,Horn-Roach,ORD47643,Completed,Theresa Long,Won,75.56
+2022-08-01,North,P005,Widget_E,8998,726804.04,742318.07,726804.04,C17264,"Carey, Haynes and Dawson",ORD74261,Completed,Julie Brown,Lead,80.09
+2025-04-01,West,P003,Widget_C,1723,156068.21,162478.21,156068.21,C44516,Ray Ltd,ORD96270,Completed,Shelby Brown,Won,73.08
+2022-06-01,North,P001,Widget_A,6535,511782.17,496447.27,511782.17,C77101,Turner-Lynn,ORD47907,Cancelled,Wendy Johnson,Won,90.96
+2024-05-01,West,P004,Widget_D,9261,469121.8,448149.96,469121.8,C67838,Herman and Sons,ORD25482,Completed,Austin Schmidt,Won,90.76
+2023-02-01,West,P002,Widget_B,2419,164059.58,168175.62,164059.58,C03513,Bowers and Sons,ORD58908,Completed,Cynthia Lowe,Won,81.82
+2023-01-01,West,P005,Widget_E,8178,688934.97,709310.12,688934.97,C62526,"Jackson, Castro and Acosta",ORD77466,Completed,Amanda Taylor,Won,72.06
+2025-04-01,South,P003,Widget_C,5894,430288.38,414320.9,430288.38,C30619,"Lopez, Johnson and Allen",ORD57798,Completed,Michelle Lindsey,Lost,72.11
+2024-05-01,North,P005,Widget_E,9218,782189.04,807188.8,782189.04,C48447,Jones Group,ORD89532,Completed,John Shah,Lead,92.01
+2025-05-01,North,P005,Widget_E,7118,384123.32,393407.66,384123.32,C68235,Allen-Rodriguez,ORD94738,Completed,Jeremy Hall,Won,88.7
+2024-12-01,South,P001,Widget_A,1284,104712.85,104109.55,104712.85,C27932,"Morris, Rogers and Gates",ORD04216,Completed,Kristina Graves,Won,74.95
+2022-11-01,North,P004,Widget_D,1101,103299.29,102152.9,103299.29,C23020,"Morales, Grimes and Velazquez",ORD87486,Completed,Jose Mcdaniel,Lost,80.69
+2022-06-01,North,P003,Widget_C,7384,466201.55,476774.96,466201.55,C06760,Patel and Sons,ORD83989,Completed,Nancy Williams,Lost,83.88
+2022-05-01,South,P002,Widget_B,1809,179562.2,184709.29,179562.2,C04745,Rodgers PLC,ORD31125,Cancelled,Laura Woods,Won,93.67
+2023-02-01,West,P005,Widget_E,7257,664980.58,696072.84,664980.58,C52686,"Miranda, Cruz and Garcia",ORD10821,Completed,Joshua Fox MD,Lost,87.7
+2024-11-01,North,P003,Widget_C,7364,465838.01,445014.88,465838.01,C39779,Green and Sons,ORD23689,Completed,Rachael Smith,Won,80.52
+2023-08-01,West,P005,Widget_E,6459,363100.03,359483.91,363100.03,C98919,Miller PLC,ORD77523,Completed,Ricky Fisher,Won,74.44
+2022-06-01,South,P005,Widget_E,5182,336300.24,327403.28,336300.24,C80514,Robinson-Charles,ORD66730,Completed,Jesse Johnson,Lost,86.87
+2023-11-01,North,P003,Widget_C,1950,122105.02,123727.51,122105.02,C03187,"Lang, Ayers and Sanders",ORD64180,Completed,Danielle Butler,Won,82.12
+2023-10-01,South,P003,Widget_C,9033,851389.77,882007.48,851389.77,C54947,Ward-Collins,ORD87353,Completed,Olivia Reid,Won,73.33
+2023-02-01,South,P005,Widget_E,6032,525143.89,507000.22,525143.89,C02152,"Anderson, Wood and Campbell",ORD59670,Completed,Maria Christian,Won,75.78
+2024-01-01,North,P002,Widget_B,5626,454998.3,441114.4,454998.3,C20058,Christian-Lee,ORD48179,Cancelled,Laura Wu,Won,94.58
+2024-04-01,North,P004,Widget_D,8981,747543.2,748218.74,747543.2,C80941,Parker Group,ORD38431,Completed,Anthony Harrison,Won,85.64
+2022-09-01,North,P004,Widget_D,7127,422848.1,418116.81,422848.1,C72218,Foster Ltd,ORD87978,Completed,Leslie Brown,Won,79.21
+2023-01-01,South,P001,Widget_A,5418,344163.83,353840.16,344163.83,C69595,Carter-Rivers,ORD67841,Completed,Barbara Booker,Won,89.6
+2025-04-01,West,P005,Widget_E,4779,266180.41,274238.63,266180.41,C99155,"Anderson, Simpson and Pearson",ORD21827,Cancelled,Logan Combs,Won,94.22
+2024-10-01,North,P003,Widget_C,7157,624557.56,649475.67,624557.56,C81075,Murphy-Chavez,ORD10721,Completed,Jodi Bowen,Won,89.42
+2024-01-01,South,P001,Widget_A,2508,180546.06,180170.49,180546.06,C71607,Young-Jordan,ORD92637,Completed,Dennis Thornton,Won,84.36
+2024-05-01,South,P003,Widget_C,2665,217645.54,210162.39,217645.54,C38525,Rice PLC,ORD60892,Completed,Michael Smith,Won,85.28
+2024-05-01,West,P003,Widget_C,6245,499551.84,498840.73,499551.84,C30604,"Hughes, Taylor and Bass",ORD93841,Completed,Brittany Sanchez,Lead,85.58
+2025-03-01,South,P001,Widget_A,8283,576718.9,580779.22,576718.9,C04100,Mclaughlin Group,ORD53937,Completed,Scott Moran,Won,92.21
+2022-08-01,South,P002,Widget_B,1951,146873.63,149429.83,146873.63,C98495,"Evans, Williamson and Brown",ORD09752,Cancelled,Travis Kennedy,Won,77.61
+2024-06-01,West,P004,Widget_D,5400,294682.13,287378.82,294682.13,C73336,Huff-Watson,ORD19901,Completed,Jennifer Zimmerman,Won,75.15
+2022-07-01,North,P002,Widget_B,3707,220518.49,218260.78,220518.49,C65849,Pitts Ltd,ORD42516,Completed,Brandon Yoder,Won,92.21
+2024-10-01,North,P004,Widget_D,1339,86647.78,89206.51,86647.78,C21455,"Jones, Hernandez and Castillo",ORD92904,Completed,Billy Taylor,Won,87.05
+2024-06-01,South,P005,Widget_E,8984,524754.51,517058.59,524754.51,C28851,Vincent-Brown,ORD99530,Completed,Jeffrey Hawkins,Won,84.1
+2022-08-01,South,P001,Widget_A,4360,317140.64,302900.18,317140.64,C26827,Wallace-Jackson,ORD87579,Completed,Miranda Hunt,Won,86.62
+2022-09-01,South,P002,Widget_B,5797,305729.84,291422.09,305729.84,C94665,Romero Ltd,ORD28199,Completed,Lori Terry,Lost,90.26
+2023-08-01,South,P002,Widget_B,1263,106269.15,108904.31,106269.15,C43196,Watson PLC,ORD84703,Completed,Kimberly Gonzalez,Won,87.98
+2023-07-01,North,P003,Widget_C,8311,798531.44,769524.26,798531.44,C93804,Dougherty-Miller,ORD99308,Completed,Linda Palmer,Won,84.95
+2025-01-01,South,P004,Widget_D,9737,604493.62,628960.71,604493.62,C54574,White Ltd,ORD58296,Completed,Robert Vaughn,Won,85.27
+2022-12-01,West,P005,Widget_E,9683,530933.52,541595.56,530933.52,C07597,"Hicks, Kelley and Weiss",ORD03752,Completed,Christina Morales PhD,Lead,75.29
+2023-03-01,North,P003,Widget_C,1811,146111.82,142578.59,146111.82,C42420,Gibson and Sons,ORD71675,Completed,Amy Cameron,Lost,83.56
+2025-05-01,South,P003,Widget_C,3656,252354.84,250651.26,252354.84,C89457,Murillo-Allen,ORD11203,Completed,Jason Brady,Won,81.65
+2025-01-01,North,P003,Widget_C,3273,252218.87,263080.06,252218.87,C98952,"Lewis, White and Webster",ORD45905,Completed,Dominique Garner,Won,74.93
+2023-08-01,South,P003,Widget_C,8575,453292.24,457245.45,453292.24,C54030,Neal-Clark,ORD29582,Completed,Victor Ross,Lead,86.48
+2024-07-01,South,P004,Widget_D,1553,80625.77,77470.79,80625.77,C36498,Green PLC,ORD67909,Completed,Mary Sims,Lost,79.28
+2023-10-01,South,P002,Widget_B,5896,519829.85,500278.46,519829.85,C37200,Bishop Ltd,ORD83021,Completed,Elizabeth Allen,Won,78.85
+2024-05-01,North,P004,Widget_D,4133,279872.55,279218.75,279872.55,C18437,Wright Ltd,ORD17708,Completed,Sarah Bruce,Lead,93.88
+2022-10-01,West,P004,Widget_D,4466,379787.75,364480.59,379787.75,C21470,"Johnson, Baker and Romero",ORD25075,Cancelled,Wyatt Anderson,Won,93.06
+2022-05-01,South,P003,Widget_C,2788,201023.06,209899.08,201023.06,C43881,Leonard-Ford,ORD65597,Completed,Christopher Brown,Won,76.21
+2024-10-01,West,P004,Widget_D,9125,763833.53,760802.3,763833.53,C67717,Whitaker PLC,ORD82614,Completed,Christopher Rush,Lost,71.88
+2023-08-01,North,P005,Widget_E,9343,496443.68,518078.52,496443.68,C44269,Thomas and Sons,ORD73307,Completed,Carol Bates DDS,Lead,94.39
+2022-12-01,South,P002,Widget_B,3816,371611.43,361007.71,371611.43,C43679,"Smith, Garcia and Obrien",ORD73555,Completed,Stephen Nichols,Won,92.44
+2024-03-01,West,P005,Widget_E,1634,146438.55,145710.27,146438.55,C69979,Thomas LLC,ORD07413,Completed,Donald Schultz,Won,89.3
+2025-01-01,South,P002,Widget_B,1605,149864.05,148781.67,149864.05,C82574,"Davis, Jackson and Smith",ORD46291,Completed,Sean Mcgee,Won,91.72
+2024-08-01,West,P003,Widget_C,5931,325635.26,336579.15,325635.26,C17629,Gregory-Dixon,ORD54116,Completed,Kelly Rivera,Won,91.39
+2023-01-01,West,P004,Widget_D,8497,427394.63,446750.21,427394.63,C04677,Shannon Inc,ORD88868,Cancelled,Zoe Castillo,Won,82.56
+2023-12-01,South,P001,Widget_A,4536,358698.19,345243.1,358698.19,C10847,"Anderson, Jordan and Chambers",ORD72963,Completed,Justin Hill,Won,78.48
+2023-10-01,West,P004,Widget_D,7798,406605.89,389904.4,406605.89,C40756,"Guzman, Griffin and Sawyer",ORD36594,Completed,Ray Paul,Lost,90.97
+2024-05-01,South,P002,Widget_B,4682,404991.99,400835.6,404991.99,C86726,Duncan-Boyer,ORD43763,Completed,Sarah Rodriguez,Won,93.35
+2025-02-01,West,P004,Widget_D,9497,588476.22,603610.81,588476.22,C24973,Foster-Harris,ORD75264,Completed,Amanda Norris,Won,80.09
+2023-08-01,South,P004,Widget_D,5314,497596.12,497261.8,497596.12,C02524,"Phelps, Russell and Schwartz",ORD02742,Completed,Dr. Craig Brown,Won,94.87
+2025-04-01,South,P005,Widget_E,3648,198479.68,205061.31,198479.68,C95707,"Robertson, Carlson and Jimenez",ORD47452,Completed,Mary West,Won,91.96
+2022-07-01,South,P004,Widget_D,7960,449776.72,444025.05,449776.72,C50946,Hawkins-Mcintyre,ORD40833,Completed,Aaron Suarez,Won,94.88
+2023-12-01,North,P001,Widget_A,9697,538850.8,562119.73,538850.8,C33838,Avila-Campbell,ORD61872,Completed,Casey Dean,Lost,73.29
+2023-08-01,North,P005,Widget_E,3369,324559.8,337034.1,324559.8,C55710,Powers-Hernandez,ORD80346,Completed,Janice Cole,Won,77.2
+2022-06-01,North,P001,Widget_A,8439,798921.45,768914.13,798921.45,C01486,"Smith, Mata and Kelly",ORD63764,Completed,Karen Montgomery,Won,73.32
+2025-01-01,North,P005,Widget_E,1840,149908.36,154941.27,149908.36,C50815,"Norris, Graham and Simmons",ORD13422,Completed,Zachary Branch,Won,93.63
+2024-08-01,West,P005,Widget_E,8782,479422.21,500988.86,479422.21,C46121,Moore-Smith,ORD46769,Completed,Kyle Sullivan,Won,93.55
+2023-04-01,North,P003,Widget_C,6211,489445.25,493814.34,489445.25,C52595,George-Banks,ORD93948,Completed,Anna Aguirre,Lost,84.98
+2022-11-01,South,P001,Widget_A,7679,494280.76,476257.3,494280.76,C53493,Clark Ltd,ORD83474,Completed,Christopher Castillo,Lead,86.22
+2025-01-01,West,P003,Widget_C,4506,416026.8,405158.28,416026.8,C79763,Collins Group,ORD42530,Completed,Lisa Wilson,Lost,92.63
+2022-09-01,West,P002,Widget_B,2357,156471.58,162191.79,156471.58,C00387,White-Martinez,ORD43688,Completed,Daniel Flores,Won,73.05
+2022-12-01,West,P001,Widget_A,3488,253553.22,244493.41,253553.22,C82726,"Mcpherson, Gutierrez and Mullins",ORD34021,Completed,Ashley Neal,Won,78.16
+2024-07-01,South,P004,Widget_D,7977,614746.54,621158.32,614746.54,C38610,"Richardson, Sanders and Smith",ORD89340,Completed,Carlos Smith,Won,78.06
+2022-07-01,South,P004,Widget_D,5623,465433.82,474087.48,465433.82,C67328,Nguyen-Kerr,ORD04400,Completed,Dr. Aaron Johnson,Won,90.59
+2023-01-01,North,P004,Widget_D,9950,614459.98,618252.0,614459.98,C17826,"Rivera, Stone and Kane",ORD54286,Completed,Paula Lewis,Won,89.28
+2023-12-01,North,P002,Widget_B,9625,723306.87,739709.22,723306.87,C68701,Wilson-Cooper,ORD98659,Completed,Shelby Reynolds,Won,88.08
+2022-08-01,North,P001,Widget_A,7303,701632.04,723020.49,701632.04,C21016,Smith-Brown,ORD01878,Completed,Kaitlyn Banks,Won,77.9
+2022-09-01,West,P003,Widget_C,9619,563646.26,590559.24,563646.26,C71542,"Carter, Pittman and Dixon",ORD07041,Completed,Joel Padilla,Won,79.23
+2023-07-01,North,P004,Widget_D,3628,341576.67,352578.57,341576.67,C14400,Gilbert and Sons,ORD49620,Completed,Benjamin Lopez,Won,71.76
+2024-02-01,West,P004,Widget_D,3121,194188.65,199674.54,194188.65,C96007,Peters-Mendoza,ORD71545,Completed,Christina Gallegos,Won,87.24
+2024-08-01,North,P001,Widget_A,6124,307079.34,295552.23,307079.34,C24885,Howard-Ramos,ORD31013,Completed,Christopher Hamilton,Won,91.38
+2023-03-01,West,P002,Widget_B,9817,588662.03,565035.8,588662.03,C12380,"Ward, Ryan and Martin",ORD96152,Completed,Brenda White,Won,93.65
+2022-10-01,North,P004,Widget_D,2761,191877.63,191309.29,191877.63,C71844,"Hopkins, Sims and Mcdonald",ORD73121,Cancelled,Jared Smith,Won,83.56
+2024-08-01,North,P005,Widget_E,2183,199324.25,204230.97,199324.25,C63293,Anderson-Chan,ORD44277,Cancelled,Craig Garcia,Won,91.88
+2022-10-01,South,P001,Widget_A,2754,273149.97,282561.16,273149.97,C09142,Curry-Taylor,ORD09447,Completed,Jessica Anderson,Won,90.71
+2025-04-01,North,P003,Widget_C,5728,423563.47,433686.15,423563.47,C93344,Jones-Salas,ORD41799,Completed,Alexander Adams,Lost,91.06
+2023-12-01,North,P002,Widget_B,6718,617740.28,598204.05,617740.28,C78401,Baird-Hughes,ORD86003,Completed,Christopher Torres,Lost,82.23
+2023-09-01,West,P001,Widget_A,8090,522687.09,525523.43,522687.09,C21477,"Chandler, Nelson and Sampson",ORD71025,Completed,Ronald Jones,Won,93.13
+2024-10-01,South,P004,Widget_D,2637,191707.14,190257.07,191707.14,C28057,"Davis, Smith and Reed",ORD32326,Completed,Emily Green,Lost,79.51
+2025-02-01,West,P001,Widget_A,1678,109029.05,109558.06,109029.05,C11394,Irwin-Harris,ORD01327,Completed,Shelly Franklin,Won,93.2
+2023-02-01,South,P002,Widget_B,1070,54835.45,55064.01,54835.45,C13843,Johnson-Davis,ORD78244,Completed,Megan Howell,Won,86.7
+2023-03-01,North,P002,Widget_B,9801,930199.47,949215.56,930199.47,C36094,Perez-Richardson,ORD30823,Completed,Anna Avery,Won,94.91
+2022-12-01,North,P002,Widget_B,8085,738078.74,730947.56,738078.74,C76512,"Williams, Petersen and Ray",ORD27836,Completed,Anthony Taylor,Won,85.97
+2022-05-01,South,P003,Widget_C,2310,209469.21,206096.97,209469.21,C28115,"Wiggins, Brewer and Munoz",ORD86246,Completed,Bailey Knapp,Lead,88.99
+2023-01-01,North,P005,Widget_E,3457,254517.37,264423.13,254517.37,C56987,Tran-Patel,ORD34023,Completed,Tiffany Sutton,Won,77.56
+2022-09-01,South,P002,Widget_B,3896,283316.22,282396.54,283316.22,C63825,White-Kramer,ORD45646,Completed,Valerie Henderson,Won,90.71
+2024-04-01,North,P004,Widget_D,1365,95903.03,91314.87,95903.03,C16031,Salas LLC,ORD55437,Completed,Dylan Daniel,Won,87.65
+2024-01-01,West,P004,Widget_D,7860,644653.97,663582.91,644653.97,C81737,"Washington, Miller and Price",ORD21198,Completed,Natasha Banks,Lead,70.67
+2023-07-01,West,P005,Widget_E,8408,680849.04,712106.91,680849.04,C28218,Day Inc,ORD83359,Completed,Corey Gonzalez,Won,80.16
+2024-01-01,North,P003,Widget_C,6503,400825.74,399380.7,400825.74,C13159,Price-Allen,ORD02266,Cancelled,Robert Williams,Won,76.02
+2024-12-01,South,P003,Widget_C,5366,361733.94,370501.64,361733.94,C91811,Johnson-Mckee,ORD62731,Completed,Stephanie Carter,Won,70.72
+2024-01-01,North,P001,Widget_A,6441,477176.29,494855.95,477176.29,C22634,"Ayala, Phillips and Copeland",ORD97131,Completed,Michelle Peters,Won,86.63
+2024-03-01,North,P002,Widget_B,4925,308765.5,309717.9,308765.5,C09105,"Hubbard, Baxter and Henderson",ORD16560,Completed,Krystal Payne,Won,88.51
+2022-08-01,South,P002,Widget_B,1128,71903.24,73345.68,71903.24,C82120,Villarreal-Miller,ORD84391,Completed,Leslie Potter,Won,78.14
+2024-10-01,North,P002,Widget_B,4606,437863.53,434306.65,437863.53,C86254,Peterson-Bailey,ORD82659,Completed,Tracey Mcintyre,Lost,85.91
+2022-11-01,West,P002,Widget_B,7226,664310.62,670883.8,664310.62,C43193,Smith-Allen,ORD27863,Completed,Joseph Duncan,Won,83.51
+2024-03-01,North,P005,Widget_E,3809,291495.97,281380.14,291495.97,C29841,Sandoval-Williams,ORD78700,Completed,Michael Wilson,Won,82.12
+2024-06-01,South,P003,Widget_C,7409,678048.18,697877.36,678048.18,C19608,"Shaffer, Smith and Smith",ORD92318,Completed,Christopher Rodgers,Won,82.42
+2024-09-01,South,P001,Widget_A,6643,501415.49,515607.54,501415.49,C72660,"Riley, Swanson and Mitchell",ORD37230,Completed,Andrea Adams,Won,73.73
+2022-09-01,South,P002,Widget_B,7176,673160.46,697632.72,673160.46,C96313,"Durham, Randall and Myers",ORD86570,Completed,David Barton,Won,85.57
+2023-08-01,South,P005,Widget_E,1463,106071.11,107106.06,106071.11,C81725,Turner Inc,ORD91587,Completed,Dakota Smith Jr.,Won,73.57
+2024-09-01,West,P004,Widget_D,6971,480238.47,470205.74,480238.47,C39617,"Becker, Koch and Clark",ORD71124,Completed,Stephanie Johnson,Lost,74.24
+2025-03-01,West,P005,Widget_E,2474,221830.98,219654.73,221830.98,C55302,Walker PLC,ORD59531,Cancelled,Patrick Gonzalez,Won,88.15
+2023-08-01,South,P003,Widget_C,8613,808235.97,836809.39,808235.97,C71944,Smith-Hill,ORD79742,Completed,Kathryn Ford,Lost,86.13
+2023-02-01,South,P002,Widget_B,2593,141282.01,135625.08,141282.01,C82729,Pope Ltd,ORD18367,Completed,Marcus Ortiz,Won,93.53
+2024-03-01,South,P005,Widget_E,6412,511969.28,519686.31,511969.28,C94712,Perez-Garcia,ORD45236,Completed,Rebecca Lester,Lost,78.4
+2024-11-01,South,P005,Widget_E,5449,536362.84,537563.72,536362.84,C95603,Lopez-Paul,ORD73477,Completed,Heather Murray,Won,88.67
+2023-01-01,South,P002,Widget_B,9681,775131.13,809671.89,775131.13,C92092,"Nelson, Simmons and Hardy",ORD95625,Completed,Russell Brown,Lead,88.67
+2023-11-01,West,P005,Widget_E,8683,434177.11,418877.99,434177.11,C59236,Lee Ltd,ORD15362,Completed,Mary Wong,Lost,90.95
+2025-02-01,South,P003,Widget_C,3112,238923.29,247725.07,238923.29,C11996,"Stephens, Williams and Bailey",ORD83134,Completed,Kristin Johnson,Won,78.72
+2023-11-01,North,P004,Widget_D,3865,204713.66,211700.95,204713.66,C21579,Brewer PLC,ORD39969,Completed,Jason Huynh,Won,84.35
+2023-12-01,South,P002,Widget_B,2864,225824.53,224118.23,225824.53,C19228,Smith-Mejia,ORD10582,Cancelled,Anne Fields,Lost,93.09
+2025-05-01,West,P005,Widget_E,6857,482221.49,485801.21,482221.49,C56940,Wilkerson Ltd,ORD57982,Completed,Joanna Sullivan,Lost,72.12
+2025-01-01,South,P001,Widget_A,3286,216426.0,222437.76,216426.0,C14236,Jones Inc,ORD23900,Completed,Chris Mitchell,Lost,94.72
+2024-08-01,West,P004,Widget_D,2825,164238.76,170075.8,164238.76,C06725,Washington-Ferguson,ORD92128,Cancelled,Tracy Powell,Lead,74.94
+2024-12-01,North,P001,Widget_A,8612,527240.25,540126.11,527240.25,C54156,Garcia-Frost,ORD13494,Completed,Sydney Suarez,Won,88.85
+2023-05-01,South,P003,Widget_C,5891,557833.43,551031.68,557833.43,C98611,"Arnold, Collins and Watkins",ORD57018,Completed,John Cole,Lead,74.43
+2022-07-01,West,P001,Widget_A,4260,346057.73,347823.54,346057.73,C41390,Daniels PLC,ORD31429,Completed,David Boyd,Won,91.7
+2024-10-01,North,P003,Widget_C,2692,157178.02,153487.13,157178.02,C88065,Goodwin-Fowler,ORD78490,Completed,Michelle Carlson,Won,75.21
+2022-12-01,North,P001,Widget_A,6118,323088.95,337179.73,323088.95,C05000,"Morris, Allen and Wilson",ORD93491,Completed,Kathryn Sullivan,Won,74.51
+2022-09-01,North,P002,Widget_B,9670,620727.48,640071.4,620727.48,C11445,Guerrero-Holloway,ORD18582,Completed,Steven Torres,Lost,84.3
+2025-03-01,South,P001,Widget_A,4973,259111.34,252761.3,259111.34,C00707,Luna-Greer,ORD38047,Completed,Jacob Contreras,Won,91.42
+2024-10-01,West,P005,Widget_E,7273,451246.77,442939.97,451246.77,C49355,Garcia Group,ORD20381,Completed,Kimberly Flores,Lost,90.06
+2023-02-01,North,P004,Widget_D,4341,358379.88,358178.83,358379.88,C62363,"Freeman, Hernandez and Little",ORD46831,Cancelled,Rick Huerta,Won,89.36
+2024-12-01,West,P002,Widget_B,2177,176049.07,175367.4,176049.07,C41721,Clark and Sons,ORD89936,Completed,Latoya Murphy,Won,81.72
+2023-06-01,West,P003,Widget_C,1643,111720.87,108939.78,111720.87,C48736,Martinez-Cooper,ORD13443,Completed,Carlos Powers MD,Lost,85.06
+2022-06-01,North,P005,Widget_E,1064,55523.69,53755.35,55523.69,C37896,"Richardson, Solis and Todd",ORD22582,Completed,Nathan Kirby,Won,82.1
+2024-11-01,South,P001,Widget_A,1818,129841.05,131272.63,129841.05,C48678,Navarro-Love,ORD87962,Completed,Brian Robles,Won,83.86
+2024-08-01,West,P005,Widget_E,4448,243643.94,234074.29,243643.94,C20181,"Meyers, Williams and Mcdaniel",ORD49577,Completed,Jeffrey Wilkerson,Won,91.33
+2024-10-01,West,P005,Widget_E,2808,156837.59,151440.65,156837.59,C58835,Scott-Yang,ORD41929,Cancelled,Craig Alvarez,Won,86.77
+2024-01-01,North,P004,Widget_D,1582,157875.08,152713.11,157875.08,C29628,Weber Ltd,ORD45883,Completed,Gary Rodriguez,Lost,76.38
+2022-05-01,South,P005,Widget_E,3276,191557.22,187397.61,191557.22,C08951,"Thompson, Davis and Woods",ORD38487,Completed,Anthony Morales,Won,88.42
+2022-12-01,West,P003,Widget_C,9784,884199.98,902662.26,884199.98,C27473,Walker PLC,ORD05336,Completed,Carol Cowan,Won,85.5
+2024-11-01,South,P001,Widget_A,8346,632852.7,608931.85,632852.7,C76133,"Phelps, Key and Wood",ORD67309,Completed,Tracy Ramos,Lead,81.63
+2024-05-01,North,P001,Widget_A,7798,596549.39,620695.37,596549.39,C17149,Fuentes Inc,ORD76361,Completed,Stephanie Marshall,Won,75.37
+2022-09-01,West,P001,Widget_A,7656,586878.42,586825.76,586878.42,C51138,"Suarez, Lambert and Hays",ORD10622,Completed,Morgan Haney,Won,94.58
+2022-10-01,South,P002,Widget_B,8876,445091.14,452301.85,445091.14,C90927,Brown-Kline,ORD36020,Completed,Karen Cruz MD,Won,85.4
+2023-08-01,South,P005,Widget_E,9484,517066.78,524370.16,517066.78,C49311,Taylor PLC,ORD01970,Cancelled,Lisa Diaz,Lead,88.41
+2023-09-01,North,P004,Widget_D,7458,450435.67,464589.37,450435.67,C58769,Nelson-Hatfield,ORD66685,Cancelled,Lisa Gallagher,Lost,71.49
+2025-05-01,North,P001,Widget_A,1243,74637.91,74943.15,74637.91,C61022,"Rhodes, White and Robinson",ORD01092,Completed,Robert Jones,Lead,71.92
+2023-07-01,South,P001,Widget_A,7887,605400.67,629661.76,605400.67,C93317,"Moss, Dickson and Brown",ORD10864,Completed,Antonio Jordan,Lost,77.76
+2024-10-01,West,P004,Widget_D,3222,165691.53,169823.33,165691.53,C77759,"Cain, Andrews and Moore",ORD17372,Completed,Richard Petersen,Won,88.21
+2024-08-01,West,P005,Widget_E,8148,783620.89,822232.15,783620.89,C10882,"Garcia, Alexander and Taylor",ORD84849,Completed,Nicholas Osborne,Won,76.67
+2025-01-01,West,P001,Widget_A,3493,312491.83,303977.92,312491.83,C20950,Hayes Ltd,ORD00977,Completed,Amanda Schneider,Lost,91.85
+2025-01-01,West,P005,Widget_E,1678,101406.04,105072.9,101406.04,C80242,Simpson LLC,ORD12210,Completed,Ashley Martinez,Lead,92.07
+2025-01-01,North,P001,Widget_A,5376,359317.52,367418.84,359317.52,C61321,Villarreal-Lewis,ORD49658,Completed,Melinda Short,Won,94.36
+2023-06-01,West,P001,Widget_A,5942,338377.46,346567.68,338377.46,C01166,"Moon, Roberts and Rubio",ORD45833,Completed,Stephanie Mayo,Won,81.05
+2022-05-01,West,P003,Widget_C,1354,120688.24,121747.08,120688.24,C37963,Beck-Powell,ORD99370,Completed,Shari Lozano,Lead,89.08
+2025-04-01,South,P005,Widget_E,3029,273326.64,260869.54,273326.64,C13539,Allen-Burns,ORD57329,Completed,Ronald Walsh,Lost,73.54
+2023-03-01,North,P001,Widget_A,5920,485074.37,489303.5,485074.37,C24475,"Anderson, Hoffman and Davis",ORD55716,Completed,Lynn Nelson,Won,86.09
+2022-12-01,West,P001,Widget_A,1079,68878.08,71831.12,68878.08,C70913,Martin-Jackson,ORD20314,Completed,Daniel Williams,Won,70.36
+2023-05-01,West,P001,Widget_A,5158,375032.63,377355.66,375032.63,C20294,Webster PLC,ORD37204,Completed,Jeremiah Sanford,Won,87.13
+2023-07-01,North,P005,Widget_E,8501,812083.42,826377.95,812083.42,C19399,Fisher PLC,ORD50776,Completed,Scott Cameron,Won,75.75
+2024-08-01,West,P005,Widget_E,4656,446566.06,428463.95,446566.06,C27123,Mills-Mullen,ORD89297,Completed,Thomas Coleman,Won,81.78
+2024-03-01,West,P005,Widget_E,1463,111598.96,111843.9,111598.96,C22133,"Black, Huynh and Spencer",ORD75706,Cancelled,Nicole Avila,Lost,89.66
+2024-01-01,North,P003,Widget_C,9845,835097.87,855723.83,835097.87,C85457,Lester and Sons,ORD56922,Completed,Mr. Lee Villa Jr.,Won,75.08
+2022-09-01,North,P003,Widget_C,7317,683687.6,668609.63,683687.6,C85803,Boyle Inc,ORD19784,Cancelled,Steve Coffey,Won,75.32
+2024-02-01,South,P001,Widget_A,9060,861543.27,841146.77,861543.27,C83441,Curry Group,ORD42832,Completed,Christopher Randall,Won,94.53
+2022-10-01,South,P004,Widget_D,5570,340489.68,345823.25,340489.68,C69765,Taylor-Dixon,ORD51001,Completed,Corey Davis,Won,93.51
+2024-12-01,South,P004,Widget_D,8561,488805.61,477868.3,488805.61,C15861,"Clarke, Conway and Ross",ORD52735,Completed,Kristen Perez,Won,89.57
+2023-11-01,West,P004,Widget_D,4200,352099.51,358101.25,352099.51,C53923,"Cline, Kennedy and Mitchell",ORD25362,Completed,Robin Burke,Lead,88.93
+2024-10-01,West,P001,Widget_A,4315,402197.01,384688.59,402197.01,C52035,Miller-Peters,ORD43537,Completed,Samantha Crawford,Won,72.22
+2025-05-01,West,P003,Widget_C,5518,413896.26,430942.11,413896.26,C68448,"Allen, Smith and Mullen",ORD27947,Completed,Joseph Thomas,Won,80.5
+2024-10-01,North,P003,Widget_C,6533,348178.06,353269.51,348178.06,C19087,"Williams, Munoz and Smith",ORD45175,Completed,Sabrina Robles,Won,74.33
+2022-12-01,North,P002,Widget_B,8111,597103.63,616261.11,597103.63,C23835,Avery-Craig,ORD07798,Completed,Nicholas Miller,Lost,76.94
+2024-10-01,South,P001,Widget_A,7739,419127.23,427160.73,419127.23,C08019,Taylor LLC,ORD73648,Completed,Garrett Mathis,Won,93.13
+2025-04-01,West,P004,Widget_D,2287,127637.22,125407.64,127637.22,C84170,Reynolds-Young,ORD78256,Completed,Elizabeth Carroll,Lost,75.07
+2023-10-01,North,P002,Widget_B,5449,273783.55,261717.73,273783.55,C77343,Jones LLC,ORD12249,Completed,Justin Fuller,Won,70.27
+2023-01-01,West,P004,Widget_D,4807,461065.37,479662.97,461065.37,C88509,Thomas-Harper,ORD87999,Completed,Jacob Jordan,Won,78.19
+2023-02-01,West,P002,Widget_B,1275,121117.24,123944.29,121117.24,C46160,Baker-Ross,ORD19385,Completed,Walter Edwards,Won,76.18
+2022-05-01,North,P001,Widget_A,8939,756421.51,763200.87,756421.51,C97202,Huffman PLC,ORD03343,Completed,David Wright,Lost,92.67
+2023-10-01,North,P004,Widget_D,2071,179545.86,173033.82,179545.86,C84736,Glover PLC,ORD45658,Completed,John Terrell,Lost,78.2
+2022-06-01,West,P004,Widget_D,6645,338672.27,332912.83,338672.27,C71066,Chen and Sons,ORD39523,Completed,Denise Bush,Won,80.6
+2025-02-01,North,P005,Widget_E,1292,116862.23,117977.14,116862.23,C64400,Martinez PLC,ORD56029,Completed,Katherine Poole,Lost,85.82
+2023-07-01,South,P001,Widget_A,9682,935221.46,915039.72,935221.46,C93007,Li Ltd,ORD94412,Completed,Christopher Lara,Won,77.79
+2024-12-01,West,P003,Widget_C,2487,245433.0,240909.64,245433.0,C18379,Valenzuela LLC,ORD10689,Completed,Maurice Rangel,Lost,84.47
+2023-06-01,West,P005,Widget_E,6929,650542.76,653156.85,650542.76,C73557,Evans LLC,ORD84038,Completed,John Thomas,Lost,74.21
+2023-01-01,North,P004,Widget_D,7638,736119.52,703125.75,736119.52,C35902,Logan Ltd,ORD96123,Completed,Debra Harris,Lost,71.5
+2024-06-01,North,P001,Widget_A,7940,544081.77,548505.84,544081.77,C93881,Stephens Ltd,ORD80218,Completed,William Farmer,Lost,77.13
+2023-11-01,North,P001,Widget_A,8574,773116.23,755468.3,773116.23,C04174,Reyes-Miles,ORD59488,Completed,Joseph Smith,Won,89.53
+2025-04-01,South,P003,Widget_C,7456,568894.32,553661.42,568894.32,C73749,Mclean-Brown,ORD12048,Completed,Bryan Benson,Lost,78.02
+2023-12-01,North,P001,Widget_A,6633,593322.87,604152.35,593322.87,C07133,"Lopez, King and Vasquez",ORD57945,Completed,Jeffery Sweeney,Won,72.69
+2024-01-01,West,P005,Widget_E,3579,229435.34,238868.04,229435.34,C25882,"Allen, Mendez and Clark",ORD41423,Completed,John Simmons,Won,70.53
+2024-07-01,West,P005,Widget_E,3134,161328.62,162385.55,161328.62,C28898,Mclean LLC,ORD97587,Cancelled,Heidi Bartlett,Won,72.9
+2023-10-01,South,P003,Widget_C,9766,747925.89,775794.47,747925.89,C21218,"Simpson, Ray and Adkins",ORD78430,Completed,Crystal Jackson,Won,81.88
+2022-09-01,South,P003,Widget_C,4525,317050.42,307285.33,317050.42,C19308,"Taylor, Stewart and Cooke",ORD58677,Completed,Ashley Stevens,Won,92.81
+2024-09-01,South,P003,Widget_C,6478,563778.11,590331.93,563778.11,C96784,Patel Group,ORD38872,Completed,Carlos Bennett,Won,80.53
+2023-05-01,North,P005,Widget_E,9422,595669.73,566031.97,595669.73,C58620,"Middleton, Thompson and Neal",ORD80661,Completed,Dakota Pacheco MD,Lost,80.38
+2024-02-01,South,P005,Widget_E,6470,567801.18,589273.28,567801.18,C37460,Richmond-Johnson,ORD43349,Cancelled,Stephanie Dawson,Won,81.42
+2023-01-01,West,P001,Widget_A,8614,541734.73,532872.27,541734.73,C11535,Jones-Jenkins,ORD79506,Completed,Mercedes Richardson,Won,83.18
+2024-11-01,South,P005,Widget_E,8785,488585.34,467410.2,488585.34,C99207,Stephens Ltd,ORD87020,Completed,Amy Burns,Won,70.42
+2024-02-01,North,P005,Widget_E,3657,311451.2,315569.94,311451.2,C52606,Stanley Ltd,ORD19350,Completed,Rebecca Howard,Lead,80.92
+2024-03-01,South,P005,Widget_E,7284,526542.54,510893.66,526542.54,C39362,Phillips-Schmidt,ORD81665,Completed,Christina Gardner,Won,88.26
+2023-10-01,South,P001,Widget_A,5174,294697.63,285284.22,294697.63,C18267,Romero PLC,ORD42920,Cancelled,Jessica Martinez,Won,80.02
+2022-05-01,South,P001,Widget_A,6185,596935.35,567986.03,596935.35,C76986,Stafford-Patterson,ORD30580,Completed,Victoria Norman,Lost,86.33
+2024-03-01,West,P005,Widget_E,9439,799638.61,820456.56,799638.61,C75534,Mclaughlin-Turner,ORD34918,Completed,Jared Taylor,Won,91.34
+2023-11-01,West,P005,Widget_E,3346,182212.28,188030.56,182212.28,C46236,"Booth, Small and Campbell",ORD34921,Completed,Brianna Silva,Won,81.83
+2023-05-01,West,P003,Widget_C,8953,448370.58,467530.6,448370.58,C13432,Hall Ltd,ORD93326,Completed,Jose Richards,Lost,70.75
+2023-09-01,South,P003,Widget_C,8151,618956.11,616587.7,618956.11,C95503,Foster Ltd,ORD94189,Completed,Brian Foster,Won,75.44
+2024-11-01,North,P004,Widget_D,2074,126557.6,126009.11,126557.6,C43203,Potter-Harrison,ORD49974,Completed,Joshua Hale,Won,70.42
+2023-08-01,West,P004,Widget_D,1441,134143.49,133788.66,134143.49,C68129,Hopkins Group,ORD90110,Completed,Nathan Rogers,Won,76.02
+2023-12-01,South,P001,Widget_A,3395,233682.88,224867.84,233682.88,C95809,Nielsen PLC,ORD76117,Completed,Dr. Brian Mayo PhD,Won,76.95
+2024-05-01,South,P002,Widget_B,1851,179538.77,177435.75,179538.77,C53971,May-Williams,ORD63851,Completed,Tamara Donaldson,Lead,83.17
+2024-10-01,South,P003,Widget_C,4658,243203.0,239886.49,243203.0,C72212,"Arnold, Flores and Sanchez",ORD33829,Cancelled,Diana English,Won,87.64
+2023-02-01,South,P003,Widget_C,2492,191114.34,190601.62,191114.34,C28889,Green-Delacruz,ORD51281,Completed,Gary Hunter,Won,87.14
+2023-03-01,South,P001,Widget_A,3430,294279.02,290741.22,294279.02,C70930,Brown Group,ORD49585,Completed,Luis Owens,Lead,80.89
+2022-10-01,South,P002,Widget_B,8080,746834.45,744675.04,746834.45,C97862,"King, Ortiz and Rogers",ORD04303,Completed,Sarah May,Won,86.29
+2022-10-01,North,P004,Widget_D,6173,321882.67,312688.27,321882.67,C82637,Downs-Leonard,ORD34107,Completed,Christina Roberts,Won,73.82
+2025-01-01,South,P002,Widget_B,9067,465633.24,472302.5,465633.24,C74759,Stanley-Hart,ORD24426,Completed,John Bolton,Won,86.67
+2024-05-01,West,P003,Widget_C,6485,376247.5,388785.76,376247.5,C96792,Patel-Rice,ORD31853,Completed,Carrie Schneider,Won,79.62
+2023-08-01,North,P004,Widget_D,9494,932332.55,948439.65,932332.55,C94854,"Mendoza, Perry and Gray",ORD89641,Cancelled,Michael Martin,Lost,88.78
+2023-04-01,West,P002,Widget_B,3386,170589.53,163868.67,170589.53,C60399,"Baker, Gonzalez and Jones",ORD29842,Completed,Benjamin Lopez,Won,87.65
+2023-08-01,South,P001,Widget_A,8728,867896.34,833237.36,867896.34,C82410,"Cortez, Bridges and Larson",ORD02177,Completed,Benjamin Miller,Won,92.51
+2022-12-01,West,P003,Widget_C,2380,186621.64,190784.47,186621.64,C08456,"Abbott, Davis and Campbell",ORD00725,Completed,Benjamin Sampson,Won,73.78
+2023-03-01,West,P005,Widget_E,7609,385642.65,403773.58,385642.65,C32186,Little LLC,ORD11512,Completed,Elizabeth Patterson MD,Won,84.44
+2025-04-01,North,P004,Widget_D,5815,510152.24,519748.7,510152.24,C50352,Peterson-Johnson,ORD57265,Cancelled,Brenda Davis,Won,70.77
+2022-10-01,West,P004,Widget_D,7743,506338.42,504970.42,506338.42,C83074,"Ward, Vincent and Warren",ORD66855,Cancelled,Kayla Owen,Won,93.64
+2024-09-01,West,P001,Widget_A,1528,129664.94,132286.5,129664.94,C99642,Rowe-Thomas,ORD46419,Completed,Alyssa Smith,Won,77.23
+2023-04-01,South,P003,Widget_C,2919,148471.75,143318.42,148471.75,C42020,Goodman-Vasquez,ORD99328,Cancelled,Jesse Calhoun,Lead,80.75
+2023-09-01,West,P001,Widget_A,4741,366938.77,357742.78,366938.77,C33948,"Hartman, Evans and Marsh",ORD88583,Completed,Justin Duncan,Lost,82.98
+2025-05-01,North,P003,Widget_C,4896,263326.06,256780.63,263326.06,C80312,"Osborn, Park and Brown",ORD45382,Completed,Amy Robinson,Won,76.75
+2025-01-01,South,P004,Widget_D,3254,325359.89,339229.5,325359.89,C32424,Pittman-Mills,ORD07107,Cancelled,Cameron Potter,Won,94.96
+2024-08-01,West,P001,Widget_A,5244,486225.5,490713.91,486225.5,C53142,Ortiz PLC,ORD72419,Completed,Tonya Rodriguez,Won,84.98
+2024-02-01,West,P003,Widget_C,8720,769441.01,736301.73,769441.01,C26739,Boyd-Velez,ORD10732,Completed,Chase Clark,Won,82.74
+2024-08-01,West,P002,Widget_B,8829,448097.92,434675.95,448097.92,C81554,"Marshall, Miller and Brown",ORD33247,Completed,Sandra Chen,Lost,83.35
+2022-06-01,West,P005,Widget_E,6850,643923.71,629603.4,643923.71,C12143,Edwards and Sons,ORD42762,Completed,Michael Johnson,Lost,90.91
+2024-08-01,North,P004,Widget_D,8555,567255.43,587403.95,567255.43,C26934,Nash-Rivera,ORD64743,Completed,Lisa Williams,Lost,80.0
+2025-05-01,South,P004,Widget_D,6812,386388.64,373755.94,386388.64,C76544,"Reyes, Hicks and Lindsey",ORD45979,Completed,Rachel Davis,Lead,80.27
+2023-03-01,South,P001,Widget_A,9965,702839.91,725952.94,702839.91,C60290,Bowen Group,ORD85673,Completed,Nathan Brock,Won,87.97
+2023-09-01,South,P002,Widget_B,7052,495496.25,519290.75,495496.25,C67865,Stevenson-Lee,ORD89285,Completed,Jesse Kramer,Won,89.88
+2023-12-01,North,P004,Widget_D,6532,398709.53,411015.15,398709.53,C75792,Franco PLC,ORD19873,Cancelled,Jean Gomez,Won,70.57
+2023-08-01,South,P005,Widget_E,8457,481386.14,502615.0,481386.14,C22415,Conner-Green,ORD18107,Completed,Craig Montgomery,Won,77.53
+2024-06-01,South,P003,Widget_C,1484,117146.91,114196.94,117146.91,C53664,Snyder and Sons,ORD61889,Completed,Andrew Mckay,Won,94.59
+2022-06-01,West,P001,Widget_A,2722,147282.71,150434.41,147282.71,C51890,Parker-Burgess,ORD39380,Completed,Jessica Brooks,Lost,77.77
+2024-04-01,North,P003,Widget_C,3465,184163.61,187130.67,184163.61,C26294,Moore-Brown,ORD47063,Completed,Tyrone Hamilton,Won,77.85
+2024-07-01,West,P001,Widget_A,7212,473747.74,475847.02,473747.74,C37684,Sandoval Group,ORD86309,Completed,Alison Savage,Lost,79.94
+2022-07-01,South,P003,Widget_C,7658,434550.46,422703.52,434550.46,C77816,Hunt Group,ORD18424,Completed,Rachel Arias,Won,89.66
+2024-10-01,West,P003,Widget_C,6468,380835.37,397951.75,380835.37,C61406,Evans PLC,ORD14206,Completed,Kendra Joyce,Won,89.2
+2023-09-01,South,P002,Widget_B,8654,535731.11,551387.37,535731.11,C51084,Johnson-Rhodes,ORD64003,Completed,Natasha Sullivan,Lead,74.72
+2023-10-01,West,P005,Widget_E,1521,80360.14,76770.15,80360.14,C57905,Smith LLC,ORD88577,Completed,Charles Mcclain,Won,77.92
+2022-12-01,West,P005,Widget_E,6079,580384.0,586511.99,580384.0,C38028,"Orozco, Johnson and Pope",ORD54914,Completed,Maria Haynes,Won,88.9
+2023-07-01,West,P001,Widget_A,7434,478520.22,461753.98,478520.22,C04953,"Ballard, Kennedy and Dodson",ORD71183,Cancelled,Zachary Potter,Won,84.67
+2022-11-01,North,P002,Widget_B,3990,303699.63,298586.74,303699.63,C31387,"Hayes, Kelley and Rangel",ORD78667,Completed,Alicia Hendricks,Lead,78.75
+2023-04-01,South,P004,Widget_D,1605,92523.21,87914.76,92523.21,C70691,Smith-Preston,ORD49934,Completed,Sara Robinson,Lead,93.34
+2025-05-01,West,P004,Widget_D,7513,490074.17,485763.35,490074.17,C21235,Smith Ltd,ORD74420,Cancelled,Laura Campbell,Lead,89.03
+2024-04-01,West,P004,Widget_D,4791,389259.73,388496.45,389259.73,C14421,"Mckay, Flores and Clark",ORD38833,Completed,Brian Flores,Won,93.57
+2022-06-01,South,P003,Widget_C,6843,356512.06,344909.89,356512.06,C90307,Nelson Inc,ORD96402,Cancelled,Karen Hooper,Won,90.59
+2024-08-01,West,P003,Widget_C,8713,778601.98,746575.98,778601.98,C42288,"Mendoza, Cabrera and Collier",ORD31526,Completed,Richard Hess,Lost,77.85
+2023-09-01,South,P002,Widget_B,2794,236146.75,224733.42,236146.75,C05952,Wright Inc,ORD70675,Completed,Lynn Hess,Lead,73.12
+2023-04-01,North,P002,Widget_B,7993,462884.8,457610.85,462884.8,C86220,Bartlett-Neal,ORD79261,Completed,Kimberly Edwards,Won,76.42
+2023-09-01,South,P003,Widget_C,2462,183620.46,178294.99,183620.46,C21395,"Hanson, Lopez and Glass",ORD01938,Completed,Stephanie Mosley,Won,75.75
+2024-09-01,West,P002,Widget_B,4734,324716.14,330857.47,324716.14,C76611,"English, Lee and Sawyer",ORD59205,Completed,Lee Robinson,Won,74.1
+2024-05-01,North,P005,Widget_E,2526,217074.14,217891.94,217074.14,C54390,"Gibson, Brennan and Jones",ORD63654,Completed,Sean Alvarez,Won,81.02
+2023-09-01,North,P002,Widget_B,7924,560504.91,560505.01,560504.91,C51853,"Graham, Ho and Cross",ORD28260,Completed,Christina Donovan,Won,89.07
+2023-03-01,South,P003,Widget_C,1241,68404.91,66770.83,68404.91,C79458,"Mccullough, Martinez and Fernandez",ORD45333,Completed,Mary Cooper,Won,91.91
+2025-05-01,South,P002,Widget_B,9306,796326.95,812062.26,796326.95,C88245,Dalton PLC,ORD48718,Completed,Heather Williams,Won,77.56
+2024-03-01,South,P001,Widget_A,3785,273918.72,267897.19,273918.72,C27772,Becker PLC,ORD83917,Completed,Danielle Thomas,Won,86.92
+2022-11-01,West,P002,Widget_B,4823,442973.7,452345.24,442973.7,C87045,Rosario-Obrien,ORD46186,Completed,Michael Miller,Won,90.71
+2023-04-01,West,P005,Widget_E,9082,862829.41,905495.17,862829.41,C50817,"Morris, Davila and Skinner",ORD06276,Cancelled,Gloria Sanchez,Won,92.16
+2024-04-01,South,P002,Widget_B,1606,103035.77,99423.96,103035.77,C98871,Johnson Ltd,ORD14972,Completed,Natalie Stewart,Won,85.64
+2024-02-01,South,P003,Widget_C,6811,508547.23,528039.6,508547.23,C28505,Lam and Sons,ORD32860,Cancelled,Henry Preston,Lost,70.38
+2023-09-01,West,P005,Widget_E,5881,322567.34,321715.01,322567.34,C07009,Simpson PLC,ORD10284,Completed,Kimberly Anthony,Won,72.93
+2022-09-01,West,P001,Widget_A,8829,691163.41,700377.12,691163.41,C12710,Mcdonald Inc,ORD34482,Cancelled,Betty Smith,Lost,71.01
+2023-04-01,South,P005,Widget_E,1146,97634.62,99263.45,97634.62,C36665,Pierce-Hester,ORD34973,Completed,Jennifer Luna,Won,85.64
+2023-04-01,North,P002,Widget_B,4224,241986.1,235452.24,241986.1,C41832,"Peterson, Castillo and Williams",ORD96066,Completed,Michael Irwin,Won,92.72
+2024-10-01,North,P005,Widget_E,6912,420835.36,401539.64,420835.36,C27698,Diaz-Webster,ORD09522,Completed,Kaylee Baldwin,Lead,89.47
+2022-06-01,North,P002,Widget_B,2450,192175.12,188212.23,192175.12,C11787,Rogers LLC,ORD02024,Completed,Shawn Morris,Lost,90.52
+2022-09-01,West,P004,Widget_D,1669,141200.89,143502.19,141200.89,C77620,Mora LLC,ORD20197,Completed,Robert Gonzalez,Won,71.43
+2025-02-01,North,P003,Widget_C,4524,334256.79,332016.4,334256.79,C04249,Woods-Roth,ORD87800,Completed,Mary Reid,Won,94.41
+2023-04-01,North,P004,Widget_D,9728,805665.43,838133.55,805665.43,C12436,Hunter-Todd,ORD58387,Completed,Sherri Cowan,Won,84.58
+2022-12-01,South,P003,Widget_C,3941,355682.67,358073.24,355682.67,C94615,"Miller, Coleman and Glass",ORD08310,Completed,Renee Rodriguez,Won,74.49
+2024-05-01,North,P004,Widget_D,6925,461947.92,479838.74,461947.92,C58704,Murray-Kennedy,ORD42468,Completed,Carol Hahn,Won,77.37
+2022-05-01,West,P002,Widget_B,5461,470332.51,488237.7,470332.51,C12274,Medina LLC,ORD35832,Completed,Jordan Lawrence,Won,88.69
+2022-06-01,South,P003,Widget_C,8674,566198.6,548248.24,566198.6,C93447,"Walker, Barton and Garcia",ORD31756,Completed,Daniel Lynch,Won,79.93
+2024-08-01,North,P005,Widget_E,2347,180852.43,172683.29,180852.43,C37205,Cervantes-Bryant,ORD28411,Completed,Edwin Cherry,Won,88.58
+2024-03-01,West,P005,Widget_E,4879,412204.96,402381.89,412204.96,C88568,"Green, Frank and Lamb",ORD59077,Completed,Miss Courtney Martin DDS,Lost,77.11
+2024-06-01,North,P004,Widget_D,9907,979785.71,1021573.78,979785.71,C76165,Walker-Hernandez,ORD86754,Completed,Mrs. Andrea Herrera,Won,88.18
+2025-03-01,West,P004,Widget_D,8619,454084.6,449186.07,454084.6,C72574,"Henson, Mason and Banks",ORD52882,Completed,Jason House,Lost,83.35
+2023-05-01,South,P001,Widget_A,4900,267071.12,258376.59,267071.12,C47850,"Jones, Jackson and Peterson",ORD11941,Completed,Brooke Castaneda,Lead,81.57
+2023-02-01,North,P003,Widget_C,1168,76584.98,79582.3,76584.98,C52303,"Kirby, Black and Fleming",ORD42792,Completed,Nicole Flores,Lead,91.5
+2023-08-01,West,P005,Widget_E,1159,89862.3,89715.22,89862.3,C24076,Becker LLC,ORD29321,Completed,Mary Cunningham,Won,79.23
+2023-06-01,South,P005,Widget_E,3386,256601.11,261088.02,256601.11,C66943,"Moyer, Davis and Sanchez",ORD00656,Completed,Michelle Martinez,Won,72.17
+2022-11-01,West,P003,Widget_C,5855,457612.66,437880.79,457612.66,C42972,Martinez-Barrera,ORD08033,Cancelled,Mark Calderon,Won,80.19
+2025-03-01,South,P003,Widget_C,6582,420702.82,425495.06,420702.82,C61916,Williams-Dodson,ORD65467,Completed,Michael Griffin,Won,83.55
+2023-04-01,West,P003,Widget_C,7037,625391.31,636065.87,625391.31,C45945,"Hudson, Nelson and Cox",ORD57379,Completed,Adrienne Smith,Won,82.14
+2022-12-01,North,P001,Widget_A,9401,845782.34,839362.46,845782.34,C60583,Eaton LLC,ORD12868,Completed,William Moore,Won,81.38
+2023-08-01,North,P004,Widget_D,3912,330411.12,320368.87,330411.12,C15950,Li and Sons,ORD19394,Completed,Joshua Ashley,Won,92.78
+2022-09-01,North,P001,Widget_A,7412,482427.49,501256.91,482427.49,C12521,"Clark, Brown and Larson",ORD66383,Completed,Christian Burke,Lead,87.06
+2024-12-01,West,P001,Widget_A,5758,517543.09,530965.49,517543.09,C92759,"Anderson, Murphy and Moss",ORD77644,Completed,Anthony Elliott,Won,73.24
+2024-06-01,West,P002,Widget_B,2286,193398.85,191563.25,193398.85,C65581,Villanueva-Rice,ORD42925,Completed,Jeremy Henderson,Lead,94.45
+2023-03-01,West,P002,Widget_B,1467,83867.61,79729.56,83867.61,C70738,"Cruz, Sheppard and Fisher",ORD74444,Completed,Christine Munoz,Won,80.32
+2023-11-01,West,P002,Widget_B,4096,322710.61,320511.85,322710.61,C92008,Ryan-Stone,ORD12569,Completed,Russell Dudley,Lead,78.55
+2024-11-01,North,P004,Widget_D,6700,593808.2,607120.78,593808.2,C78066,"Silva, Cruz and Love",ORD01511,Completed,Sarah Contreras,Lead,78.05
+2025-01-01,West,P001,Widget_A,9982,836522.41,799587.78,836522.41,C89510,"Brady, Potter and Cunningham",ORD16266,Completed,David Day,Won,71.98
+2024-07-01,South,P003,Widget_C,3568,211185.02,201312.85,211185.02,C24120,Lewis-Wright,ORD47417,Completed,Walter Drake,Won,74.74
+2022-05-01,South,P005,Widget_E,8543,518608.7,543068.9,518608.7,C48229,Martinez Inc,ORD27210,Completed,Aaron Huber,Won,94.05
+2022-06-01,South,P002,Widget_B,3835,238949.22,242389.52,238949.22,C43337,"Wells, Lester and Zimmerman",ORD97809,Completed,Angela Jones,Won,74.3
+2025-03-01,West,P003,Widget_C,7140,540374.56,565331.37,540374.56,C82778,Matthews and Sons,ORD94677,Completed,Joseph Smith,Won,82.85
+2023-08-01,North,P005,Widget_E,5813,426256.09,432617.78,426256.09,C99700,Duke Group,ORD12872,Completed,Robin Peterson,Won,79.99
+2024-02-01,South,P001,Widget_A,9126,874631.5,870678.6,874631.5,C30357,Young-Walter,ORD83071,Completed,Tom Craig,Won,95.0
+2024-03-01,North,P005,Widget_E,9340,620161.41,606366.08,620161.41,C36170,Lee-Holmes,ORD26830,Completed,Reginald Vasquez,Won,83.78
+2024-03-01,South,P005,Widget_E,4889,475251.01,451781.82,475251.01,C99584,"Hernandez, Bean and Nguyen",ORD37985,Completed,Trevor Villa,Lost,91.7
+2023-04-01,North,P005,Widget_E,8031,530387.77,525409.86,530387.77,C90427,Stafford-Hayes,ORD37376,Completed,Andrew Roach,Won,90.22
+2024-01-01,South,P004,Widget_D,5076,474547.74,451574.7,474547.74,C86045,"Clark, Perkins and Jackson",ORD82697,Completed,Ariana Curtis,Lost,88.8
+2022-11-01,West,P003,Widget_C,9368,698636.79,727310.01,698636.79,C26751,Young-Neal,ORD68064,Completed,Mr. Gary Schneider Jr.,Lost,85.23
+2023-04-01,North,P005,Widget_E,2388,214101.05,208309.12,214101.05,C38720,Bradley-Johnson,ORD05263,Completed,Kimberly Smith,Won,88.24
+2022-11-01,West,P001,Widget_A,7855,515306.75,526447.71,515306.75,C72579,Aguilar Inc,ORD75730,Completed,Elaine Schmidt,Won,93.03
+2022-09-01,South,P005,Widget_E,8540,769328.98,764753.02,769328.98,C12589,"Sullivan, Cobb and Ray",ORD80748,Cancelled,Alexander Roy,Lost,75.12
+2022-10-01,West,P001,Widget_A,9217,916097.34,960164.74,916097.34,C45222,Ellis Ltd,ORD39929,Completed,Kimberly Peters,Won,82.68
+2024-04-01,North,P003,Widget_C,1287,103998.43,99581.75,103998.43,C71543,"Jones, Mann and Hahn",ORD93135,Completed,James Wolf,Lost,87.23
+2025-01-01,North,P004,Widget_D,9800,613154.17,641351.86,613154.17,C03740,"Cooper, Stevenson and Huffman",ORD60327,Completed,Kim Goodwin,Lost,71.34
+2022-05-01,South,P005,Widget_E,9101,836162.54,824488.17,836162.54,C94083,"Frank, Reed and Collins",ORD47796,Completed,Jonathan Savage,Won,78.24
+2022-07-01,South,P005,Widget_E,8885,481213.75,497973.01,481213.75,C34954,"Pacheco, Jacobs and Ray",ORD76684,Completed,Jennifer Walker,Lost,85.39
+2023-06-01,South,P005,Widget_E,3288,319343.04,309319.88,319343.04,C51416,Baker-Thomas,ORD37173,Completed,Danny Webb,Won,88.23
+2024-01-01,North,P004,Widget_D,4427,379330.81,396593.49,379330.81,C34837,"Bullock, Valdez and Ross",ORD02974,Completed,Daniel Ramirez,Lead,71.71
+2022-11-01,South,P004,Widget_D,7428,420055.39,428240.78,420055.39,C87182,Williams-Stuart,ORD75325,Completed,Dr. Carlos Benjamin DVM,Lost,89.33
+2023-01-01,West,P001,Widget_A,2178,181940.53,183497.15,181940.53,C39222,Newton LLC,ORD25162,Completed,Rachel Smith,Won,80.78
+2024-10-01,West,P005,Widget_E,3693,258228.79,263145.06,258228.79,C98133,"Lawson, Hoffman and Collins",ORD33311,Completed,Mr. Christopher Whitaker,Won,85.85
+2023-08-01,West,P002,Widget_B,1468,103311.96,98899.68,103311.96,C39989,Anderson-Lopez,ORD99074,Completed,Jessica Anderson,Lead,71.05
+2024-11-01,West,P001,Widget_A,4653,418005.48,403454.52,418005.48,C30872,"Miller, Haas and Lang",ORD30381,Completed,Kathy Mendoza,Won,93.08
+2023-05-01,South,P003,Widget_C,5139,513724.85,502490.35,513724.85,C91437,Johnson LLC,ORD21449,Completed,Tyrone Thompson,Won,84.6
+2025-05-01,South,P003,Widget_C,5256,509169.03,492477.07,509169.03,C61815,Smith Ltd,ORD67866,Completed,Terry Gonzales,Won,74.75
+2024-11-01,South,P002,Widget_B,9281,740385.81,713316.04,740385.81,C18030,"Gomez, Allen and Martinez",ORD28789,Completed,Kimberly Melton,Lead,75.86
+2022-10-01,West,P005,Widget_E,3706,327364.02,325653.15,327364.02,C48936,Owen and Sons,ORD57663,Completed,David Gross,Won,88.13
+2022-10-01,South,P003,Widget_C,2366,146377.96,145257.88,146377.96,C68442,"Carpenter, Young and Johnson",ORD16823,Completed,Devin Olsen,Won,91.91
+2023-04-01,South,P005,Widget_E,4869,288090.13,296945.47,288090.13,C45252,"Cook, Hopkins and Potts",ORD69605,Completed,Charles Williams,Lost,78.22
+2023-04-01,South,P002,Widget_B,8092,768823.83,771112.28,768823.83,C33069,Williams-Scott,ORD44391,Completed,Robert Armstrong,Lead,75.04
+2024-01-01,West,P003,Widget_C,8006,767981.77,757341.74,767981.77,C92655,"Harrison, Robertson and Mora",ORD82879,Completed,Joel Vasquez,Lost,70.02
+2022-07-01,North,P002,Widget_B,9905,565552.06,587734.1,565552.06,C45844,"Mora, Jackson and Holmes",ORD76065,Completed,Kevin Scott,Won,84.4
+2023-01-01,South,P001,Widget_A,8358,510284.85,531077.09,510284.85,C63463,Davidson LLC,ORD33719,Cancelled,Ryan Tanner,Lost,80.69
+2022-06-01,North,P002,Widget_B,9373,752182.45,757085.86,752182.45,C91945,"Anderson, Potter and Rios",ORD29442,Completed,Terry Bush,Won,94.18
+2024-03-01,North,P002,Widget_B,1619,145978.7,147421.22,145978.7,C82719,Dickerson Group,ORD78687,Completed,Angela Lopez,Won,80.3
+2025-03-01,North,P003,Widget_C,4009,327761.86,336806.38,327761.86,C46147,"Herman, Anderson and Wolf",ORD68017,Completed,William Gordon,Lost,87.87
+2022-07-01,South,P001,Widget_A,5629,458678.45,459894.39,458678.45,C54061,Hunt PLC,ORD33190,Completed,Kristy Rodriguez,Won,92.89
+2024-08-01,West,P005,Widget_E,2086,179127.43,173911.52,179127.43,C70319,"Browning, Lloyd and Waters",ORD68241,Completed,Amber Becker,Won,87.97
+2024-06-01,South,P003,Widget_C,6668,538321.59,565078.42,538321.59,C13062,Morrison-Franklin,ORD28398,Cancelled,Ryan Hogan,Lost,90.97
+2023-12-01,West,P003,Widget_C,8513,489652.22,471430.33,489652.22,C59953,Peters-Patterson,ORD31729,Completed,Alec Craig,Won,71.74
+2024-07-01,North,P003,Widget_C,2721,267754.63,279026.9,267754.63,C72634,Atkinson-Manning,ORD95912,Completed,Albert Davis,Won,83.5
+2022-11-01,South,P001,Widget_A,3547,321790.58,311073.62,321790.58,C56832,"Stevens, Dawson and Webb",ORD82759,Completed,Monica Mendoza,Won,70.99
+2024-06-01,West,P003,Widget_C,4172,405395.56,397910.44,405395.56,C45674,Lyons-Fisher,ORD99450,Completed,Matthew Gardner,Won,72.6
+2022-08-01,South,P002,Widget_B,4720,397078.78,413133.65,397078.78,C14625,Fox Ltd,ORD31656,Completed,Ashley Williamson,Lost,82.56
+2022-09-01,West,P002,Widget_B,9929,640751.36,639332.28,640751.36,C10475,Hernandez PLC,ORD11009,Completed,Jeffery Mercado,Won,81.69
+2024-09-01,South,P003,Widget_C,6334,532790.69,520295.77,532790.69,C46917,"Campbell, Marsh and Martin",ORD29627,Completed,Mr. Jeff Miller,Won,89.54
+2022-05-01,South,P005,Widget_E,5928,523905.31,542343.0,523905.31,C44959,Bates-Rodriguez,ORD69288,Completed,Mr. Tyler Medina,Won,70.03
+2025-03-01,South,P003,Widget_C,8005,726187.17,717235.64,726187.17,C26462,Conner-Alvarez,ORD07840,Completed,Stephanie Powell,Won,84.41
+2024-01-01,South,P005,Widget_E,6971,620290.74,597395.78,620290.74,C10051,Warner Group,ORD51196,Completed,Zachary Hoffman,Lost,86.18
+2025-01-01,North,P002,Widget_B,1636,96207.73,93050.33,96207.73,C02308,"Davis, Murray and Oliver",ORD28748,Cancelled,Regina Williams,Won,88.29
+2024-11-01,North,P005,Widget_E,4473,303929.46,318691.67,303929.46,C53520,Whitney-Wright,ORD52888,Cancelled,Sara Bell,Lost,78.28
+2024-08-01,West,P003,Widget_C,4304,215286.31,206252.01,215286.31,C78077,Young and Sons,ORD01095,Completed,Amanda Carter,Won,91.29
+2022-08-01,South,P002,Widget_B,2689,186442.02,191945.93,186442.02,C01597,"Burns, Vazquez and Dixon",ORD67210,Cancelled,Anita Bass,Lead,78.32
+2024-07-01,North,P003,Widget_C,3176,206070.2,203302.5,206070.2,C39663,"Vazquez, Marsh and Coleman",ORD49236,Completed,Jeremy Bailey,Won,87.73
+2024-01-01,West,P001,Widget_A,4068,255655.22,266313.32,255655.22,C12326,Maldonado-Stewart,ORD63513,Completed,Douglas Blevins,Won,94.08
+2023-01-01,South,P004,Widget_D,4946,285019.98,286566.45,285019.98,C98002,"Martin, Bell and Arnold",ORD87014,Completed,Lindsey Green,Won,88.77
+2024-06-01,South,P003,Widget_C,8230,746316.92,763913.47,746316.92,C16978,"Baker, George and Myers",ORD97917,Completed,Jose Sanchez,Won,92.35
+2023-01-01,North,P003,Widget_C,8551,847091.38,855100.12,847091.38,C86524,Fisher-Johnson,ORD55032,Completed,John Henry,Won,71.13
+2024-07-01,West,P002,Widget_B,4930,310511.26,324000.84,310511.26,C23477,"Garcia, King and Schneider",ORD09855,Completed,Zachary Olson,Won,92.27
+2024-12-01,South,P004,Widget_D,4349,265819.09,257931.27,265819.09,C00354,"Hart, Park and Owen",ORD19203,Completed,Pamela Guerra,Won,75.5
+2022-06-01,West,P001,Widget_A,2989,199149.39,194817.63,199149.39,C47177,Jones and Sons,ORD52051,Cancelled,Erin Summers,Won,76.21
+2022-06-01,West,P004,Widget_D,7183,640184.7,655722.12,640184.7,C15784,Hoover-Henry,ORD54264,Completed,Robin Lane,Lost,82.85
+2023-07-01,South,P002,Widget_B,6067,542615.04,563840.18,542615.04,C67678,Cobb-Berry,ORD65281,Completed,John Delgado,Won,91.32
+2023-05-01,South,P005,Widget_E,3451,260277.43,272662.7,260277.43,C91468,"Gonzalez, Perez and White",ORD67781,Completed,Ann Barrett,Won,76.18
+2022-05-01,South,P003,Widget_C,5147,408752.78,415967.55,408752.78,C37732,Kim-Howard,ORD13108,Cancelled,Tammy Ray,Won,80.9
+2022-07-01,South,P002,Widget_B,5467,297623.76,294479.18,297623.76,C59653,Gonzalez-Fox,ORD54454,Completed,Christina Pollard,Won,86.0
+2024-05-01,West,P003,Widget_C,1755,91488.78,90596.03,91488.78,C95367,Kennedy-Arias,ORD12017,Completed,Ashley Hamilton,Won,93.65
+2024-11-01,West,P005,Widget_E,2863,177555.18,170937.0,177555.18,C89440,Torres-Coffey,ORD57502,Completed,Melissa Pace,Won,77.09
+2025-05-01,West,P001,Widget_A,1835,157376.9,164748.29,157376.9,C59489,Martinez Group,ORD11796,Completed,Aaron Kirby,Won,71.8
+2023-12-01,West,P002,Widget_B,1120,78491.23,75773.88,78491.23,C35817,Mcintosh-Diaz,ORD75832,Completed,Meredith Collins,Won,82.55
+2023-03-01,West,P004,Widget_D,9073,844258.37,836126.46,844258.37,C59045,"Harris, King and Patel",ORD47869,Completed,Leslie Schwartz,Won,88.4
+2022-10-01,North,P003,Widget_C,3628,250157.62,239145.96,250157.62,C28377,Lopez-Fleming,ORD72869,Completed,Stephanie Stanley,Won,77.63
+2025-05-01,West,P005,Widget_E,6747,364053.11,380843.52,364053.11,C66189,Reynolds-Wilkinson,ORD67464,Completed,Patricia Smith,Lost,79.21
+2025-02-01,South,P001,Widget_A,6237,539691.6,516075.38,539691.6,C88134,Stone Group,ORD94961,Completed,Marcus Palmer,Won,76.73
+2024-06-01,North,P001,Widget_A,9042,751997.22,760608.28,751997.22,C77005,Davis PLC,ORD59319,Completed,John Lewis,Lost,83.7
+2023-04-01,North,P002,Widget_B,7205,609590.0,599382.71,609590.0,C56277,"Reed, Smith and Henson",ORD42194,Completed,Brandon Fritz,Won,77.96
+2024-03-01,West,P001,Widget_A,9165,547835.02,562084.28,547835.02,C54695,Price Group,ORD02106,Completed,Joseph Oliver,Won,79.29
+2022-05-01,North,P003,Widget_C,9377,842716.51,862942.94,842716.51,C33073,Patel Ltd,ORD79459,Completed,Raymond Lam,Lead,84.02
+2023-07-01,West,P003,Widget_C,9278,729785.7,740203.7,729785.7,C14891,"Robinson, Jones and Duncan",ORD22635,Completed,Jonathan Burns,Lead,74.13
+2024-12-01,West,P004,Widget_D,7320,477011.53,496909.01,477011.53,C82415,Cole Group,ORD12671,Completed,Lisa Perez,Won,91.95
+2025-03-01,West,P005,Widget_E,7141,665096.94,687375.25,665096.94,C65747,Wade Ltd,ORD19627,Completed,Travis Moody,Won,89.72
+2025-02-01,West,P003,Widget_C,2248,139507.32,137084.36,139507.32,C15493,Neal LLC,ORD32060,Completed,Maria Berg,Lost,74.1
+2023-03-01,West,P003,Widget_C,8999,810397.2,822670.1,810397.2,C22013,Clark-Allen,ORD73176,Completed,Tammy Villegas,Won,73.97
+2023-10-01,West,P004,Widget_D,1707,113277.42,112168.61,113277.42,C91513,Kim-Miller,ORD30926,Completed,Natalie Robinson,Lost,90.23
+2022-07-01,North,P004,Widget_D,9917,806926.33,768196.44,806926.33,C38685,Salazar-Stone,ORD51795,Completed,Paul Jackson,Lost,78.88
+2024-08-01,West,P004,Widget_D,6259,497906.44,502743.14,497906.44,C84472,"Harvey, Williams and Scott",ORD85635,Completed,Summer Gilmore,Won,75.26
+2022-09-01,North,P005,Widget_E,8341,444300.48,458584.3,444300.48,C30248,"Carlson, Benjamin and Brown",ORD77819,Completed,Joseph Simon,Lead,77.62
+2024-02-01,North,P002,Widget_B,2969,293764.51,292678.35,293764.51,C96094,Pacheco and Sons,ORD44201,Completed,Brian Smith,Won,92.57
+2025-04-01,West,P003,Widget_C,3143,239571.12,235392.39,239571.12,C35672,"Thompson, Munoz and Keller",ORD44433,Completed,James Boyd,Won,86.69
+2023-02-01,South,P005,Widget_E,6377,580471.61,575249.18,580471.61,C51955,Miller Group,ORD47000,Completed,Grant Grant,Won,78.53
+2023-10-01,North,P005,Widget_E,7574,686771.41,675661.84,686771.41,C59002,Allen PLC,ORD03270,Completed,Mitchell Williams,Won,73.76
+2024-11-01,South,P005,Widget_E,8597,752793.54,787873.33,752793.54,C88479,"Mejia, Torres and Wall",ORD29641,Completed,Angela Bautista,Won,89.54
+2024-03-01,North,P003,Widget_C,8838,724257.51,700113.24,724257.51,C89839,Schneider Inc,ORD49381,Completed,Christopher Williams,Won,88.41
+2022-05-01,West,P004,Widget_D,3691,245714.1,250114.76,245714.1,C95023,"Smith, Shaw and Stevens",ORD84587,Completed,Seth Grant,Won,85.55
+2023-05-01,West,P003,Widget_C,4374,414450.17,431246.44,414450.17,C10895,Wilson Ltd,ORD56507,Completed,John Hill,Won,83.81
+2024-07-01,South,P001,Widget_A,7476,632322.61,650916.44,632322.61,C29377,Johnston-Orr,ORD31318,Completed,Cody Perez,Lead,78.01
+2022-12-01,West,P004,Widget_D,6835,528875.87,510541.58,528875.87,C92696,"Barker, Rodriguez and Johnson",ORD26142,Completed,Laura Luna,Lead,80.93
+2025-02-01,North,P002,Widget_B,9836,657747.82,635775.67,657747.82,C56974,"King, Rodriguez and Morgan",ORD95287,Completed,Erin King,Won,88.15
+2023-05-01,North,P005,Widget_E,7767,677911.03,702012.39,677911.03,C06518,"Moore, Beltran and Gregory",ORD97083,Completed,Maureen Fox,Lost,83.91
+2025-03-01,South,P004,Widget_D,9537,701173.47,684932.06,701173.47,C95590,"Miller, Knight and Fitzgerald",ORD50151,Completed,Eddie Patel,Won,92.55
+2024-05-01,South,P005,Widget_E,3890,354867.19,345909.74,354867.19,C01099,Hernandez-Williams,ORD44481,Completed,Jonathan Sanders,Lost,77.1
+2023-07-01,South,P005,Widget_E,4975,470102.43,456453.68,470102.43,C44717,"Flores, Michael and Evans",ORD07192,Completed,David Mitchell,Won,80.38
+2025-01-01,West,P005,Widget_E,8153,789801.39,785608.37,789801.39,C86686,"Gentry, Erickson and Schmidt",ORD11367,Completed,Renee Navarro,Won,91.41
+2023-02-01,South,P004,Widget_D,1044,69446.34,66367.51,69446.34,C94022,"Huff, Lynch and Davis",ORD19103,Completed,Briana Casey,Won,92.07
+2023-01-01,South,P002,Widget_B,1033,51866.2,49664.14,51866.2,C96593,"Sanchez, Holland and Gonzalez",ORD68053,Cancelled,Matthew Lee,Lost,84.27
+2024-02-01,South,P002,Widget_B,8320,535864.75,546759.3,535864.75,C83064,"Mcintyre, Jones and Davis",ORD19456,Completed,Charles Washington,Won,84.31
+2023-10-01,West,P004,Widget_D,2279,211291.96,208863.16,211291.96,C55556,Gomez-Hunt,ORD85819,Completed,Tiffany Prince,Won,93.03
+2023-04-01,West,P005,Widget_E,4783,405658.43,392389.25,405658.43,C20400,Mooney-Robinson,ORD27691,Completed,Douglas Shaffer,Won,81.24
+2025-03-01,West,P003,Widget_C,9601,852428.43,840605.59,852428.43,C43932,Johnson Ltd,ORD71289,Completed,Teresa Anderson,Lost,84.93
+2023-03-01,North,P002,Widget_B,9987,719263.45,718858.95,719263.45,C24677,"Hamilton, Friedman and Smith",ORD74160,Completed,Jessica Green,Won,84.26
+2025-04-01,South,P001,Widget_A,8991,693793.87,727050.49,693793.87,C80689,"Wood, Smith and Smith",ORD65097,Completed,Melissa Barrett,Lost,70.89
+2022-06-01,West,P004,Widget_D,5963,407271.17,413224.69,407271.17,C22494,Vasquez Ltd,ORD97329,Completed,Sarah Arnold,Won,70.26
+2023-02-01,South,P004,Widget_D,5238,342822.72,336003.85,342822.72,C32348,"Green, Andersen and Finley",ORD21484,Completed,Richard Jackson,Won,80.97
+2023-02-01,West,P003,Widget_C,1941,145955.47,147720.26,145955.47,C03133,Wood-Torres,ORD59366,Completed,Kayla Wells,Won,77.74
+2024-02-01,South,P003,Widget_C,1918,117312.51,122624.15,117312.51,C94110,Rojas LLC,ORD78388,Completed,Maria Holt,Won,76.83
+2023-10-01,South,P005,Widget_E,8078,650648.37,634317.6,650648.37,C35927,"Schmidt, Mcgee and Bell",ORD36840,Completed,Phillip Harding,Won,81.04
+2022-09-01,West,P003,Widget_C,6045,435680.36,415610.6,435680.36,C37887,"Hendricks, Thompson and Underwood",ORD18955,Completed,Rachel Harris,Lost,80.48
+2024-11-01,West,P004,Widget_D,7258,591669.8,580586.74,591669.8,C79214,Baker Inc,ORD55404,Completed,Tara Carlson,Won,70.05
+2024-01-01,North,P002,Widget_B,1093,105248.96,102046.94,105248.96,C75925,Bullock Group,ORD25796,Completed,Katelyn Phillips,Won,72.74
+2024-10-01,North,P004,Widget_D,4223,291607.28,283220.74,291607.28,C06576,"Moran, Williams and Taylor",ORD94162,Completed,Brandon Turner,Won,92.17
+2023-11-01,West,P004,Widget_D,5444,446539.31,457618.48,446539.31,C57568,"Myers, Kirk and Russell",ORD77316,Completed,Katherine Hernandez,Won,82.91
+2023-03-01,South,P005,Widget_E,2805,152215.01,149592.23,152215.01,C55562,"Gibson, Green and Anderson",ORD10695,Completed,Jennifer Molina,Won,72.54
+2022-12-01,South,P004,Widget_D,4025,263978.76,252095.36,263978.76,C67954,Day Inc,ORD31638,Completed,Michael Stewart,Won,70.84
+2022-08-01,West,P004,Widget_D,2951,236868.59,236144.2,236868.59,C29912,"Richardson, Osborne and Martinez",ORD73713,Completed,Rebecca Hood,Won,86.92
+2022-07-01,South,P002,Widget_B,2983,272512.5,278883.06,272512.5,C71845,"Pineda, Howell and Hogan",ORD57238,Completed,William Williams,Won,88.0
+2023-01-01,West,P004,Widget_D,7827,420101.08,418182.69,420101.08,C44085,"Taylor, Powers and Dillon",ORD08185,Completed,Steven Hamilton,Won,78.7
+2025-03-01,West,P002,Widget_B,6620,633598.29,626934.16,633598.29,C32224,Golden-Hartman,ORD28203,Completed,James Hammond,Won,72.73
+2023-01-01,West,P003,Widget_C,9028,495629.12,502452.31,495629.12,C04143,"Melton, Farrell and Turner",ORD29497,Cancelled,Natalie Gomez,Won,72.88
+2024-04-01,South,P003,Widget_C,2158,172098.19,164625.92,172098.19,C55513,"Weber, Jackson and Stone",ORD04846,Cancelled,Sean Hanna,Won,77.92
+2024-07-01,South,P003,Widget_C,5318,290098.0,281188.78,290098.0,C43545,Schultz-Brown,ORD94206,Completed,Jordan Mullins,Lead,92.26
+2022-08-01,South,P003,Widget_C,8185,437216.73,424098.9,437216.73,C57381,Riggs Ltd,ORD24851,Completed,Nicole Hall,Won,88.54
+2024-09-01,South,P001,Widget_A,6556,528248.45,509494.49,528248.45,C09287,Vazquez-Sims,ORD58061,Completed,Steven Mitchell,Won,75.0
+2024-07-01,South,P005,Widget_E,2497,158375.23,163025.92,158375.23,C55156,Cooper LLC,ORD00407,Completed,Michaela Elliott,Won,88.23
+2022-07-01,North,P001,Widget_A,1922,116098.76,112312.0,116098.76,C63862,Haney PLC,ORD48296,Completed,Kelly Brown,Won,70.68
+2024-10-01,West,P002,Widget_B,1813,140367.09,145517.02,140367.09,C87190,Evans LLC,ORD93723,Completed,Mark Cohen,Won,85.59
+2024-12-01,West,P005,Widget_E,4666,361200.51,379118.15,361200.51,C40385,Coleman Group,ORD01863,Completed,Stacie Miller,Won,84.38
+2024-11-01,South,P003,Widget_C,5860,505785.36,528602.31,505785.36,C05488,Garcia Group,ORD68371,Completed,Wendy Wells,Won,77.08
+2022-05-01,North,P001,Widget_A,5299,448612.68,460849.33,448612.68,C75902,"Cox, Acosta and Villanueva",ORD19389,Completed,Mathew Vincent,Won,91.61
+2023-05-01,South,P001,Widget_A,9792,775868.77,794170.37,775868.77,C40846,Wilcox LLC,ORD66650,Completed,Janice Jackson,Won,82.1
+2025-04-01,North,P003,Widget_C,7511,401996.31,412690.41,401996.31,C17517,"Gonzalez, Richards and Gomez",ORD99128,Completed,Richard Duke,Won,75.53
+2025-02-01,West,P003,Widget_C,4625,234233.48,239185.62,234233.48,C81198,West Inc,ORD19075,Completed,Angel Rice,Won,94.83
+2022-06-01,North,P003,Widget_C,4096,221958.36,224567.86,221958.36,C31146,Clark and Sons,ORD24929,Completed,Luke Reyes,Won,79.06
+2024-08-01,North,P002,Widget_B,8226,811906.03,795057.16,811906.03,C44114,Weber LLC,ORD03617,Completed,Grace Carrillo,Lost,87.68
+2024-02-01,South,P004,Widget_D,6140,373345.11,387164.27,373345.11,C24839,Turner-Price,ORD01098,Completed,John Clark,Won,93.65
+2022-10-01,West,P005,Widget_E,1060,81628.93,83907.55,81628.93,C25611,"Duke, Henry and Thomas",ORD84300,Completed,Tim Keith,Lost,73.47
+2024-04-01,West,P003,Widget_C,3040,216086.63,217574.29,216086.63,C56503,Pena-Huff,ORD38216,Completed,Brianna Jimenez,Won,79.95
+2024-04-01,West,P002,Widget_B,4243,271867.18,284451.52,271867.18,C26246,Jackson-Hall,ORD27642,Completed,Nathan Smith,Lost,88.97
+2023-11-01,West,P005,Widget_E,5991,383457.28,384471.99,383457.28,C51981,Rogers Group,ORD67961,Completed,Katherine Lamb,Won,92.12
+2023-12-01,South,P003,Widget_C,8627,851501.69,813242.29,851501.69,C28641,Morris-Williams,ORD50552,Completed,Cody Jackson,Won,90.63
+2025-04-01,South,P003,Widget_C,9084,828416.87,853324.66,828416.87,C48899,"Moore, Hart and Gonzalez",ORD74694,Completed,Steven Davis,Won,85.2
+2022-08-01,North,P001,Widget_A,1860,155769.52,160962.44,155769.52,C34362,"Wilson, Griffin and Howard",ORD33537,Completed,Wanda Henry,Won,74.77
+2023-12-01,West,P005,Widget_E,6343,461855.55,474380.24,461855.55,C47399,"Fischer, Glover and Wilson",ORD89666,Completed,Erin Nelson,Won,83.51
+2022-07-01,North,P003,Widget_C,8867,612506.94,600839.66,612506.94,C65644,Bailey Ltd,ORD93913,Completed,Emma Wright,Lost,74.93
+2023-04-01,West,P002,Widget_B,4566,375677.09,374932.38,375677.09,C82708,Thompson PLC,ORD78183,Completed,Thomas Martinez,Won,94.16
+2023-07-01,South,P001,Widget_A,8763,568269.52,554878.22,568269.52,C26416,Miller-Woods,ORD51400,Completed,Riley Miller,Won,75.84
+2024-05-01,West,P004,Widget_D,4944,401813.82,413914.7,401813.82,C92050,Taylor-Hart,ORD52748,Completed,Michael White,Won,87.17
+2023-06-01,South,P001,Widget_A,3044,302039.88,311551.52,302039.88,C34993,"Rios, Evans and Pacheco",ORD06913,Completed,Alicia Lucas,Lost,86.48
+2024-12-01,West,P003,Widget_C,1851,122982.16,125859.15,122982.16,C08643,"Hunt, Wright and Mckinney",ORD04171,Completed,Craig Cardenas,Won,70.82
+2023-11-01,West,P004,Widget_D,1141,106150.11,102950.21,106150.11,C02460,Beltran-Oneill,ORD71179,Completed,Kimberly Lee,Won,75.68
+2022-10-01,South,P004,Widget_D,5724,377919.9,365596.3,377919.9,C36065,"Scott, Frederick and Miller",ORD76219,Completed,Tonya Harris,Won,86.71
+2025-05-01,South,P005,Widget_E,7257,540689.47,546993.53,540689.47,C62202,Oneal Group,ORD67349,Completed,Wesley Fox,Won,71.84
+2025-01-01,North,P004,Widget_D,1635,83417.2,84999.16,83417.2,C62429,Perez-Alexander,ORD07868,Completed,Tiffany Miranda,Won,83.27
+2025-03-01,West,P001,Widget_A,7882,550767.47,537972.2,550767.47,C35662,"Clark, Hansen and Charles",ORD66670,Completed,Logan Thomas,Lead,91.45
+2024-01-01,North,P004,Widget_D,1595,100899.3,102353.23,100899.3,C99607,Velasquez Inc,ORD33468,Completed,Lisa Callahan,Won,88.26
+2024-06-01,North,P005,Widget_E,3390,221593.38,228604.84,221593.38,C70612,Harris LLC,ORD26136,Completed,Lisa Conley,Won,75.38
+2023-09-01,North,P005,Widget_E,6896,432715.02,437165.6,432715.02,C41543,"Collins, Mitchell and Robinson",ORD93427,Completed,Martha Norton,Lead,74.41
+2023-05-01,North,P004,Widget_D,2335,164119.3,158607.12,164119.3,C99251,"Brown, Lewis and Todd",ORD55216,Completed,Beth Ortega,Lost,92.03
+2023-02-01,North,P005,Widget_E,6039,432550.83,449663.11,432550.83,C55138,"Dixon, Long and Coleman",ORD18276,Cancelled,Kenneth Thomas,Lost,72.97
+2023-11-01,North,P004,Widget_D,6123,468308.98,446028.31,468308.98,C43985,Alvarez Ltd,ORD48040,Completed,Brian Sherman,Lost,83.84
+2023-02-01,South,P003,Widget_C,4759,272657.55,263625.54,272657.55,C62276,Jones-Baker,ORD65307,Completed,Sean Cline,Lost,74.15
+2022-05-01,North,P002,Widget_B,7446,440422.23,434040.06,440422.23,C26545,Marquez-Booker,ORD96710,Completed,Dana Singleton,Won,77.62
+2023-08-01,West,P002,Widget_B,1783,90077.25,92764.2,90077.25,C55440,Gonzalez and Sons,ORD71630,Completed,Robert Hayden,Lead,90.81
+2022-09-01,North,P002,Widget_B,9784,687066.53,657843.04,687066.53,C94749,Cantrell-Martinez,ORD38740,Completed,Elizabeth Alvarez,Lost,74.57
+2022-10-01,North,P005,Widget_E,9609,656964.52,632276.49,656964.52,C18326,Waters LLC,ORD43719,Completed,Kyle Walsh,Lead,85.8
+2023-01-01,North,P005,Widget_E,1960,102584.0,101704.18,102584.0,C23747,"Johnson, Adams and Tate",ORD07877,Completed,Robin Davis,Won,80.29
+2022-09-01,North,P002,Widget_B,3767,331222.54,316611.53,331222.54,C01663,Miranda-Nicholson,ORD36091,Completed,Brian Miller,Won,90.38
+2023-09-01,North,P003,Widget_C,1455,125344.1,119540.63,125344.1,C66836,Phillips and Sons,ORD41940,Completed,Jennifer Stokes DDS,Won,84.9
+2024-11-01,North,P001,Widget_A,1126,97269.53,96945.39,97269.53,C17435,Mitchell Ltd,ORD07200,Completed,Sharon Grimes,Won,72.48
+2025-05-01,West,P004,Widget_D,5799,347497.56,332633.48,347497.56,C66911,Fritz-Howard,ORD36177,Completed,Dawn Ruiz,Lost,73.12
+2022-10-01,North,P004,Widget_D,7915,412333.89,425646.64,412333.89,C71777,"Thomas, Neal and Harris",ORD66675,Completed,Chelsey Gomez,Won,89.79
+2023-10-01,North,P001,Widget_A,9829,813269.05,791251.06,813269.05,C72753,Harrison-Young,ORD98758,Cancelled,Randy Reeves,Won,89.99
+2023-04-01,West,P004,Widget_D,6610,527427.28,543834.32,527427.28,C89667,Dennis-Cochran,ORD15717,Completed,Richard Lopez,Won,76.85
+2024-01-01,West,P003,Widget_C,7272,657144.1,635411.63,657144.1,C82001,Edwards Inc,ORD35781,Completed,James Rivera,Lead,72.97
+2022-08-01,West,P001,Widget_A,5183,454249.53,464571.22,454249.53,C65244,Walls-Elliott,ORD70228,Completed,Jonathan Kennedy,Won,89.23
+2025-04-01,South,P001,Widget_A,5668,321401.85,317506.65,321401.85,C32044,"Middleton, Howard and Reyes",ORD55301,Completed,Wayne Clark,Won,90.8
+2023-04-01,West,P004,Widget_D,9008,687245.2,706423.61,687245.2,C25087,Flowers-Schwartz,ORD17721,Completed,Christina Gomez,Won,70.18
+2023-11-01,West,P005,Widget_E,5214,282083.56,273246.38,282083.56,C81943,"Spencer, Howell and Freeman",ORD48352,Completed,Hannah Craig,Lost,76.8
+2024-06-01,South,P002,Widget_B,1459,127924.23,130635.05,127924.23,C62741,Walters PLC,ORD93011,Completed,Thomas Harper,Lost,70.1
+2024-06-01,West,P004,Widget_D,4258,383032.21,396671.69,383032.21,C86710,Galvan-Wells,ORD98828,Completed,Emily Russell,Won,77.48
+2025-03-01,West,P001,Widget_A,7987,547777.69,559107.08,547777.69,C44225,Wilson Group,ORD22446,Completed,Jesse Bowers,Lost,80.23
+2023-07-01,North,P001,Widget_A,6540,403370.36,389688.36,403370.36,C18874,Morton Group,ORD40043,Completed,Rebecca Freeman,Lost,81.43
+2023-02-01,South,P003,Widget_C,3746,354005.94,346895.35,354005.94,C00638,Smith-Arellano,ORD06702,Completed,Carol Russell,Lost,76.89
+2022-11-01,North,P004,Widget_D,2653,194482.77,192734.76,194482.77,C71321,"Stewart, Gomez and Bean",ORD27838,Completed,Vanessa Mann,Won,74.48
+2023-10-01,South,P004,Widget_D,1787,163858.77,162725.09,163858.77,C85427,Robinson-Smith,ORD76930,Cancelled,Brian Booker,Won,90.13
+2023-03-01,West,P004,Widget_D,4669,373094.3,357603.73,373094.3,C36800,Powell Ltd,ORD05857,Completed,Michelle Lyons,Won,92.12
+2024-02-01,North,P004,Widget_D,3677,347751.0,360038.12,347751.0,C37944,Blevins-Sanchez,ORD01417,Completed,William Watkins,Lost,93.89
+2024-06-01,West,P004,Widget_D,3029,192921.56,185445.83,192921.56,C79603,Jones Group,ORD00811,Completed,Jonathan Fleming,Won,91.44
+2025-01-01,South,P003,Widget_C,2094,176687.24,175052.07,176687.24,C74488,Tucker and Sons,ORD60790,Completed,Charles Allen,Won,76.4
+2025-02-01,North,P002,Widget_B,4231,237318.07,246685.7,237318.07,C06345,Lyons-Meyers,ORD11131,Completed,Timothy Fowler,Won,89.05
+2023-02-01,West,P003,Widget_C,3600,215616.2,220286.82,215616.2,C41955,"Leon, Thompson and Hernandez",ORD47266,Completed,William Joseph,Won,80.83
+2025-05-01,North,P002,Widget_B,8892,719352.98,748182.53,719352.98,C10357,Knight PLC,ORD62149,Completed,Rachel Snow,Won,72.67
+2023-12-01,West,P002,Widget_B,7970,512447.28,488109.6,512447.28,C85759,"Martin, Harrington and Solis",ORD54058,Completed,Karina Allen,Won,85.42
