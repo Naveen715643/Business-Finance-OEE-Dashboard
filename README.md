@@ -112,7 +112,7 @@ Target users:
 
 
 
-![Finance Overview](https://github.com/Naveen715643/Business-Finance-OEE-Dashboard/tree/main/Business%20Finance%20OEE%20Dashboard%20Screenshots)
+![Finance Overview](https://github.com/Naveen715643/Business-Finance-OEE-Dashboard/tree/main/Images)
 
 ## 💡 Key Insights Generated
 
